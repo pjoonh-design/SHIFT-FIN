@@ -1,8 +1,110 @@
 {
- "status": "pending",
- "updatedAt": "2026-10-21T18:43+09:00",
- "message": "FINLIFE_API_KEY 등록 대기",
- "stale": true,
- "lastError": "GET 실패: https://finlife.fss.or.kr/finlifeapi/depositProductsSearch.json?auth=***&topFinGrpNo=020000&pageNo=1 (<urlopen error timed out>)",
- "lastErrorAt": "2026-10-21T18:53+09:00"
+ "status": "ok",
+ "updatedAt": "2026-10-21T19:02+09:00",
+ "source": "금융감독원 금융상품한눈에",
+ "month": "202610",
+ "deposit": [
+  {
+   "bank": "전북은행",
+   "product": "JB 다이렉트예금통장\n(만기일시지급식)",
+   "rate": 3.92,
+   "maxRate": 3.92,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  },
+  {
+   "bank": "전북은행",
+   "product": "JB 다이렉트(자유만기) 예금",
+   "rate": 3.92,
+   "maxRate": 3.92,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  },
+  {
+   "bank": "한국스탠다드차타드은행",
+   "product": "e-그린세이브예금",
+   "rate": 3.85,
+   "maxRate": 4.05,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  },
+  {
+   "bank": "수협은행",
+   "product": "헤이(Hey)정기예금",
+   "rate": 3.81,
+   "maxRate": 3.81,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  },
+  {
+   "bank": "토스뱅크 주식회사",
+   "product": "토스뱅크 원하는 날 만기되는 정기예금",
+   "rate": 3.8,
+   "maxRate": 3.8,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  }
+ ],
+ "saving": [
+  {
+   "bank": "한국산업은행",
+   "product": "KDB 자유적금",
+   "rate": 3.8,
+   "maxRate": 3.8,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  },
+  {
+   "bank": "주식회사 케이뱅크",
+   "product": "코드K 자유적금",
+   "rate": 3.8,
+   "maxRate": 3.8,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  },
+  {
+   "bank": "주식회사 카카오뱅크",
+   "product": "카카오뱅크 자유적금",
+   "rate": 3.75,
+   "maxRate": 3.95,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  },
+  {
+   "bank": "주식회사 케이뱅크",
+   "product": "주거래우대 자유적금",
+   "rate": 3.7,
+   "maxRate": 4.3,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  },
+  {
+   "bank": "수협은행",
+   "product": "Sh해양플라스틱Zero!적금\n(자유적립식)",
+   "rate": 3.65,
+   "maxRate": 4.15,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  }
+ ]
 }
