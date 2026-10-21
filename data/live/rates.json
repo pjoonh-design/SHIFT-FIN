@@ -1,5 +1,8 @@
 {
  "status": "pending",
  "updatedAt": "2026-10-21T18:43+09:00",
- "message": "FINLIFE_API_KEY 등록 대기"
+ "message": "FINLIFE_API_KEY 등록 대기",
+ "stale": true,
+ "lastError": "GET 실패: https://finlife.fss.or.kr/finlifeapi/depositProductsSearch.json?auth=***&topFinGrpNo=020000&pageNo=1 (<urlopen error timed out>)",
+ "lastErrorAt": "2026-10-21T18:53+09:00"
 }
