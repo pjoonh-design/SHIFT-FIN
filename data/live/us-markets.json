@@ -59,5 +59,8 @@
    "changePct": -7.75
   }
  ],
- "errors": []
+ "errors": [],
+ "stale": true,
+ "lastError": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+ "lastErrorAt": "2026-10-22T07:26+09:00"
 }
