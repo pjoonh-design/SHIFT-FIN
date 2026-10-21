@@ -7,6 +7,7 @@
 """
 import json
 import os
+import re
 import urllib.parse
 
 from common import FetchError, http_get, now_iso, to_float
@@ -35,6 +36,12 @@ def merge_pages(payloads):
     return {"result": {"err_cd": "000", "baseList": base_list, "optionList": option_list}}
 
 
+def clean(name):
+    """'주식회사 케이뱅크' → '케이뱅크', 줄바꿈·겹친 공백 정리"""
+    name = re.sub(r"\s*주식회사\s*", " ", str(name or ""))
+    return " ".join(name.split())
+
+
 def parse_products(payload, top=5, term="12"):
     result = check_result(payload)
     bases = {(b.get("fin_co_no"), b.get("fin_prdt_cd")): b for b in result.get("baseList", [])}
@@ -51,7 +58,7 @@ def parse_products(payload, top=5, term="12"):
         if k in best and best[k]["rate"] >= rate:
             continue
         best[k] = {
-            "bank": b.get("kor_co_nm"), "product": b.get("fin_prdt_nm"),
+            "bank": clean(b.get("kor_co_nm")), "product": clean(b.get("fin_prdt_nm")),
             "rate": rate, "maxRate": max_rate if max_rate is not None else rate,
             "term": int(term), "type": o.get("intr_rate_type_nm") or "",
             "open": str(b.get("join_deny")) == "1",   # 1: 가입 제한 없음
@@ -99,7 +106,8 @@ def fetch(key):
     if not out["deposit"] and not out["saving"]:
         raise FetchError("금리 상품을 찾지 못했어요")
     month = next((x["month"] for x in out["deposit"] + out["saving"] if x.get("month")), None)
-    return {"status": "ok", "updatedAt": now_iso(), "source": "금융감독원 금융상품한눈에", "month": month, **out}
+    return {"status": "ok", "updatedAt": now_iso(), "source": "금융감독원 금융상품한눈에", "month": month,
+            "via": base.split(":")[0], **out}
 
 
 if __name__ == "__main__":

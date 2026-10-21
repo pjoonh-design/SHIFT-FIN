@@ -14,6 +14,10 @@ from common import FetchError, http_post_json, now_iso
 MODELS = [m for m in [os.environ.get("GEMINI_MODEL"), "gemini-3.5-flash-lite", "gemini-flash-lite-latest",
                       "gemini-flash-latest", "gemini-2.5-flash"] if m]
 NUM = re.compile(r"[-+]?\d[\d,]*\.?\d*")
+# 숫자를 한글로 풀어 쓰면 검증을 피해 가므로 막는다: '삼 퍼센트', '일천삼백이십원', '삼점오'
+SPELLED = re.compile(
+    r"퍼센트|(?:\d|[일이삼사오육칠팔구십])\s*프로(?!그램|젝트|필|세스|모션|토콜|포즈|야구|듀서|페셔널|틴)"
+    r"|(?<![0-9,.])[일이삼사오육칠팔구]?[십백천만][일이삼사오육칠팔구십백천만]*\s*(?:원|포인트|bp)")
 
 
 def fmt(v, digits=2):
@@ -41,7 +45,9 @@ def collect_facts(us, macro, news):
         facts.append(line)
         allow(it["value"], it.get("change"), it.get("changePct"), it.get("prev"))
     for it in (macro or {}).get("items", []):
-        facts.append(f"{it['name']}: {it['value']}{it.get('unit', '')} ({it['time']})")
+        unit = it.get("unit", "")
+        unit = "" if "=" in unit else unit          # 코스피 '1980.01.04=100' 같은 기준 표시는 뺀다
+        facts.append(f"{it['name']}: {it['value']:,}{unit} ({it['time']})")
         allow(it["value"])
     cpi = (macro or {}).get("cpi")
     if cpi:
@@ -58,6 +64,24 @@ def collect_facts(us, macro, news):
         for n in NUM.findall(f):
             allowed.add(n.replace(",", "").lstrip("+-").rstrip("."))
     return facts, allowed
+
+
+def spelled_numbers(text):
+    return bool(SPELLED.search(text))
+
+
+def lines_ok(lines, allowed, need_digits):
+    """3줄 모두: 데이터에 없는 숫자 없음, 한글로 풀어 쓴 숫자 없음. 데이터가 있으면 1·2줄에 숫자가 있어야 한다."""
+    if len(lines) < 3:
+        return False, f"{len(lines)}줄"
+    for i, line in enumerate(lines[:3]):
+        if spelled_numbers(line):
+            return False, "숫자를 한글로 씀"
+        if not numbers_ok(line, allowed):
+            return False, "데이터에 없는 숫자"
+        if need_digits and i < 2 and not re.search(r"\d", line):
+            return False, "숫자 없음"
+    return True, ""
 
 
 def numbers_ok(text, allowed):
@@ -94,10 +118,16 @@ def template_lines(us, macro, news):
     return lines[:3]
 
 
-PROMPT = """너는 교대근무 경찰공무원을 위한 경제 브리핑 작성자다.
-아래 사실만 사용해서, 밤에 3분 안에 읽을 한국어 문장 정확히 3줄을 써라.
-1줄: 미국 증시 흐름 / 2줄: 환율·금리가 내 대출·적금·연금에 주는 의미 / 3줄: 오늘 챙겨 볼 뉴스 한 가지.
-규칙: 사실에 없는 숫자를 쓰지 말 것. 특정 종목을 사거나 팔라고 하지 말 것. 각 줄은 60자 안팎. 줄 번호·기호 없이 줄바꿈으로만 구분.
+PROMPT = """너는 교대근무 경찰공무원을 위한 경제 브리핑 작성자야.
+아래 [사실]만 사용해서, 야간 근무 중에 1분 안에 읽을 한국어 문장 정확히 3줄을 써.
+1줄: 미국 증시 마감 흐름 (미국 사실이 없으면 코스피·환율 흐름)
+2줄: 금리·환율·물가가 내 대출·적금·연금에 주는 의미 (은행 평균 금리가 있으면 비교)
+3줄: 오늘 챙겨 볼 뉴스 한 가지
+규칙:
+- 숫자는 [사실]에 적힌 표기 그대로(아라비아 숫자, %, 원) 옮겨 써. 숫자를 한글로 풀어 쓰지 마.
+- 1줄과 2줄에는 [사실]의 숫자를 하나 이상 넣어.
+- [사실]에 없는 숫자, 앞으로의 예측, 특정 종목을 사거나 팔라는 말은 쓰지 마.
+- 말투는 '~예요', '~어요'로 끝나는 해요체. 각 줄 60자 안팎. 줄 번호나 기호 없이 줄바꿈으로만 구분.
 
 [사실]
 {facts}
@@ -117,7 +147,7 @@ def response_text(res):
     return text
 
 
-def ai_lines(facts, allowed, key):
+def ai_lines(facts, allowed, key, need_digits=True):
     prompt = PROMPT.format(facts="\n".join(facts))
     notes = []
     for model in MODELS:
@@ -128,9 +158,10 @@ def ai_lines(facts, allowed, key):
                  "generationConfig": {"maxOutputTokens": 2048}},   # 생각 토큰까지 들어갈 여유
                 headers={"x-goog-api-key": key})
             lines = [l.strip(" -•*\t") for l in response_text(res).strip().splitlines() if l.strip()]
-            if len(lines) >= 3 and all(numbers_ok(l, allowed) for l in lines[:3]):
+            good, why = lines_ok(lines, allowed, need_digits)
+            if good:
                 return lines[:3], model
-            notes.append(f"{model}: 숫자 검증 실패" if len(lines) >= 3 else f"{model}: {len(lines)}줄")
+            notes.append(f"{model}: {why}")
         except Exception as e:   # 어떤 오류든 다음 모델로, 마지막엔 숫자 요약으로
             notes.append(f"{model}: {getattr(e, 'reason', None) or type(e).__name__}")
     raise FetchError("AI 브리핑 실패: " + " / ".join(notes)[:280])
@@ -143,7 +174,7 @@ def build(us, macro, news, key=None):
     base = {"status": "ok", "updatedAt": now_iso(), "basis": [f for f in facts if not f.startswith("뉴스")]}
     if key:
         try:
-            lines, model = ai_lines(facts, allowed, key)
+            lines, model = ai_lines(facts, allowed, key, need_digits=bool(us or macro))
             return {**base, "mode": "ai", "model": model, "lines": lines, "validated": True}
         except FetchError as e:
             return {**base, "mode": "template", "lines": template_lines(us, macro, news), "note": str(e)}

@@ -76,6 +76,11 @@ class Finlife(unittest.TestCase):
         self.assertTrue(all(i["term"] == 12 for i in items))
 
 
+    def test_clean_names(self):
+        self.assertEqual(fetch_finlife.clean("주식회사 케이뱅크"), "케이뱅크")
+        self.assertEqual(fetch_finlife.clean("토스뱅크 주식회사"), "토스뱅크")
+        self.assertEqual(fetch_finlife.clean("JB 다이렉트예금통장\n(만기일시지급식)"), "JB 다이렉트예금통장 (만기일시지급식)")
+
     def test_merge_pages(self):
         page = fx("finlife_deposit.json")
         page2 = json.loads(json.dumps(page))
@@ -183,6 +188,26 @@ class Briefing(unittest.TestCase):
             self.assertIn("TimeoutError", b["note"])
         finally:
             make_briefing.http_post_json = orig
+
+    def test_spelled_out_numbers_are_rejected(self):
+        for bad in ("기준금리가 삼 퍼센트로 유지돼요", "환율은 일천삼백이십원대 초반이에요", "금리가 3프로예요"):
+            self.assertTrue(make_briefing.spelled_numbers(bad), bad)
+        for good in ("원/달러 1,325.2원이에요", "월 50만원을 모아요", "프로그램 매매가 늘었어요", "코스피는 5,552.74예요"):
+            self.assertFalse(make_briefing.spelled_numbers(good), good)
+
+    def test_lines_need_numbers_from_data(self):
+        _, allowed = make_briefing.collect_facts(self.us, self.macro, self.news)
+        ok, _ = make_briefing.lines_ok(["S&P 500이 0.38% 올랐어요", "원/달러 1,385.2원이에요", "뉴스를 보세요"], allowed, True)
+        self.assertTrue(ok)
+        ok, why = make_briefing.lines_ok(["미국 증시가 올랐어요", "원/달러 1,385.2원이에요", "뉴스를 보세요"], allowed, True)
+        self.assertEqual((ok, why), (False, "숫자 없음"))
+        ok, why = make_briefing.lines_ok(["S&P 500이 0.38% 올랐어요", "기준금리는 삼 퍼센트예요", "뉴스"], allowed, True)
+        self.assertEqual((ok, why), (False, "숫자를 한글로 씀"))
+
+    def test_index_unit_is_dropped_from_facts(self):
+        macro = {"items": [{"key": "kospi", "name": "코스피", "value": 5552.74, "unit": "1980.01.04=100", "time": "2026-10-20"}]}
+        facts, _ = make_briefing.collect_facts(None, macro, None)
+        self.assertEqual(facts[0], "코스피: 5,552.74 (2026-10-20)")
 
     def test_bank_rates_are_facts(self):
         macro = dict(self.macro, bankRates={"items": {"deposit1y": {"name": "정기예금(1년)", "value": 2.61, "month": "2026-08"}}})
