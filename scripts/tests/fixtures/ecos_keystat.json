@@ -1,0 +1,7 @@
+{"KeyStatisticList":{"list_total_count":5,"row":[
+ {"CLASS_NAME":"시장금리","KEYSTAT_NAME":"한국은행 기준금리","DATA_VALUE":"2.5","CYCLE":"20261020","UNIT_NAME":"%"},
+ {"CLASS_NAME":"환율","KEYSTAT_NAME":"원/달러 환율(종가)","DATA_VALUE":"1,385.2","CYCLE":"20261020","UNIT_NAME":"원"},
+ {"CLASS_NAME":"성장률","KEYSTAT_NAME":"경제성장률(실질, 계절조정 전기대비)","DATA_VALUE":"0.6","CYCLE":"2026Q2","UNIT_NAME":"%"},
+ {"CLASS_NAME":"주식","KEYSTAT_NAME":"코스피지수","DATA_VALUE":"3,150.22","CYCLE":"20261020","UNIT_NAME":"1980.01.04=100"},
+ {"CLASS_NAME":"시장금리","KEYSTAT_NAME":"국고채수익률(3년)","DATA_VALUE":"2.61","CYCLE":"20261020","UNIT_NAME":"%"}
+]}}

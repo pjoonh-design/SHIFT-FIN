@@ -1,0 +1,99 @@
+"""수집 스크립트 파서 테스트: python3 -m unittest discover -s scripts/tests
+fixtures/ 의 값은 각 API 응답 형식을 본뜬 시험용 예시다(실제 시세 아님)."""
+import json
+import os
+import sys
+import unittest
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.dirname(HERE))
+
+import fetch_ecos  # noqa: E402
+import fetch_finlife  # noqa: E402
+import fetch_fred  # noqa: E402
+import fetch_news  # noqa: E402
+import make_briefing  # noqa: E402
+from common import FetchError  # noqa: E402
+
+
+def fx(name, binary=False):
+    with open(os.path.join(HERE, "fixtures", name), "rb" if binary else "r", encoding=None if binary else "utf-8") as f:
+        return f.read() if binary else json.load(f)
+
+
+class Ecos(unittest.TestCase):
+    def test_keystats_by_name(self):
+        items = {i["key"]: i for i in fetch_ecos.parse_keystats(fx("ecos_keystat.json"))}
+        self.assertEqual(items["baseRate"]["value"], 2.5)
+        self.assertEqual(items["baseRate"]["time"], "2026-10-20")
+        self.assertEqual(items["usdkrw"]["value"], 1385.2)          # 쉼표 처리
+        self.assertEqual(items["gdp"]["time"], "2026-Q2")
+        self.assertEqual(items["ktb3"]["value"], 2.61)
+        self.assertNotIn("unemployment", items)                      # 없는 지표는 건너뜀
+
+    def test_error_payload(self):
+        with self.assertRaises(FetchError):
+            fetch_ecos.parse_keystats(fx("ecos_error.json"))
+
+    def test_cpi_yoy(self):
+        cpi = fetch_ecos.parse_cpi(fx("ecos_cpi.json"))
+        self.assertEqual(cpi["month"], "2026-09")
+        self.assertEqual(cpi["yoy"], round((118.1 / 115.7 - 1) * 100, 1))
+
+
+class Fred(unittest.TestCase):
+    def test_latest_and_previous_skip_holiday(self):
+        p = fetch_fred.parse_observations(fx("fred_sp500.json"))
+        self.assertEqual(p["date"], "2026-10-20")
+        self.assertEqual(p["prevDate"], "2026-10-16")
+        self.assertAlmostEqual(p["change"], 23.45)
+        self.assertEqual(p["changePct"], round((6123.45 / 6100 - 1) * 100, 2))
+
+    def test_error(self):
+        with self.assertRaises(FetchError):
+            fetch_fred.parse_observations(fx("fred_error.json"))
+
+
+class Finlife(unittest.TestCase):
+    def test_top_open_products_12m(self):
+        items = fetch_finlife.parse_products(fx("finlife_deposit.json"))
+        self.assertEqual([i["bank"] for i in items], ["마바은행", "가나은행"])   # 가입 제한 상품 제외, 금리순
+        self.assertEqual(items[0]["rate"], 3.1)
+        self.assertEqual(items[0]["maxRate"], 3.1)                              # 우대금리 없으면 기본금리
+        self.assertTrue(all(i["term"] == 12 for i in items))
+
+
+class News(unittest.TestCase):
+    def test_rss(self):
+        items = fetch_news.parse_rss(fx("news_rss.xml", binary=True), "미국 증시")
+        self.assertEqual(items[0]["title"], "뉴욕증시 기술주 강세 마감")         # " - 출처" 제거
+        self.assertEqual(items[0]["source"], "가나일보")
+        self.assertTrue(items[0]["published"].startswith("2026-10-20T21:10"))
+
+
+class Briefing(unittest.TestCase):
+    def setUp(self):
+        self.us = {"items": [dict(id="SP500", name="S&P 500", unit="", **fetch_fred.parse_observations(fx("fred_sp500.json")))]}
+        self.macro = {"items": fetch_ecos.parse_keystats(fx("ecos_keystat.json")), "cpi": fetch_ecos.parse_cpi(fx("ecos_cpi.json"))}
+        self.news = {"items": fetch_news.parse_rss(fx("news_rss.xml", binary=True), "미국 증시")}
+
+    def test_template_without_key(self):
+        b = make_briefing.build(self.us, self.macro, self.news, key=None)
+        self.assertEqual(b["mode"], "template")
+        self.assertTrue(1 <= len(b["lines"]) <= 3)
+        self.assertIn("6,123.45", b["lines"][0])
+        self.assertIn("원/달러 1,385.2원", b["lines"][1])
+
+    def test_number_validation(self):
+        _, allowed = make_briefing.collect_facts(self.us, self.macro, self.news)
+        self.assertTrue(make_briefing.numbers_ok("S&P 500이 0.38% 올라 6,123.45에 마감했어요", allowed))
+        self.assertTrue(make_briefing.numbers_ok("2026-10-20 마감 기준 6,123", allowed))
+        self.assertFalse(make_briefing.numbers_ok("S&P 500이 1.5% 급등했어요", allowed))   # 없는 숫자
+
+    def test_no_data(self):
+        with self.assertRaises(FetchError):
+            make_briefing.build(None, None, None)
+
+
+if __name__ == "__main__":
+    unittest.main()

@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SHIFT-FIN</title>
+<meta name="description" content="교대근무 경찰공무원을 위한 재무설계 에이전트. 계급·호봉·근무 형태·추가근무로 월급을 계산하고 맞춤 재무설계를 만들어요.">
+<meta name="theme-color" content="#0D131E">
+<meta property="og:title" content="SHIFT-FIN · 교대근무 경찰 재무설계 에이전트">
+<meta property="og:description" content="호봉·추가근무·수당을 넣으면 실수령과 맞춤 재무설계가 나와요. 밤에 3분이면 충분해요.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+<!--APP_START-->
+<header class="top">
+  <div class="wrap">
+    <h1 class="wordmark">SHIFT<i>-</i>FIN</h1>
+    <span class="ver">v1.0</span>
+    <p class="tag">교대근무 경찰을 위한 재무설계 에이전트 · 호봉과 근무로 월급을 계산하고, 그 돈으로 계획을 세워요</p>
+  </div>
+</header>
+
+<nav class="tabbar" aria-label="화면 선택">
+  <div class="wrap">
+    <div class="tabs" role="tablist">
+      <button type="button" role="tab" id="tab-agent" aria-controls="panel-agent" data-tab="agent" aria-selected="true">에이전트</button>
+      <button type="button" role="tab" id="tab-pay" aria-controls="panel-pay" data-tab="pay" aria-selected="false" tabindex="-1">급여명세</button>
+      <button type="button" role="tab" id="tab-tonight" aria-controls="panel-tonight" data-tab="tonight" aria-selected="false" tabindex="-1">오늘 밤</button>
+      <button type="button" role="tab" id="tab-retire" aria-controls="panel-retire" data-tab="retire" aria-selected="false" tabindex="-1">노후</button>
+    </div>
+  </div>
+</nav>
+
+<main class="wrap">
+  <div class="banner" id="banner">
+    <p id="banner-text">예시 값으로 채워져 있어요.</p>
+    <button type="button" class="btn btn-sm btn-ghost" data-action="reset" hidden>예시로 되돌리기</button>
+  </div>
+
+  <section class="panel" id="panel-agent" role="tabpanel" aria-labelledby="tab-agent">
+    <div class="split">
+      <div class="col sticky-col" id="agent-form"></div>
+      <div class="col" id="agent-report" aria-live="polite"></div>
+    </div>
+  </section>
+
+  <section class="panel" id="panel-pay" role="tabpanel" aria-labelledby="tab-pay" hidden></section>
+
+  <section class="panel" id="panel-tonight" role="tabpanel" aria-labelledby="tab-tonight" hidden>
+    <div class="tonight-grid">
+      <div class="card">
+        <div class="card-head"><h2>오늘 근무</h2><span class="note">근무에 맞춰 체크 시간이 바뀌어요</span></div>
+        <div class="roster" role="radiogroup" aria-label="오늘 근무">
+          <button type="button" role="radio" data-shift="day" aria-checked="false"><b>주</b><span>주간 09–18</span></button>
+          <button type="button" role="radio" data-shift="night" aria-checked="false"><b>야</b><span>야간 18–09</span></button>
+          <button type="button" role="radio" data-shift="off" aria-checked="false"><b>비</b><span>비번</span></button>
+          <button type="button" role="radio" data-shift="rest" aria-checked="false"><b>휴</b><span>휴무</span></button>
+        </div>
+        <div class="dial-wrap">
+          <svg id="dial" viewBox="-8 -8 276 276" role="img" aria-label="24시간 다이얼">
+            <circle class="d-track" cx="130" cy="130" r="96"></circle>
+            <circle class="d-track" cx="130" cy="130" r="78"></circle>
+            <g id="d-ticks"></g>
+            <path id="d-shift" class="d-shift"></path>
+            <path id="d-market" class="d-market"></path>
+            <line id="d-needle" class="d-needle" x1="130" y1="130" x2="130" y2="130"></line>
+            <circle id="d-now" class="d-now" cx="130" cy="34" r="5"></circle>
+          </svg>
+          <div class="dial-center">
+            <span id="dial-label">개장까지</span>
+            <strong id="dial-count">0:00</strong>
+            <span id="dial-sub">미국 정규장</span>
+          </div>
+        </div>
+        <ul class="dial-legend">
+          <li><i class="key key-market"></i>미국 정규장 <span class="num" id="lg-market">—</span></li>
+          <li><i class="key key-shift"></i>내 근무 <span class="num" id="lg-shift">—</span></li>
+          <li><i class="key key-now"></i>지금 <span class="num" id="lg-now">—</span></li>
+        </ul>
+      </div>
+      <div class="col">
+        <div class="card">
+          <p class="eyebrow">오늘 나의 체크 타이밍</p>
+          <p class="timing-time" id="timing-time">—</p>
+          <p id="timing-text"></p>
+          <ul class="notes" id="market-notes"></ul>
+        </div>
+        <div class="card" id="brief-card"></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-head"><h2>지금 시장</h2><span class="note">시세 제공: TradingView</span></div>
+      <div class="tv" id="tv-ticker"></div>
+      <div class="tv" id="tv-mini" style="min-height:220px"></div>
+    </div>
+    <div class="tonight-grid">
+      <div class="card" id="us-card"></div>
+      <div class="card" id="macro-card"></div>
+    </div>
+    <div class="tonight-grid">
+      <div class="card" id="rates-card"></div>
+      <div class="card" id="news-card"></div>
+    </div>
+    <div class="card">
+      <div class="card-head"><h2>이번 주 경제 일정</h2><span class="note">미국·한국, 중요도 높은 일정</span></div>
+      <div class="tv tall" id="tv-events"></div>
+    </div>
+  </section>
+
+  <section class="panel" id="panel-retire" role="tabpanel" aria-labelledby="tab-retire" hidden></section>
+</main>
+
+<footer class="wrap foot" id="foot"></footer>
+<!--APP_END-->
+<script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

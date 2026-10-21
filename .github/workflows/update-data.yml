@@ -1,0 +1,49 @@
+name: 데이터 자동 수집
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 매일 07:00 KST — 미국장 마감 정리
+    - cron: '0 3 * * *'    # 매일 12:00 KST — 한국 지표·금리
+    - cron: '0 12 * * *'   # 매일 21:00 KST — 오늘 밤 개장 전 브리핑
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 파서 테스트
+        run: python -m unittest discover -s scripts/tests
+
+      - name: 데이터 수집
+        env:
+          ECOS_API_KEY: ${{ secrets.ECOS_API_KEY }}
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          FINLIFE_API_KEY: ${{ secrets.FINLIFE_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/run_all.py
+
+      - name: 바뀐 데이터 저장
+        run: |
+          git config user.name "shift-fin-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/live
+          if git diff --staged --quiet; then
+            echo "바뀐 데이터 없음"
+          else
+            git commit -m "data: 자동 수집 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M') KST"
+            git push
+          fi

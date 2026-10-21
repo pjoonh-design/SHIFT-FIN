@@ -1,0 +1,11 @@
+{"result":{"prdt_div":"D","total_count":3,"max_page_no":1,"now_page_no":1,"err_cd":"000","err_msg":"정상",
+"baseList":[
+ {"dcls_month":"202610","fin_co_no":"0010001","fin_prdt_cd":"A1","kor_co_nm":"가나은행","fin_prdt_nm":"가나 정기예금","join_deny":"1"},
+ {"dcls_month":"202610","fin_co_no":"0010002","fin_prdt_cd":"B1","kor_co_nm":"다라은행","fin_prdt_nm":"다라 특판예금","join_deny":"3"},
+ {"dcls_month":"202610","fin_co_no":"0010003","fin_prdt_cd":"C1","kor_co_nm":"마바은행","fin_prdt_nm":"마바 예금","join_deny":"1"}],
+"optionList":[
+ {"dcls_month":"202610","fin_co_no":"0010001","fin_prdt_cd":"A1","intr_rate_type_nm":"단리","save_trm":"6","intr_rate":2.5,"intr_rate2":2.8},
+ {"dcls_month":"202610","fin_co_no":"0010001","fin_prdt_cd":"A1","intr_rate_type_nm":"단리","save_trm":"12","intr_rate":2.9,"intr_rate2":3.2},
+ {"dcls_month":"202610","fin_co_no":"0010002","fin_prdt_cd":"B1","intr_rate_type_nm":"단리","save_trm":"12","intr_rate":3.6,"intr_rate2":3.9},
+ {"dcls_month":"202610","fin_co_no":"0010003","fin_prdt_cd":"C1","intr_rate_type_nm":"단리","save_trm":"12","intr_rate":3.1,"intr_rate2":null},
+ {"dcls_month":"202610","fin_co_no":"0010003","fin_prdt_cd":"C1","intr_rate_type_nm":"복리","save_trm":"12","intr_rate":3.0,"intr_rate2":3.3}]}}
