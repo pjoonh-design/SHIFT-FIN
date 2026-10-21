@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-21T19:25+09:00",
+ "updatedAt": "2026-10-21T21:22+09:00",
  "source": "Google 뉴스",
  "items": [
   {
@@ -60,18 +60,18 @@
    "topic": "미국 증시"
   },
   {
+   "title": "채권전문가 93% “10월 금통위 기준금리 동결”…금리 하락 전망 확대",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ncFZRVDRHTFZHRHNReFkwMkxZR3JxRnhRdG50QUttcEVtTkRvOGRHUjZBUnZDWHh0UHZKbXlBeXZ4ZVRBVXBCVEJxV1VtaGdqRG05ZTcxcnJnQQ?oc=5",
+   "source": "브릿지경제",
+   "published": "2026-10-20T04:36:00+00:00",
+   "topic": "금리"
+  },
+  {
    "title": "1330원 코앞에서 멈춘 원-달러 환율…더 안 떨어지는 이유는?",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UaFZxdGs2Q21SVW9JZ0tVZ1FUcGVWakhGbGN6dEpNNzRlZDFOcW1pYzZwdmhoTFh5NkRKcDZOYW9nY21jMXcxRnBNNzRRbjRVV3dLT1lOVHdJZTFwT2VRT0MwXzFrWFA5emM1QkxUcDFhdw?oc=5",
    "source": "한겨레",
    "published": "2026-10-19T09:51:00+00:00",
    "topic": "환율"
-  },
-  {
-   "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DS1FGNFRiWlo1T1pHN1NGT1lQU2tLN0lFVnBxNXBMZkNqR1JBV1RrS1pja051SG9yMjBaMEYxLWR1UlR6dnRxN2FjWG4yZkU5bzNxbzM0R3RkQdIBX0FVX3lxTFBsaTl3d1VKT2ZUWjhYS0Y5N18ybG5hakFZQW0tRTU3OVM4TUktYWxUWVJaZl9TVTVHMzlQR0Y2Vk04cFQ2SThUblhQLU9WVU5WUjM5S3d6NF9aT1MyX2g0?oc=5",
-   "source": "경향신문",
-   "published": "2026-10-19T02:01:00+00:00",
-   "topic": "미국 증시"
   }
  ]
 }
