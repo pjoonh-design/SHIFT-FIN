@@ -9,7 +9,10 @@ import re
 
 from common import FetchError, http_post_json, now_iso
 
-MODELS = [os.environ.get("GEMINI_MODEL") or "gemini-flash-latest", "gemini-2.5-flash"]
+# 앞에서부터 시도한다. Flash-Lite 는 생각(thinking)을 최소로 해서 빠르고 싸다.
+# 2026년 Gemini 3 이후로 temperature 등은 무시·폐지되고, 생각 토큰도 maxOutputTokens 에 포함된다.
+MODELS = [m for m in [os.environ.get("GEMINI_MODEL"), "gemini-3.5-flash-lite", "gemini-flash-lite-latest",
+                      "gemini-flash-latest", "gemini-2.5-flash"] if m]
 NUM = re.compile(r"[-+]?\d[\d,]*\.?\d*")
 
 
@@ -44,6 +47,10 @@ def collect_facts(us, macro, news):
     if cpi:
         facts.append(f"소비자물가 상승률(전년 같은 달 대비): {cpi['yoy']}% ({cpi['month']})")
         allow(cpi["yoy"])
+    bank = ((macro or {}).get("bankRates") or {}).get("items", {})
+    for it in bank.values():
+        facts.append(f"은행 평균 {it['name']} 금리: {it['value']}% ({it['month']}, 신규취급액 기준)")
+        allow(it["value"])
     for it in (news or {}).get("items", [])[:5]:
         facts.append(f"뉴스: {it['title']}")
     # 사실 문장에 들어 있는 숫자(날짜·뉴스 속 숫자 포함)는 그대로 써도 된다
@@ -97,24 +104,36 @@ PROMPT = """너는 교대근무 경찰공무원을 위한 경제 브리핑 작�
 """
 
 
+def response_text(res):
+    """생각(thought) 부분은 빼고 답 글자만 모은다. 비어 있으면 이유를 알려 준다."""
+    cands = res.get("candidates") or []
+    if not cands:
+        reason = (res.get("promptFeedback") or {}).get("blockReason") or "후보 없음"
+        raise FetchError(f"응답 없음 ({reason})")
+    parts = (cands[0].get("content") or {}).get("parts") or []
+    text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+    if not text.strip():
+        raise FetchError(f"빈 응답 ({cands[0].get('finishReason', '?')})")
+    return text
+
+
 def ai_lines(facts, allowed, key):
     prompt = PROMPT.format(facts="\n".join(facts))
-    last = None
+    notes = []
     for model in MODELS:
         try:
             res = http_post_json(
                 f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                 {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
-                 "generationConfig": {"temperature": 0.3, "maxOutputTokens": 400}},
+                 "generationConfig": {"maxOutputTokens": 2048}},   # 생각 토큰까지 들어갈 여유
                 headers={"x-goog-api-key": key})
-            text = res["candidates"][0]["content"]["parts"][0]["text"]
-            lines = [l.strip(" -•\t") for l in text.strip().splitlines() if l.strip()]
+            lines = [l.strip(" -•*\t") for l in response_text(res).strip().splitlines() if l.strip()]
             if len(lines) >= 3 and all(numbers_ok(l, allowed) for l in lines[:3]):
                 return lines[:3], model
-            last = "숫자 검증 실패"
-        except (FetchError, KeyError, IndexError) as e:
-            last = str(e)
-    raise FetchError(f"AI 브리핑 실패: {last}")
+            notes.append(f"{model}: 숫자 검증 실패" if len(lines) >= 3 else f"{model}: {len(lines)}줄")
+        except Exception as e:   # 어떤 오류든 다음 모델로, 마지막엔 숫자 요약으로
+            notes.append(f"{model}: {getattr(e, 'reason', None) or type(e).__name__}")
+    raise FetchError("AI 브리핑 실패: " + " / ".join(notes)[:280])
 
 
 def build(us, macro, news, key=None):

@@ -52,10 +52,10 @@ def http_post_json(url, payload, headers=None, timeout=60):
         with urllib.request.urlopen(req, timeout=timeout) as res:
             return json.loads(res.read().decode("utf-8"))
     except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8", "replace")[:300]
-        raise FetchError(f"POST {e.code}: {body}")
-    except urllib.error.URLError as e:
-        raise FetchError(f"POST 실패: {e}")
+        body = redact(e.read().decode("utf-8", "replace"))[:300]
+        raise FetchError(f"POST {e.code}: {body}", reason=f"HTTP {e.code}")
+    except (OSError, http.client.HTTPException, ValueError) as e:   # 연결 끊김·시간 초과·JSON 오류
+        raise FetchError(f"POST 실패: {type(e).__name__} {redact(str(e))[:200]}", reason=type(e).__name__)
 
 
 def redact(url):

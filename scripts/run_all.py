@@ -51,10 +51,11 @@ def main():
     us, macro, news = read_live("us-markets.json"), read_live("macro.json"), read_live("news.json")
     ok = lambda d: d if d and d.get("status") == "ok" else None
     try:
-        write_live("briefing.json", make_briefing.build(ok(us), ok(macro), ok(news), os.environ.get("GEMINI_API_KEY")))
-        print("briefing.json: 성공")
-    except FetchError as e:
-        print(f"briefing.json: 건너뜀 ({e})")
+        b = make_briefing.build(ok(us), ok(macro), ok(news), os.environ.get("GEMINI_API_KEY"))
+        write_live("briefing.json", b)
+        print(f"briefing.json: 성공 ({b.get('mode')}{', ' + b['note'] if b.get('note') else ''})")
+    except Exception as e:   # 브리핑이 실패해도 앞에서 모은 데이터는 저장되게 한다
+        print(f"briefing.json: 건너뜀 ({redact(str(e))[:200]})")
 
 
 if __name__ == "__main__":

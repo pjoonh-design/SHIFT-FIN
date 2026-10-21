@@ -154,6 +154,42 @@ class Briefing(unittest.TestCase):
         with self.assertRaises(FetchError):
             make_briefing.build(None, None, None)
 
+    def test_response_text_skips_thoughts(self):
+        res = {"candidates": [{"content": {"parts": [{"text": "생각 중...", "thought": True}, {"text": "첫 줄\n둘째 줄"}]}}]}
+        self.assertEqual(make_briefing.response_text(res), "첫 줄\n둘째 줄")
+        with self.assertRaises(FetchError):   # 생각만 하다 끝난 응답
+            make_briefing.response_text({"candidates": [{"content": {"role": "model"}, "finishReason": "MAX_TOKENS"}]})
+
+    def test_ai_falls_through_models_and_never_crashes(self):
+        calls = []
+        good = {"candidates": [{"content": {"parts": [{"text": "S&P 500이 0.38% 올랐어요\n원/달러 1,385.2원이에요\n뉴욕증시 기술주 강세 소식을 보세요"}]}}]}
+
+        def fake_post(url, payload, headers=None, timeout=60):
+            calls.append(url.split("/models/")[1].split(":")[0])
+            self.assertNotIn("temperature", payload["generationConfig"])   # 2026년 모델에서 폐지
+            if len(calls) == 1:
+                raise RuntimeError("예상 못 한 오류")
+            if len(calls) == 2:
+                raise FetchError("POST 404", reason="HTTP 404")
+            return good
+        orig, make_briefing.http_post_json = make_briefing.http_post_json, fake_post
+        try:
+            b = make_briefing.build(self.us, self.macro, self.news, key="k")
+            self.assertEqual(b["mode"], "ai")
+            self.assertEqual(b["model"], make_briefing.MODELS[2])
+            make_briefing.http_post_json = lambda *a, **k: (_ for _ in ()).throw(TimeoutError("read timed out"))
+            b = make_briefing.build(self.us, self.macro, self.news, key="k")
+            self.assertEqual(b["mode"], "template")                   # 전부 실패해도 숫자 요약
+            self.assertIn("TimeoutError", b["note"])
+        finally:
+            make_briefing.http_post_json = orig
+
+    def test_bank_rates_are_facts(self):
+        macro = dict(self.macro, bankRates={"items": {"deposit1y": {"name": "정기예금(1년)", "value": 2.61, "month": "2026-08"}}})
+        facts, allowed = make_briefing.collect_facts(None, macro, None)
+        self.assertTrue(any("정기예금(1년)" in f for f in facts))
+        self.assertTrue(make_briefing.numbers_ok("은행 정기예금 평균은 2.61%예요", allowed))
+
 
 if __name__ == "__main__":
     unittest.main()
