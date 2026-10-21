@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-21T19:06+09:00",
+ "updatedAt": "2026-10-21T19:25+09:00",
  "source": "한국은행 경제통계시스템(ECOS)",
  "items": [
   {
@@ -77,6 +77,11 @@
    "mortgage": {
     "name": "주택담보대출",
     "value": 4.66,
+    "month": "2026-08"
+   },
+   "householdLoan": {
+    "name": "가계대출",
+    "value": 4.76,
     "month": "2026-08"
    }
   },
