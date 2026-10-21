@@ -28,6 +28,7 @@ BANK_RATES = [
     ("saving", "정기적금", "121Y002", "BEABAA212"),
     ("creditLoan", "일반신용대출", "121Y006", "BECBLA03051"),
     ("mortgage", "주택담보대출", "121Y006", "BECBLA0302"),
+    ("householdLoan", "가계대출", "121Y006", "BECBLA03"),
 ]
 
 

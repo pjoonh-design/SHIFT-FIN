@@ -117,7 +117,32 @@ export const RULES = {
     retirementAge: 60,             // 경찰공무원 연령정년
   },
 
-  payday: 20,                      // 보수 지급일: 매월 20일
+  payday: 20,
+  // 놓치기 쉬운 돈: 공무원·청년이 받을 수 있는 제도 (조건은 화면에서 '확인 필요'로 함께 안내)
+  benefits: {
+    youthFutureSaving: {
+      name: '청년미래적금', ageMax: 34, militaryMaxYears: 6, grossMax: 60000000, monthlyMax: 500000, govRate: 0.06, years: 3,
+      recruit: '매년 6월·12월 모집', householdNote: '가구 중위소득 200% 이하',
+      source: { label: '청년미래적금 가입 조건 (토스피드, 2026.6)', url: 'https://toss.im/tossfeed/article/money-policies-64' },
+    },
+    housingSubscription: {
+      name: '주택청약 소득공제', annualLimit: 3000000, rate: 0.40, grossMax: 70000000,
+      source: { label: '주택청약저축 소득공제 조건 (2026)', url: 'https://wikidocs.net/blog/@TaxSave/25791/' },
+    },
+    policeMutual: {
+      name: '경찰공제회 목돈수탁복지저축', rate: 4.30, asOf: '2026년 8월 공지', note: '만기지급식·연복리·세전, 회원 대상',
+      source: { label: '공제회 저축 금리 비교 (2026)', url: 'https://glasswallet.com/blog/mutual-aid-association-guide' },
+    },
+    insuranceOverlap: {
+      source: { label: '개인·단체 실손 중복 시 중지 신청', url: 'https://www.etoday.co.kr/news/view/2169504' },
+    },
+    pensionEarlyTax: 0.165,   // 연금저축을 55세 전에 꺼내면 공제받은 돈에 기타소득세 16.5%
+  },
+  // 은행 평균 금리 (실시간 수집이 안 될 때 쓰는 마지막 확인 값)
+  benchmarks: {
+    asOf: '2026-08', source: '한국은행 예금은행 가중평균금리(신규취급액 기준)',
+    deposit1y: 3.39, saving: 3.72, creditLoan: 6.33, mortgage: 4.66, householdLoan: null,
+  },                      // 보수 지급일: 매월 20일
 
   sources: [
     { name: '봉급표', text: '공무원보수규정 [별표 10] 경찰공무원·소방공무원 봉급표 (2026. 1. 2. 개정)', url: 'https://www.law.go.kr/flDownload.do?flSeq=160436465' },
@@ -129,6 +154,9 @@ export const RULES = {
     { name: '건강보험·장기요양', text: '국민건강보험공단 2026년 보험료율 (건강 7.19%, 장기요양 0.9448%)', url: 'https://www.nhis.or.kr/renewal_popup/poster/20260204_poster_longdesc_1.html' },
     { name: '공무원연금', text: '공무원연금법 (2015년 개정): 기여율 9%, 지급률 2035년 1.7%, 퇴직수당 제62조·시행령 제58조' },
     { name: '소득세', text: '소득세법: 종합소득세율, 근로소득공제, 근로소득세액공제' },
+    { name: '청년미래적금', text: '만 19~34세, 총급여 6,000만원 이하 일반형 정부 기여금 6%, 월 50만원까지 3년', url: 'https://toss.im/tossfeed/article/money-policies-64' },
+    { name: '주택청약 소득공제', text: '무주택 세대주·총급여 7,000만원 이하, 연 300만원 한도 40% 소득공제', url: 'https://wikidocs.net/blog/@TaxSave/25791/' },
+    { name: '은행 평균 금리', text: '한국은행 ECOS 예금은행 가중평균금리(신규취급액 기준, 121Y002·121Y006), 하루 세 번 자동 수집' },
   ],
 };
 

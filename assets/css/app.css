@@ -178,6 +178,18 @@ main.wrap { padding-block: 16px 28px; display: grid; gap: 16px; }
 .alloc-row strong { font-variant-numeric: tabular-nums; text-align: right; }
 .alloc-row small { grid-column: 2 / -1; font-size: 12.5px; color: var(--muted); }
 .alloc-row.total { font-weight: 600; }
+.miss-total { font-size: 15px; line-height: 1.55; }
+.miss-total strong { color: var(--accent); font-size: 18px; font-variant-numeric: tabular-nums; }
+.miss-list { display: grid; }
+.miss-row { display: grid; gap: 4px; padding: 12px 0; border-top: 1px solid var(--line); }
+.miss-top { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+.miss-top b { font-weight: 600; }
+.miss-top strong { color: var(--good); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.miss-top strong small { color: var(--muted); font-weight: 400; font-size: 12px; }
+.miss-row p { font-size: 13.5px; line-height: 1.6; color: var(--fg-2); }
+.miss-row .how { color: var(--fg); }
+.miss-row .how::before { content: '→ '; color: var(--accent); }
+.miss-row small { font-size: 12px; line-height: 1.55; color: var(--muted); }
 .actions { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
 .actions li { display: grid; grid-template-columns: 22px minmax(0, 1fr); gap: 8px; font-size: 14px; }
 .actions li::before { content: ""; width: 16px; height: 16px; margin-top: 3px; border: 1.5px solid var(--accent); border-radius: 4px; }

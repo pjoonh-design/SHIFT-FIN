@@ -7,6 +7,7 @@ import { earnedIncomeDeduction, progressiveTax, earnedIncomeCredit } from '../as
 import { govPension, payRate, govStartAge, retirementNeeds, retirementAllowanceRate } from '../assets/js/engine/pension.js';
 import { marketStatus, openTimeChange, hm, dayLabel, countdown } from '../assets/js/engine/market.js';
 import { makePlan, monthlyForGoal, payoffMonths } from '../assets/js/engine/plan.js';
+import { findMissedMoney } from '../assets/js/engine/benefits.js';
 import { man, manShort } from '../assets/js/engine/format.js';
 
 const near = (a, b, eps, msg = '') => assert.ok(Math.abs(a - b) <= eps, `${msg} expected ${b} ± ${eps}, got ${a}`);
@@ -146,7 +147,13 @@ test('예시 계획: 배분 합계가 남는 돈을 넘지 않고 점수는 0~10
   assert.equal(plan.ef.target, 6000000);
   assert.ok(plan.highDebts.length === 1);
   assert.ok(plan.alloc.find(a => a.key === 'debt'));
-  assert.ok(plan.tax.refund > 0);
+  // 31세·3년 뒤 결혼 목표: 목표 자금(청년미래적금)이 연금저축보다 먼저
+  assert.ok(plan.young && plan.youthEligible && plan.goalsFirst);
+  const keys = plan.alloc.map(a => a.key);
+  const pi = keys.indexOf('pension');
+  assert.ok(pi === -1 || pi > keys.indexOf('goal0'), keys.join(','));
+  assert.match(plan.alloc.find(a => a.key === 'goal0').product, /청년미래적금/);
+  assert.ok(plan.actions.now.some(t => /청년미래적금/.test(t)));
   assert.match(plan.aiPrompt, /경장 7호봉/);
   assert.doesNotMatch(plan.aiPrompt, /undefined|NaN/);
   for (const a of plan.alloc) assert.ok(a.amount > 0 && a.amount % 10000 === 0, a.label);
@@ -164,6 +171,95 @@ test('적자인 경우: 배분 없이 지출 점검부터', () => {
   assert.ok(plan.cashflow.free < 0);
   assert.equal(plan.alloc.length, 0);
   assert.match(plan.headline, /적자/);
+});
+
+test('적자 가정(외벌이·자녀·고금리 대출): 빈 문장 없이 줄일 곳과 1개월치 비상금부터', () => {
+  const fam = { spouse: true, spouseNoIncome: true, children: 1, otherDependents: 0 };
+  const pay = computePay({ rankId: 'kj', step: 3, years: 3, overtimeHours: 30, nightHours: 61, holidayDays: 2.5, family: fam });
+  const pension = govPension({ birthYear: 1996, hireYear: 2023, retireAge: 60, monthlyIncome: pay.standardIncome, thisYear: 2026 });
+  const needs = retirementNeeds({ retireAge: 60, startAge: pension.startAge, targetMonthly: 3500000, pensionMonthly: pension.monthly });
+  const plan = makePlan({ pay, pension, needs, profile: { age: 30, retireAge: 60, family: fam, shiftName: '4조 2교대' },
+    finance: {
+      spending: { housing: 600000, insurance: 250000, transport: 250000, living: 1500000, other: 300000 },
+      saving: { deposit: 200000, subscription: 100000 }, assets: { cash: 2000000, invest: 1000000 },   // 1개월치(355만원)도 안 됨
+      debts: [{ name: '전세대출', balance: 100000000, rate: 4.2, monthly: 350000 }, { name: '신용대출', balance: 15000000, rate: 6.8, monthly: 300000 }],
+    },
+    goals: [{ name: '내 집 마련', amount: 100000000, years: 7 }] });
+  assert.ok(plan.cashflow.free < 0);
+  const all = [...plan.actions.now, ...plan.actions.soon, ...plan.actions.year, ...plan.bonusPlan.map(b => b.use)].join(' ');
+  assert.doesNotMatch(all, /(^|[^0-9,])0원|저축 항목 없음|undefined|NaN/);
+  assert.ok(plan.actions.now.some(t => /가장 큰 지출인 식비·생활비/.test(t)));
+  assert.ok(plan.actions.now.some(t => /우선 1개월치/.test(t)));
+  assert.ok(plan.actions.now.some(t => /보험료/.test(t)));
+  assert.ok(plan.actions.now.some(t => /신용대출\(연 6.8%\)는 은행에 금리인하요구권/.test(t)));
+  assert.equal(plan.tax.bonusToPension, 0);
+  assert.ok(!plan.actions.now.some(t => /청년미래적금/.test(t)));   // 적자일 땐 새 적금보다 지출 정리가 먼저
+});
+
+test('35세 이상이면 예전처럼 연금저축을 목표보다 먼저 채운다', () => {
+  const pay = computePay(EX);
+  const pension = govPension({ birthYear: 1988, hireYear: 2014, retireAge: 60, monthlyIncome: pay.standardIncome, thisYear: 2026 });
+  const needs = retirementNeeds({ retireAge: 60, startAge: pension.startAge, targetMonthly: 3500000, pensionMonthly: pension.monthly });
+  const plan = makePlan({ pay, pension, needs, profile: { age: 38, retireAge: 60, family: {}, shiftName: '4조 2교대' },
+    finance: { spending: { living: 1500000 }, saving: {}, assets: { cash: 6000000 }, debts: [] },
+    goals: [{ name: '내 집 마련', amount: 100000000, years: 8 }] });
+  assert.ok(!plan.goalsFirst);
+  const keys = plan.alloc.map(a => a.key);
+  assert.ok(keys.indexOf('pension') < keys.indexOf('goal0'));
+  assert.ok(plan.tax.refund > 0);
+});
+
+// ---------- 놓치는 돈 찾기 ----------
+function scenario({ age = 31, birthYear = 2026 - age, finance, goals = [], payInput = EX }) {
+  const pay = computePay(payInput);
+  const pension = govPension({ birthYear, hireYear: 2021, retireAge: 60, monthlyIncome: pay.standardIncome, thisYear: 2026 });
+  const needs = retirementNeeds({ retireAge: 60, startAge: pension.startAge, targetMonthly: 3500000, pensionMonthly: pension.monthly });
+  const plan = makePlan({ pay, pension, needs, profile: { age, retireAge: 60, family: payInput.family || {}, shiftName: '4조 2교대' }, finance, goals });
+  return { pay, plan, profile: { age }, finance, goals };
+}
+const BASE_FIN = {
+  spending: { housing: 450000, insurance: 120000, transport: 180000, living: 750000, other: 250000 },
+  saving: { deposit: 500000, invest: 0, pension: 0, subscription: 100000 },
+  assets: { cash: 6000000, invest: 3000000, pension: 0, subscription: 4000000 },
+  debts: [{ name: '신용대출', balance: 12000000, rate: 6.2, monthly: 250000 }],
+};
+const textOf = m => m.items.map(i => [i.title, i.detail, i.action, i.caveat].join(' ')).join(' ');
+
+test('놓치는 돈: 31세 예시 — 청년미래적금 기여금·청약 소득공제·보험 확인', () => {
+  const sc = scenario({ finance: BASE_FIN, goals: [{ name: '결혼 자금', amount: 30000000, years: 3 }, { name: '내 집 마련', amount: 100000000, years: 8 }] });
+  const m = findMissedMoney(sc);
+  const youth = m.items.find(i => i.key === 'youth');
+  assert.equal(youth.amount, 500000 * 12 * 0.06);                       // 월 50만원 × 12 × 6%
+  const sub = m.items.find(i => i.key === 'subscription');
+  near(sub.amount, 1200000 * 0.4 * sc.pay.yearEnd.marginal * 1.1, 1);    // 연 120만원 × 40% × 한계세율(지방세 포함)
+  assert.ok(!m.items.some(i => i.key.startsWith('loan')));               // 6.2%는 은행 평균 6.33%보다 낮음
+  assert.ok(m.items.some(i => i.key === 'insurance' && i.kind === 'check'));
+  assert.equal(m.total, youth.amount + sub.amount);
+  assert.doesNotMatch(textOf(m), /undefined|NaN/);
+});
+
+test('놓치는 돈: 비싼 대출은 은행 평균과 비교, 실시간 평균이 있으면 그 값을 쓴다', () => {
+  const fin = { ...BASE_FIN, debts: [{ name: '신용대출', balance: 15000000, rate: 6.8, monthly: 300000 }, { name: '전세대출', balance: 100000000, rate: 4.2, monthly: 350000 }] };
+  const sc = scenario({ finance: fin });
+  const m = findMissedMoney(sc);
+  const loan = m.items.find(i => i.key === 'loan-신용대출');
+  assert.equal(loan.amount, 70000);                                       // 1,500만원 × (6.8 − 6.33)% ≈ 7.05만원 → 7만원
+  assert.ok(!m.items.some(i => i.key === 'loan-전세대출'));                // 가계대출 평균이 없으면 비교하지 않음
+  const live = findMissedMoney({ ...sc, bench: { creditLoan: 7.0, householdLoan: 4.0, asOf: '2026-09' } });
+  assert.ok(!live.items.some(i => i.key === 'loan-신용대출'));             // 평균 7.0%면 6.8%는 비싸지 않음
+  assert.ok(!live.items.some(i => i.key === 'loan-전세대출'));             // 4.2%는 4.0%+0.3%p 이내
+  assert.equal(live.benchAsOf, '2026-09');
+});
+
+test('놓치는 돈: 잠자는 현금, 35세 이상(군 복무 확인), 적자일 때', () => {
+  const rich = findMissedMoney(scenario({ finance: { ...BASE_FIN, assets: { ...BASE_FIN.assets, cash: 20000000 } } }));
+  assert.equal(rich.items.find(i => i.key === 'idle').amount, 470000);   // (2,000만 − 600만) × 3.39% ≈ 47.5만 → 47만원
+  const older = findMissedMoney(scenario({ age: 37, finance: BASE_FIN }));
+  assert.ok(older.items.some(i => i.key === 'youth-military' && i.kind === 'check'));
+  assert.ok(!older.items.some(i => i.key === 'youth'));
+  const tight = findMissedMoney(scenario({ finance: { ...BASE_FIN, spending: { living: 4000000 } } }));
+  assert.ok(tight.items.every(i => i.key !== 'youth' && i.key !== 'mutual'));   // 적자면 새 저축 상품 권유 안 함
+  assert.doesNotMatch(textOf(tight), /undefined|NaN/);
 });
 
 // ---------- 미국장 시계 ----------

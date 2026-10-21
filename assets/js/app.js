@@ -3,6 +3,7 @@ import { RULES } from './data/rules-2026.js';
 import { computePay } from './engine/pay.js';
 import { govPension, retirementNeeds } from './engine/pension.js';
 import { makePlan } from './engine/plan.js';
+import { findMissedMoney } from './engine/benefits.js';
 import { seoulYear } from './engine/market.js';
 import { toWon, clamp } from './engine/format.js';
 import { loadState, saveState, freshState, getPath, setPath } from './state.js';
@@ -15,6 +16,7 @@ const TABS = ['agent', 'pay', 'tonight', 'retire'];
 const $ = s => document.querySelector(s);
 let state = loadState();
 let R = null;
+let bench = null;   // 한국은행 은행 평균 금리 (data/live/macro.json 에서, 없으면 규칙 파일의 마지막 확인 값)
 
 // ---------- 계산 ----------
 function compute(s) {
@@ -50,7 +52,8 @@ function compute(s) {
   const age = year - birthYear;
   const shiftName = (RULES.shiftTypes.find(t => t.id === p.shiftType) || {}).name || '';
   const plan = makePlan({ pay, pension, needs, profile: { age, retireAge, family: fam, shiftName }, finance, goals, risk: s.risk });
-  return { pay, pension, needs, plan, age, year, retireAge };
+  const missed = findMissedMoney({ pay, plan, profile: { age }, finance, goals, bench });
+  return { pay, pension, needs, plan, missed, age, year, retireAge };
 }
 
 // ---------- 그리기 ----------
@@ -239,9 +242,24 @@ window.addEventListener('resize', () => {
   resizeRaf = requestAnimationFrame(() => { if (state.tab === 'pay' && R) drawPayChart($('#pay-chart'), R.pay); });
 });
 
+// 은행 평균 금리를 받아 오면 '놓치는 돈' 계산을 최신 값으로 다시 한다
+async function loadBench() {
+  try {
+    const r = await fetch('data/live/macro.json', { cache: 'no-store' });
+    if (!r.ok) return;
+    const m = await r.json();
+    const items = (m && m.status === 'ok' && m.bankRates && m.bankRates.items) || null;
+    if (!items) return;
+    bench = Object.fromEntries(Object.entries(items).map(([k, v]) => [k, v.value]));
+    bench.asOf = (Object.values(items)[0] || {}).month || null;
+    renderAll();
+  } catch (e) { /* 오프라인·미리보기에서는 규칙 파일 값으로 계산 */ }
+}
+
 drawTicks();
 renderFooter();
 R = compute(state);
 renderAgentForm();
+loadBench();
 const fromHash = location.hash.replace('#', '');
 setTab(TABS.includes(fromHash) ? fromHash : state.tab);

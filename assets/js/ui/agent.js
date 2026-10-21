@@ -126,8 +126,30 @@ export function previewLine(state, R) {
 
 const li = arr => arr.map(t => `<li><span>${esc(t)}</span></li>`).join('');
 
+// 놓치고 있는 돈: 금액이 나오는 항목 먼저, 확인할 항목은 뒤에
+function missedCard(missed) {
+  if (!missed || !missed.items.length) return '';
+  const src = i => (!i.source ? ''
+    : i.source.url ? ` · <a href="${esc(i.source.url)}" target="_blank" rel="noopener">${esc(i.source.label)}</a>` : ` · ${esc(i.source.label)}`);
+  const rows = missed.items.map(i => `
+    <div class="miss-row${i.kind === 'check' ? ' check' : ''}">
+      <div class="miss-top"><b>${esc(i.title)}</b>${i.kind === 'money' ? `<strong>+${man(i.amount)}<small> /년</small></strong>` : pill('pill-wait', '확인해 보기')}</div>
+      <p>${esc(i.detail)}</p>
+      <p class="how">${esc(i.action)}</p>
+      <small>${esc(i.caveat)}${src(i)}</small>
+    </div>`).join('');
+  return `<div class="card missed">
+    <div class="card-head"><h2>놓치고 있는 돈</h2>${pill('pill-accent', '혜택 찾기')}</div>
+    ${missed.total > 0
+      ? `<p class="miss-total">챙기면 1년에 약 <strong>${man(missed.total)}</strong>을 더 받거나 덜 낼 수 있어요</p>`
+      : '<p class="sub">지금 넣은 정보로는 금액을 계산할 혜택이 없어요. 아래 항목만 확인해 보세요.</p>'}
+    <div class="miss-list">${rows}</div>
+    <p class="note">가입 자격은 사이트가 확인할 수 없어서 조건을 함께 적었어요. 신청 전에 꼭 확인해요.</p>
+  </div>`;
+}
+
 export function renderReport(R) {
-  const { pay, plan, pension, needs } = R;
+  const { pay, plan, pension, needs, missed } = R;
   const cf = plan.cashflow;
   const allocParts = plan.alloc.map((a, i) => ({ label: a.label, value: a.amount, color: SERIES[i % SERIES.length] }));
   const partCls = v => (v >= 80 ? 'good' : v < 40 ? 'low' : '');
@@ -141,9 +163,13 @@ export function renderReport(R) {
     <div class="kpis">
       <div class="kpi"><span>평달 실수령</span><strong>${man(cf.net)}</strong></div>
       <div class="kpi"><span>지출 후 남는 돈</span><strong>${man(cf.free)}</strong></div>
-      <div class="kpi"><span>세액공제 환급</span><strong>연 ${man(plan.tax.refund)}</strong></div>
+      ${missed && missed.total > 0
+        ? `<div class="kpi"><span>놓치고 있는 돈</span><strong>연 ${man(missed.total)}</strong></div>`
+        : `<div class="kpi"><span>세액공제 환급</span><strong>연 ${man(plan.tax.refund)}</strong></div>`}
     </div>
   </div>
+
+  ${missedCard(missed)}
 
   <div class="card">
     <div class="card-head"><h2>이번 달 할 일</h2>${pill('pill-accent', '에이전트 제안')}</div>
