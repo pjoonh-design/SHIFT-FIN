@@ -271,7 +271,7 @@ main.wrap { padding-block: 16px 28px; display: grid; gap: 16px; }
 .news small { font-size: 12px; color: var(--muted); }
 .rate-list { display: grid; }
 .rate-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 10px; padding: 9px 0; border-top: 1px solid var(--line); font-size: 14px; }
-.rate-row small { font-size: 12px; color: var(--muted); }
+.rate-row small { display: block; margin-top: 2px; font-size: 12px; color: var(--muted); }
 .rate-row strong { font-variant-numeric: tabular-nums; text-align: right; }
 
 /* ---------- 노후 ---------- */

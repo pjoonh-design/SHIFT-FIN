@@ -165,7 +165,14 @@ export function renderLive({ briefing, us, macro, rates, news }) {
 
   $('#us-card').innerHTML = ok(us)
     ? `<div class="card-head"><h2>어젯밤 미국장 마감</h2><span class="note">${updated(us)}</span></div>
-       <div class="stat-grid">${us.items.map(i => `<div class="stat"><span>${esc(i.name)}</span><strong>${i.value.toLocaleString('ko-KR', { maximumFractionDigits: 2 })}${esc(i.unit || '')}</strong><em class="${i.changePct >= 0 ? 'up' : 'down'}">${i.changePct >= 0 ? '▲' : '▼'} ${signed(i.changePct)}%</em></div>`).join('')}</div>
+       <div class="stat-grid">${us.items.map(i => {
+         // 금리는 '몇 % 변했나'가 아니라 '몇 %p 변했나'로 보여 준다 (5.09% → 5.15% 는 +0.06%p)
+         const isYield = i.unit === '%';
+         const up = (isYield ? i.change : i.changePct) >= 0;
+         const delta = isYield ? `${signed(i.change ?? 0)}%p` : `${signed(i.changePct ?? 0)}%`;
+         const day = i.date !== us.items[0].date ? ` · ${esc(String(i.date).slice(5).replace('-', '/'))}` : '';
+         return `<div class="stat"><span>${esc(i.name)}${day}</span><strong>${i.value.toLocaleString('ko-KR', { maximumFractionDigits: 2 })}${esc(i.unit || '')}</strong><em class="${up ? 'up' : 'down'}">${up ? '▲' : '▼'} ${delta}</em></div>`;
+       }).join('')}</div>
        <p class="note">${esc(us.items[0].date)} 마감 기준 · 출처 ${esc(us.source)}</p>`
     : waiting('어젯밤 미국장 마감', 'S&P 500·나스닥·다우·미국 10년물 금리·VIX의 전날 마감 값을 FRED에서 받아요.');
 
@@ -173,28 +180,33 @@ export function renderLive({ briefing, us, macro, rates, news }) {
     ? `<div class="card-head"><h2>한국 경제 지표</h2><span class="note">${updated(macro)}</span></div>
        <div class="stat-grid">
          ${macro.cpi ? `<div class="stat"><span>물가 상승률</span><strong>${macro.cpi.yoy}%</strong><em>${esc(macro.cpi.month)} 전년 대비</em></div>` : ''}
-         ${macro.items.map(i => `<div class="stat"><span>${esc(i.name)}</span><strong>${i.value.toLocaleString('ko-KR')}${i.unit === '%' ? '%' : ''}</strong><em>${esc(i.time)}</em></div>`).join('')}
+         ${macro.items.map(i => {
+           const v = i.unit === '%' ? i.value.toLocaleString('ko-KR', { minimumFractionDigits: 1, maximumFractionDigits: 3 }) : i.value.toLocaleString('ko-KR');
+           return `<div class="stat"><span>${esc(i.name)}</span><strong>${v}${i.unit === '%' || i.unit === '원' ? i.unit : ''}</strong><em>${esc(i.time)}</em></div>`;
+         }).join('')}
        </div>
        <p class="note">출처 ${esc(macro.source)} · 내 예·적금 금리가 물가 상승률보다 낮으면 실질적으로는 돈이 줄어요.</p>`
     : waiting('한국 경제 지표', '기준금리·물가 상승률·환율·경제성장률을 한국은행 ECOS에서 받아요.');
 
-  const rateRows = list => list.map(r => `<div class="rate-row"><span>${esc(r.bank)} · ${esc(r.product)}<small>12개월 ${esc(r.type)}${r.maxRate > r.rate ? ` · 우대 최고 ${r.maxRate}%` : ''}</small></span><strong>${r.rate}%</strong></div>`).join('');
+  const pct2 = v => Number(v).toFixed(2);
+  const rateRows = list => list.map(r => `<div class="rate-row"><span>${esc(r.bank)} · ${esc(r.product)}<small>12개월 ${esc(r.type)}${r.maxRate > r.rate ? ` · 우대 최고 ${pct2(r.maxRate)}%` : ''}</small></span><strong>${pct2(r.rate)}%</strong></div>`).join('');
+  const ym = m => (/^\d{6}$/.test(String(m || '')) ? `${String(m).slice(0, 4)}-${String(m).slice(4)}` : esc(m || ''));
   // 한국은행 은행 평균 금리: 상품 순위와 비교하는 기준선, 금감원 연결이 안 될 때는 이것만 보여 준다
   const bank = ok(macro) && macro.bankRates ? macro.bankRates : null;
   const bankItems = bank ? ['deposit1y', 'saving', 'creditLoan', 'mortgage'].map(k => bank.items[k]).filter(Boolean) : [];
   const bankMonth = bankItems.length ? bankItems[0].month : '';
   const savingAvg = bankItems.filter(i => /예금|적금/.test(i.name));
   const benchLine = savingAvg.length
-    ? `<p class="note">비교 기준 · 은행 평균(${esc(bankMonth)} 신규): ${savingAvg.map(i => `${esc(i.name)} ${i.value}%`).join(' · ')}</p>` : '';
+    ? `<p class="note">비교 기준 · 은행 평균(${esc(bankMonth)} 신규): ${savingAvg.map(i => `${esc(i.name)} ${pct2(i.value)}%`).join(' · ')}</p>` : '';
   $('#rates-card').innerHTML = ok(rates)
     ? `<div class="card-head"><h2>은행 금리 상위</h2><span class="note">${updated(rates)}</span></div>
        <p class="group-label">정기예금 (기본금리 순)</p><div class="rate-list">${rateRows(rates.deposit || [])}</div>
        <p class="group-label">적금</p><div class="rate-list">${rateRows(rates.saving || [])}</div>
        ${benchLine}
-       <p class="note">가입 제한이 없는 은행 상품만 골랐어요. 출처 ${esc(rates.source)} (${esc(rates.month || '')} 공시). 상품 추천이 아니라 비교용이에요.</p>`
+       <p class="note">가입 제한이 없는 은행 상품만 골랐어요. 출처 ${esc(rates.source)} (${ym(rates.month)} 공시). 상품 추천이 아니라 비교용이에요.</p>`
     : bankItems.length
       ? `<div class="card-head"><h2>은행 평균 금리</h2><span class="note">${esc(bankMonth)} 신규 기준</span></div>
-         <div class="stat-grid">${bankItems.map(i => `<div class="stat"><span>${esc(i.name)}</span><strong>${i.value}%</strong><em>${esc(i.month)}</em></div>`).join('')}</div>
+         <div class="stat-grid">${bankItems.map(i => `<div class="stat"><span>${esc(i.name)}</span><strong>${pct2(i.value)}%</strong><em>${esc(i.month)}</em></div>`).join('')}</div>
          <p class="note">은행들이 그 달 새로 받은 예금·대출의 평균 금리예요. 내 예금 금리가 이보다 낮거나 대출 금리가 이보다 높으면 다른 상품과 비교해 볼 때예요. 은행별 상품 순위는 준비 중이에요. 출처 ${esc(bank.source)}.</p>`
       : waiting('은행 금리', '정기예금·적금 금리 상위 상품(금융감독원)과 은행 평균 금리(한국은행)를 받아요.');
 
