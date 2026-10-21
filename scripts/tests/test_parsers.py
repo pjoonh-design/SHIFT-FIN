@@ -3,6 +3,7 @@ fixtures/ 의 값은 각 API 응답 형식을 본뜬 시험용 예시다(실제 
 import json
 import os
 import sys
+import tempfile
 import unittest
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -12,7 +13,9 @@ import fetch_ecos  # noqa: E402
 import fetch_finlife  # noqa: E402
 import fetch_fred  # noqa: E402
 import fetch_news  # noqa: E402
+import common  # noqa: E402
 import make_briefing  # noqa: E402
+import run_all  # noqa: E402
 from common import FetchError  # noqa: E402
 
 
@@ -41,6 +44,16 @@ class Ecos(unittest.TestCase):
         self.assertEqual(cpi["yoy"], round((118.1 / 115.7 - 1) * 100, 1))
 
 
+    def test_bank_rate_latest_month(self):
+        t, v = fetch_ecos.parse_latest(fx("ecos_bankrate.json"))   # 순서가 섞여 있어도 최신 달
+        self.assertEqual((t, v), ("202608", 2.61))
+        self.assertEqual(fetch_ecos.fmt_time(t), "2026-08")
+
+    def test_bank_rate_no_data(self):
+        with self.assertRaises(FetchError):
+            fetch_ecos.parse_latest(fx("ecos_error.json"))
+
+
 class Fred(unittest.TestCase):
     def test_latest_and_previous_skip_holiday(self):
         p = fetch_fred.parse_observations(fx("fred_sp500.json"))
@@ -61,6 +74,53 @@ class Finlife(unittest.TestCase):
         self.assertEqual(items[0]["rate"], 3.1)
         self.assertEqual(items[0]["maxRate"], 3.1)                              # 우대금리 없으면 기본금리
         self.assertTrue(all(i["term"] == 12 for i in items))
+
+
+    def test_merge_pages(self):
+        page = fx("finlife_deposit.json")
+        page2 = json.loads(json.dumps(page))
+        for b in page2["result"]["baseList"]:
+            b["fin_prdt_cd"] += "-P2"
+        for o in page2["result"]["optionList"]:
+            o["fin_prdt_cd"] += "-P2"
+        merged = fetch_finlife.merge_pages([page, page2])
+        self.assertEqual(len(merged["result"]["baseList"]), 2 * len(page["result"]["baseList"]))
+        self.assertEqual(len(fetch_finlife.parse_products(merged, top=10)), 4)   # 페이지마다 가입 가능 2개
+
+    def test_error_page(self):
+        with self.assertRaises(FetchError):
+            fetch_finlife.merge_pages([{"result": {"err_cd": "100", "err_msg": "auth 누락"}}])
+
+
+class RunAll(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.old_dir, common.LIVE_DIR = common.LIVE_DIR, self.tmp.name
+        os.environ["FINLIFE_API_KEY"] = "SECRET-KEY-123"
+
+    def tearDown(self):
+        common.LIVE_DIR = self.old_dir
+        os.environ.pop("FINLIFE_API_KEY", None)
+        self.tmp.cleanup()
+
+    def test_unexpected_error_is_recorded_without_key(self):
+        def boom(key):
+            raise RuntimeError(f"connection reset while calling ?auth={key}")
+        msg = run_all.run_one("rates.json", "FINLIFE_API_KEY", boom)
+        self.assertIn("실패", msg)
+        saved = common.read_live("rates.json")
+        self.assertTrue(saved["stale"])
+        self.assertNotIn("SECRET-KEY-123", saved["lastError"])          # 키는 가린다
+        self.assertIn("RuntimeError", saved["lastError"])
+        self.assertEqual(saved["message"], "연결 실패, 다음 수집 때 다시 시도")
+
+    def test_previous_ok_data_is_kept(self):
+        common.write_live("rates.json", {"status": "ok", "deposit": [1]})
+        run_all.run_one("rates.json", "FINLIFE_API_KEY", lambda k: (_ for _ in ()).throw(FetchError("시간 초과")))
+        saved = common.read_live("rates.json")
+        self.assertEqual(saved["status"], "ok")
+        self.assertEqual(saved["deposit"], [1])
+        self.assertTrue(saved["stale"])
 
 
 class News(unittest.TestCase):

@@ -12,7 +12,7 @@ import fetch_finlife  # noqa: E402
 import fetch_fred  # noqa: E402
 import fetch_news  # noqa: E402
 import make_briefing  # noqa: E402
-from common import FetchError, now_iso, read_live, write_live  # noqa: E402
+from common import FetchError, now_iso, read_live, redact, write_live  # noqa: E402
 
 SOURCES = [
     ("macro.json", "ECOS_API_KEY", lambda k: fetch_ecos.fetch(k)),
@@ -33,11 +33,16 @@ def run_one(name, env, fn):
     try:
         write_live(name, fn(key))
         return f"{name}: 성공"
-    except (FetchError, ValueError, KeyError) as e:
+    except Exception as e:  # 한 소스가 실패해도 나머지는 계속 모은다
+        if not isinstance(e, FetchError):
+            e = FetchError(f"{type(e).__name__}: {e}")
+        msg = redact(str(e))[:300]
         prev = read_live(name) or {"status": "pending"}
-        prev.update({"stale": True, "lastError": str(e)[:300], "lastErrorAt": now_iso()})
+        if prev.get("status") != "ok":
+            prev["message"] = "연결 실패, 다음 수집 때 다시 시도"
+        prev.update({"stale": True, "lastError": msg, "lastErrorAt": now_iso()})
         write_live(name, prev)
-        return f"{name}: 실패 ({e})"
+        return f"{name}: 실패 ({msg})"
 
 
 def main():

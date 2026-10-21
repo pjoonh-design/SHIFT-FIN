@@ -179,12 +179,24 @@ export function renderLive({ briefing, us, macro, rates, news }) {
     : waiting('한국 경제 지표', '기준금리·물가 상승률·환율·경제성장률을 한국은행 ECOS에서 받아요.');
 
   const rateRows = list => list.map(r => `<div class="rate-row"><span>${esc(r.bank)} · ${esc(r.product)}<small>12개월 ${esc(r.type)}${r.maxRate > r.rate ? ` · 우대 최고 ${r.maxRate}%` : ''}</small></span><strong>${r.rate}%</strong></div>`).join('');
+  // 한국은행 은행 평균 금리: 상품 순위와 비교하는 기준선, 금감원 연결이 안 될 때는 이것만 보여 준다
+  const bank = ok(macro) && macro.bankRates ? macro.bankRates : null;
+  const bankItems = bank ? ['deposit1y', 'saving', 'creditLoan', 'mortgage'].map(k => bank.items[k]).filter(Boolean) : [];
+  const bankMonth = bankItems.length ? bankItems[0].month : '';
+  const savingAvg = bankItems.filter(i => /예금|적금/.test(i.name));
+  const benchLine = savingAvg.length
+    ? `<p class="note">비교 기준 · 은행 평균(${esc(bankMonth)} 신규): ${savingAvg.map(i => `${esc(i.name)} ${i.value}%`).join(' · ')}</p>` : '';
   $('#rates-card').innerHTML = ok(rates)
     ? `<div class="card-head"><h2>은행 금리 상위</h2><span class="note">${updated(rates)}</span></div>
        <p class="group-label">정기예금 (기본금리 순)</p><div class="rate-list">${rateRows(rates.deposit || [])}</div>
        <p class="group-label">적금</p><div class="rate-list">${rateRows(rates.saving || [])}</div>
+       ${benchLine}
        <p class="note">가입 제한이 없는 은행 상품만 골랐어요. 출처 ${esc(rates.source)} (${esc(rates.month || '')} 공시). 상품 추천이 아니라 비교용이에요.</p>`
-    : waiting('은행 금리 상위', '정기예금·적금 12개월 금리 상위 상품을 금융감독원 금융상품한눈에서 받아요.');
+    : bankItems.length
+      ? `<div class="card-head"><h2>은행 평균 금리</h2><span class="note">${esc(bankMonth)} 신규 기준</span></div>
+         <div class="stat-grid">${bankItems.map(i => `<div class="stat"><span>${esc(i.name)}</span><strong>${i.value}%</strong><em>${esc(i.month)}</em></div>`).join('')}</div>
+         <p class="note">은행들이 그 달 새로 받은 예금·대출의 평균 금리예요. 내 예금 금리가 이보다 낮거나 대출 금리가 이보다 높으면 다른 상품과 비교해 볼 때예요. 은행별 상품 순위는 준비 중이에요. 출처 ${esc(bank.source)}.</p>`
+      : waiting('은행 금리', '정기예금·적금 금리 상위 상품(금융감독원)과 은행 평균 금리(한국은행)를 받아요.');
 
   $('#news-card').innerHTML = ok(news)
     ? `<div class="card-head"><h2>경제 뉴스</h2><span class="note">${updated(news)}</span></div>

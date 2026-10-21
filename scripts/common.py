@@ -1,5 +1,6 @@
 """데이터 수집 공통 도구. 표준 라이브러리만 사용한다."""
 import datetime
+import http.client
 import json
 import os
 import time
@@ -17,7 +18,9 @@ def now_iso():
 
 
 class FetchError(Exception):
-    pass
+    def __init__(self, message, reason=None):
+        super().__init__(message)
+        self.reason = reason or message   # 짧은 원인 (시간 초과, HTTP 403 등)
 
 
 def http_get(url, headers=None, timeout=25, retries=3):
@@ -29,10 +32,15 @@ def http_get(url, headers=None, timeout=25, retries=3):
             req = urllib.request.Request(url, headers=req_headers)
             with urllib.request.urlopen(req, timeout=timeout) as res:
                 return res.read()
-        except (urllib.error.URLError, TimeoutError) as e:  # 일시 오류는 잠깐 쉬고 다시
+        except urllib.error.HTTPError as e:
+            last = e
+            if 400 <= e.code < 500 and e.code != 429:   # 키·주소 문제는 다시 해도 같다
+                break
+            time.sleep(2 * (attempt + 1))
+        except (OSError, http.client.HTTPException) as e:  # 연결 끊김·시간 초과 등 일시 오류
             last = e
             time.sleep(2 * (attempt + 1))
-    raise FetchError(f"GET 실패: {redact(url)} ({last})")
+    raise FetchError(f"GET 실패: {redact(url)} ({last})", reason=redact(str(last)))
 
 
 def http_post_json(url, payload, headers=None, timeout=60):
