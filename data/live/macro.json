@@ -1,5 +1,60 @@
 {
- "status": "pending",
- "updatedAt": null,
- "message": "자동 수집 대기"
+ "status": "ok",
+ "updatedAt": "2026-10-21T18:43+09:00",
+ "source": "한국은행 경제통계시스템(ECOS)",
+ "items": [
+  {
+   "key": "baseRate",
+   "name": "기준금리",
+   "value": 3.0,
+   "unit": "%",
+   "time": "2026-10-19",
+   "source": "한국은행 기준금리"
+  },
+  {
+   "key": "usdkrw",
+   "name": "원/달러 환율",
+   "value": 1325.2,
+   "unit": "원",
+   "time": "2026-10-21",
+   "source": "원/달러 환율(종가)"
+  },
+  {
+   "key": "gdp",
+   "name": "경제성장률",
+   "value": 0.6,
+   "unit": "%",
+   "time": "2026-Q2",
+   "source": "경제성장률(실질, 계절조정 전기대비)"
+  },
+  {
+   "key": "kospi",
+   "name": "코스피",
+   "value": 5552.74,
+   "unit": "1980.01.04=100 ",
+   "time": "2026-10-20",
+   "source": "코스피지수"
+  },
+  {
+   "key": "ktb3",
+   "name": "국고채 3년",
+   "value": 3.822,
+   "unit": "%",
+   "time": "2026-10-21",
+   "source": "국고채수익률(3년)"
+  },
+  {
+   "key": "unemployment",
+   "name": "실업률",
+   "value": 2.0,
+   "unit": "%",
+   "time": "2026-09",
+   "source": "실업률"
+  }
+ ],
+ "cpi": {
+  "month": "2026-09",
+  "yoy": 2.9,
+  "index": 120.43
+ }
 }
