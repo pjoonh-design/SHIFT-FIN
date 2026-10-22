@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-22T21:23+09:00",
+ "updatedAt": "2026-10-23T07:25+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
@@ -29,34 +29,34 @@
    "id": "DJIA",
    "name": "다우존스",
    "unit": "",
-   "date": "2026-10-21",
-   "value": 52856.09,
-   "prevDate": "2026-10-20",
-   "prev": 52495.88,
-   "change": 360.21,
-   "changePct": 0.69
+   "date": "2026-10-22",
+   "value": 52867.98,
+   "prevDate": "2026-10-21",
+   "prev": 52856.09,
+   "change": 11.89,
+   "changePct": 0.02
   },
   {
    "id": "DGS10",
    "name": "미국 10년물 국채금리",
    "unit": "%",
-   "date": "2026-10-20",
-   "value": 5.12,
-   "prevDate": "2026-10-19",
-   "prev": 5.15,
-   "change": -0.03,
-   "changePct": -0.58
+   "date": "2026-10-21",
+   "value": 5.13,
+   "prevDate": "2026-10-20",
+   "prev": 5.12,
+   "change": 0.01,
+   "changePct": 0.2
   },
   {
    "id": "VIXCLS",
    "name": "VIX 변동성 지수",
    "unit": "",
-   "date": "2026-10-20",
-   "value": 17.31,
-   "prevDate": "2026-10-19",
-   "prev": 18.44,
-   "change": -1.13,
-   "changePct": -6.13
+   "date": "2026-10-21",
+   "value": 16.68,
+   "prevDate": "2026-10-20",
+   "prev": 17.31,
+   "change": -0.63,
+   "changePct": -3.64
   }
  ],
  "errors": []

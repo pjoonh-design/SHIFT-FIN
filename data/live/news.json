@@ -1,14 +1,35 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-22T21:23+09:00",
+ "updatedAt": "2026-10-23T07:25+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "한은, 기준금리 3%로 동결…\"긴축 기조 이어갈 것\"",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmRqRFh5cF9hTk0wQXJnWHFVOHAwLWc3Ml9fN2NnWFVDZlJWLURvWlNrSnlZVFItYXhBbHBoa05RNUhjQ1RUbUNObXhQbjB5SmhMY0VzS0pLNE9sTWQxMUpiNkRXN0E?oc=5",
-   "source": "연합뉴스TV",
-   "published": "2026-10-22T12:06:00+00:00",
+   "title": "여야, 8개 상임위서 종합감사…홈플러스·기준금리·부동산 등 쟁점 전망",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HOExTS1hOc1p1cTdDSXE1ZDJIOEZ4akUyZDJuWlgzLWNSMDRlU3dpLWRsdjVfZXdvNHdPQWFsS0ZHaUtZbV93WEpNajk4UkxVN2FWUnJuZkh2QQ?oc=5",
+   "source": "뉴스1",
+   "published": "2026-10-22T20:00:00+00:00",
    "topic": "금리"
+  },
+  {
+   "title": "뉴욕증시, 하락세로 전환…나스닥 2.23%↓",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IREUxb05SbjlTekNFNGFKaTNRemRJbk93N1dsYVF0dmR2ZHg3SVliUDVjeXB4QkNHcUxnNm5UWGNsaUtvczVhU0t0SUJ4V1ll?oc=5",
+   "source": "블루밍비트",
+   "published": "2026-10-22T15:46:13+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "기준금리 3% 동결...한은 총재, 재정 정책에 쓴소리",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVWdWY052UVhuM3M0TTl0b1RZOWxXVXFsaW8tZXVydU00OGJ6UWRGNFBSNHduOGNaREJ4TzRrdkpRVlZncDVFREtvWXJwbkp0VjktXzViRTdaLXFvUmc?oc=5",
+   "source": "YTN",
+   "published": "2026-10-22T14:02:00+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "미국증시, 테슬라·메타 AI 투자 우려에 나스닥 급락…반도체·SK하이닉스 동반 약세",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TVzRpQTB5a0ZrU1JJZl9ZcTlzS1ZVUDJZRjRaUmxXeWkyaWdCR2NtZ0pSWEFXd1pPeVJLcGJWQXp2YnNWX3pLZHE2RncwSktXeXQ3Qnc5MllzaHd2eEJRV2hlbUhWNzFUUWU5QWplLXdGQQ?oc=5",
+   "source": "TopStarNews",
+   "published": "2026-10-22T13:41:36+00:00",
+   "topic": "미국 증시"
   },
   {
    "title": "달러-원, 뉴욕장서 1,320원 중반대 거래",
@@ -18,32 +39,18 @@
    "topic": "환율"
   },
   {
-   "title": "한은, 기준금리 3% 만장일치 동결…“불확실성 높아져”",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mTERRVUE3NnJCSkNiQktGNGhBVV9jTUFZbFZEa3ItaWRlZUl0NGFnSlEyZW1iQWJoNXdGZzJqVGRLelllUVlOOWZ5Mkw2Y2czZ1JTN1o4RTR2NllkbDhlQXFuSElodnAtMDFYc1N5X2plZw?oc=5",
-   "source": "한겨레",
-   "published": "2026-10-22T10:53:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "환헤지 ETF 사길 잘했네 … 수익률 10%P 더 높았다",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPMDg1ZzlUMlBDWTZrc1ZVQ2pZelNsbXBoZTVCS2d5OVFhQ09neW5KYTNOWlhYUHo0aG0yOVhLMVNHOHA0cThfSUl1SHExRXRiX0E?oc=5",
-   "source": "매일경제 마켓",
-   "published": "2026-10-22T08:39:43+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "한은 금통위, 기준금리 3%로 동결…2연속 인상 후 숨고르기",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeXd3OXl4SWZhU1F0aXg4UFYtdDlmLWRnejZTNlB6aXpnLXNOcTBHX0pPVXJLdzJiWHd4R295ZS1lRFBFQVBXbEVYaVVEVUZUODBIcjhFWldRY19TS2dxVW9rWXlpbFl2X2xkS0pSaC13SDhJcEZid0l1MGM3WTdXWWJOcjFaM0h6bmI1VFl3?oc=5",
-   "source": "조선일보",
-   "published": "2026-10-22T04:31:52+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "원/달러 환율, '매파적 동결' 금통위 소화하며 하락세",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ua2ZlbE5STFplZVVmR1l0LVAtWEd0NTRYVG16b05fYWxRc0h2MXJmUW10VnNiVl81WWNNaFFMRktDYk90U2JQcW13ek5xNmR1YW5MSWlUQ0puQ0nSAWBBVV95cUxQUk1ZNF83bFRxNndBSHNkekpMQW1zM3hsMjZUd0lVbnM4VjRVSEwxUVEtQ0RIMk5EbE83YU1KMXNsTGtLWmpjcjJWZUR4TExEOVlrc285LW9xdFFhdXRmU0I?oc=5",
+   "title": "원/달러 환율 '매파적 동결' 금통위에 하락…연저점 또 경신(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxOWk2MGtwQU5hS3p0QmJacG9vdmRwNG12WV83TXZNRjlJUi10b3V6UVZJYlJsZDhQTWJDeUdpTzlXd1dHMkJ0WUVpdUEwUWxDUEQ0UEduYjRRM1nSAWBBVV95cUxQajVwWTJGT3p1cG51LWc0NjRyeUhLU1cwcTdPQ2o5UlRlT201MmJ1WjYta1FaLXFYcnBlM2RFQWFSSWx5MVhTOEFVSGJNc3I1WlRyT2w3ZnVQd3NxYmZScjA?oc=5",
    "source": "연합뉴스",
-   "published": "2026-10-22T03:32:56+00:00",
+   "published": "2026-10-22T07:10:00+00:00",
    "topic": "환율"
+  },
+  {
+   "title": "한은, 연 3% 기준금리 동결…“연속 인상 영향 점검”",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbHlZc2pHM3NJU1FMMG95N3E1T3VySEh5UjgyMUNKYkN5TUlKVnZMbnF1amdOd3ZFaU9qNjdxampUYzV3aFV2aGVvTlVGN0VDWXJqb1lPb0RWejg?oc=5",
+   "source": "KBS 뉴스",
+   "published": "2026-10-22T00:51:00+00:00",
+   "topic": "금리"
   },
   {
    "title": "[속보] 한은, 기준금리 연 3%로 동결…2연속 인상 뒤 숨고르기",
@@ -53,13 +60,6 @@
    "topic": "금리"
   },
   {
-   "title": "원·달러 환율, 2.4원 오른 1327.6원 - 조선비즈",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORUVaZUJ2akRweUNQV0ZnTDRWMzd1YktYRml3UlhkWFlKSVBDUGdLbXhiU3hHRjcwQ2tWc2ZyZlNhcjdUVjFsVWtTUTFnak1vbG9IM1k0MjZCMkNHRnZmV283Z1E5ZEVIVTdCSGotZFd3YkplYVYyNE5Iam96djAyMndWYksyUdIBmgFBVV95cUxOb3JTel9aQVNlVE8wOFpEMkpuQ2QwSlg0bEVycWh3ZnVjSGZIOG5BaGpLbFdwYXdXZ0RMQU95MVl0WThTMmZjS28tdHMwQl9wZWdQZFhFUjBvd2pFMDJMT2M2ZTh1eGJpMFZnOXB1TkYwVExmVVliZG9GalZKY3VZR3hNaDZBX19QckRSZXhQX1dZQkxFaG9DQkRR?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-10-22T00:38:29+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "미국증시도 곧 조정에 들어갈 것 코스피는 못 버틸 겁니다",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Ni1yaThPQmE4Z29GN3FrZGlpa1RqWDRBYXVtWllnRDlYM0dQMVg5WnFpa0xEZ0cyN2phcjNEX2V5ZUFQOHlVNEI4MUdtcnpNekJaZ3JQTjR1N0ZuY1F5cVczU3hvRGFtOVNxaUxRWUnSAXRBVV95cUxOam4yMmF3dWU5X3FkdjZBNHZVVFFSQk4wdHhnWmk0WmZHRGNqeDcyVTBaOUkxRlBmcGcyX0NCdV9tRF9PZEI1aHk5XzZReHUtM1RHd1Y0NVdmTVZyeTBWZzJiTXRObmtIMVJ0X3VqREsyNF85UQ?oc=5",
    "source": "연합인포맥스",
@@ -67,10 +67,10 @@
    "topic": "미국 증시"
   },
   {
-   "title": "AI 호실적에 미 3대 지수 모두 상승",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IelZaM25QSXZDSVR2Ykg5bUNiRkI0SXZidVJkeUlFS2lmenpraVRFQThNZVJLbGpWR1RXQWp0X1ZiNWJrTDRyZ051N2dtb3M0VWx2OV84U2JIakEwSkhwOGdPM2JteUdEMEV6OA?oc=5",
-   "source": "KB Think",
-   "published": "2026-10-21T22:45:05+00:00",
+   "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1%대 올라",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42V3ExVml4ZDk5UVVvdTBqd2daN3JXZUl2bnNURnBoM1lRTkpFTjRkLWVYR1NqMUZJZkUzVF9KdDRla1NqV3FsRXpDNUdtbUZlb0tFcmxYZDlTb1BfQWtYb1VPUTRQX3JrUi1NdDUtT051bHBXd2lidUhTZ3ZYUQ?oc=5",
+   "source": "서울신문",
+   "published": "2026-10-21T21:10:15+00:00",
    "topic": "미국 증시"
   }
  ]
