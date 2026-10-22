@@ -86,5 +86,8 @@
    }
   },
   "source": "한국은행 예금은행 가중평균금리(신규취급액 기준)"
- }
+ },
+ "stale": true,
+ "lastError": "GET 실패: https://ecos.bok.or.kr/api/KeyStatisticList/***/json/kr/1/120 (<urlopen error timed out>)",
+ "lastErrorAt": "2026-10-22T12:29+09:00"
 }

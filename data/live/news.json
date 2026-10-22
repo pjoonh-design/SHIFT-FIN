@@ -1,28 +1,56 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-22T07:27+09:00",
+ "updatedAt": "2026-10-22T12:29+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "오늘(22일) 10월 한은 금통위…기준금리 동결 전망 우세",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1X2wzU2c1LUNhMUd5TFdQZFh3M092elU1Tk5BM1VvM3F4VzktM2QtNF9JT3JLcUs5aUk1VGpmYkN1ZkxsVXVNWlRadTJGelRCQWZBZWZaRnFDZlpoaXM2a2xjUUE5U19YU2dDUl9EZXRWZEtLX2JXZUVUcw?oc=5",
-   "source": "한국금융신문",
-   "published": "2026-10-21T21:00:00+00:00",
+   "title": "MUFG \"英 중앙은행 금리 인상 전망…내년 초 기준금리 4.25%\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyZVljU3NGMnVZeW1UTmZMTjhxdnhHX2RqZVpvbUc1LUNYMzl2cW43SXAxbEJlTjhwd3NMY2Y0d3RIVHdBSUc2dUNzV2poelh5QURDTTd1OGxzUm1fV3BycnJkUThwbDhkbEhYTFEzZ04?oc=5",
+   "source": "연합인포맥스",
+   "published": "2026-10-22T03:12:41+00:00",
    "topic": "금리"
   },
   {
-   "title": "한은 금통위, 오늘 기준금리 결정…동결 무게",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01d0ExRlBIS2JEWUc5T1VXZGVoemE2cmc2Y2NSMGZISWVWNEYycURiU3hLYzV5TzBOUGtCX2RtN1NZdUlQV002MkQ0VVNGbHdOdi15eXRxY0JjUWZPNHpfbXFSb0xOajA?oc=5",
+   "title": "한은, 기준금리 연 3%로 동결...\"기존 인상 효과 점검\"",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwUkJKaVduaGF4QkhfcVRkZlhzZ3VXY3p1UVp5ZUw1MW10ZnFvRzdnZUJ0T0Y5cl9FZmJQZFYtam03bzc3Rk10djYxNEFrNW9fN1FzVnlVVXJJaDVCSnV3amJrV2E0QWNhUnhOUFNXOA?oc=5",
+   "source": "YTN",
+   "published": "2026-10-22T02:40:00+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "[환율 전망] 변동성 줄어든 시장, 여전히 환율 하락에 무게",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hT1BUdWxOQTlETTdlS3hMWVVNRlJncFozYkNMM29QVWdnSzV5RC1EWm9JTnRMaXZkMVdTeW50T0NLUG5JQng2OTk0NG1tbUxWNkJUTGozbkw4d2xlakpmTw?oc=5",
+   "source": "KB Think",
+   "published": "2026-10-22T01:57:52+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "한은, 기준금리 3% 동결…3연속 인상은 피해",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnM0pKNElMRnRhVmtzTlVkcVVmRV9uNkktb3l4aGZpbHV2bjM2Mk1kNDM0dE8xMjZLYUVMUzZzSk9VRDNmWTN6VUZYdVdSLS05QWNtblIwQTBBUEFzeGktY2ViM3VZVFk?oc=5",
    "source": "연합뉴스TV",
-   "published": "2026-10-21T19:47:00+00:00",
+   "published": "2026-10-22T01:06:00+00:00",
    "topic": "금리"
   },
   {
-   "title": "오늘 한은 금통위 기준금리 결정…‘동결’ 전망 우세",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BNDlTV2xUSGJodlVRQzFTM3hBREJLUDVYODF0M1lHSTYwaWpLcm51UWRnRzlnbHNZMllyX01Hbm5FN1N4OTMwVU5WODZNVnNib1FHbUpLM2QyNVE?oc=5",
-   "source": "KBS 뉴스",
-   "published": "2026-10-21T16:04:00+00:00",
+   "title": "[속보] 한은 금통위, 기준금리 동결…2연속 인상 뒤 숨고르기",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjZtd0p6bHVGNndIRkVRYkNheVl3eEdfUmlKNEw1bkFjMlNfcDB3cW1jdHZzaUVZMFR4REF0WW0yRkNsS1RwbFA1a25KamlZMldQaXN3?oc=5",
+   "source": "중앙일보",
+   "published": "2026-10-22T00:50:24+00:00",
    "topic": "금리"
+  },
+  {
+   "title": "원·달러 환율, 2.4원 오른 1327.6원 - 조선비즈",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORUVaZUJ2akRweUNQV0ZnTDRWMzd1YktYRml3UlhkWFlKSVBDUGdLbXhiU3hHRjcwQ2tWc2ZyZlNhcjdUVjFsVWtTUTFnak1vbG9IM1k0MjZCMkNHRnZmV283Z1E5ZEVIVTdCSGotZFd3YkplYVYyNE5Iam96djAyMndWYksyUdIBmgFBVV95cUxOb3JTel9aQVNlVE8wOFpEMkpuQ2QwSlg0bEVycWh3ZnVjSGZIOG5BaGpLbFdwYXdXZ0RMQU95MVl0WThTMmZjS28tdHMwQl9wZWdQZFhFUjBvd2pFMDJMT2M2ZTh1eGJpMFZnOXB1TkYwVExmVVliZG9GalZKY3VZR3hNaDZBX19QckRSZXhQX1dZQkxFaG9DQkRR?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-10-22T00:33:45+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "IBK증권 \"삼성바이오, 원·달러 환율 하락에도 성장궤도 유지\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oVlRGUVlnU09Fd2dOamM3WmlIX3dXbFhQY3pxUllvR0N5SnNGWVVCRW91a2NDUlVNOWZVcWZUaFN0V29KN05LdEthdk9XcHIxRTh0Z0J2SGMxOHfSAWBBVV95cUxQZFpqX2pHZmZxLTlsNHFwcEdIZVBwNXBJMVpyVS1fa0o4QjFnWnVnOGlxSTdpeExaVHo0MlQ3dUd5QlR0SVNEenBHVzZaclhwZk1hMDRRekRpWnBHYUlyWVY?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-21T23:20:55+00:00",
+   "topic": "환율"
   },
   {
    "title": "미국증시, 스페이스X·테슬라 호재에 나스닥 상승…AI반도체 반등에도 다우 약세",
@@ -32,39 +60,11 @@
    "topic": "미국 증시"
   },
   {
-   "title": "인도네시아 중앙은행, 성장 우려 속 기준금리 5.75% 동결",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEY1Bva1lreW1fZE9jdEtsaWpmSzZDM0NHMVZQcmRXMy1peTl1TXMxeXFRbW9mSkJRNEl6dTNBZngxVTBjaERlOVZfMzRGRmQ3Q19hMkdnZjRwQ3lyMVhIVmRxdThudzhsZDR1anU0SU4?oc=5",
-   "source": "Investing.com 한국어",
-   "published": "2026-10-21T08:39:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "원/달러 환율 4거래일 연속 연저점 기록…1,320원대 초반",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45M2RERnpOZ2Q0OU9nNXlmaW93VkV5b3dUMGwtSnZZQlhRdTk2XzhLbUlUS3hsSkUtNWE3dmtDa3h6dmFVU1FSUkswYjZfenJJWDU1VkR1cDh0dWvSAWBBVV95cUxOSGZEU3pTNWV1bi1Bd3NrS2lXcTJwQm1CMmlYN2F1di1KQTBBb1dsdU03bXhwRlNUSk9mNUJMYVpvbDVIZG1qZWFXSzBiNXFDMFZZMS1oWXdLT1BpY3pKR0Q?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-10-21T06:52:03+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "원·달러 환율, 2.9원 내린 1325.2원 - 조선비즈",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmdhMHhjV21CTUV2SE1GTmFud0gwZUdsUklFSG5SbXZFZWg2b3pVcDRrbzlSMFNtTEpTZnlMWGRWZFJDNnFrSGhiR2M0emFyNUgtV2d6QkVlXzdnaXIySGtqMFM2T0FPQ0JOaEVtMUtjSWVHalQ1RUxYcUlpZERRNnlDUzc0Z9IBmgFBVV95cUxPcFhJSnA3WlhCb2dLYUVJb2FHZS05WEVvVk5WQXdaekNNM1ZOTWtzYjJEd0xXTzR4NC13Y0JRa3BBR2tUQU5CMFZYWFFHYTRIVDV2YlYwSUV1ejBldXhXUmFDcFlFYkZKV2dabmdnbEZyd1NrTUFCVkN5ZjVIYk1QTlpjZHNpYTRva1p2Ql9PdmY2dTBScVdjbUV3?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-10-21T06:51:00+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "미국증시, 다우 1%대 상승·나스닥 약보합…중동 긴장 완화 기대에 낙폭 회복, 반도체는 약세",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hRmxldks2emdkUjhYLWFVTEtmWnZReUQtbGJBalUyQzhzZ2d0LWg5RHZYdnM3b1VzWjliTGwxc2lIZF82VmpNSjZEM25wT1lpM0tqY1JhQ2NpTkVpOWl0MEpEUlNsZGtMRUFvUEc4Zk1mQQ?oc=5",
    "source": "TopStarNews",
    "published": "2026-10-20T22:20:56+00:00",
    "topic": "미국 증시"
-  },
-  {
-   "title": "원/달러 환율 1,325원 연저점 또 경신…원/엔 환율 동반 경신",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HSU8yMUwyVFVrWkVyS3BXZXhCb2NzbXVkbHd5MEY5WTJ5NkRyQkhJa3NrbFJrcXM1RDA3VURybVhfd2ZOYTRHT295NU9HVzZpYU5WSWZCcmNJbjdqOVYzQnJKMnFrTTA?oc=5",
-   "source": "연합뉴스TV",
-   "published": "2026-10-20T07:29:00+00:00",
-   "topic": "환율"
   },
   {
    "title": "1330원 코앞에서 멈춘 원-달러 환율…더 안 떨어지는 이유는?",
