@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-22T12:29+09:00",
+ "updatedAt": "2026-10-22T21:23+09:00",
  "source": "금융감독원 금융상품한눈에",
  "month": "202610",
  "via": "https",
@@ -36,8 +36,8 @@
    "month": "202610"
   },
   {
-   "bank": "수협은행",
-   "product": "헤이(Hey)정기예금",
+   "bank": "케이뱅크",
+   "product": "내맘대로 이자받는 정기예금",
    "rate": 3.81,
    "maxRate": 3.81,
    "term": 12,
@@ -46,10 +46,10 @@
    "month": "202610"
   },
   {
-   "bank": "토스뱅크",
-   "product": "토스뱅크 원하는 날 만기되는 정기예금",
-   "rate": 3.8,
-   "maxRate": 3.8,
+   "bank": "수협은행",
+   "product": "헤이(Hey)정기예금",
+   "rate": 3.81,
+   "maxRate": 3.81,
    "term": 12,
    "type": "단리",
    "open": true,

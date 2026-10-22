@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-22T07:26+09:00",
+ "updatedAt": "2026-10-22T21:23+09:00",
  "source": "한국은행 경제통계시스템(ECOS)",
  "items": [
   {
@@ -8,15 +8,15 @@
    "name": "기준금리",
    "value": 3.0,
    "unit": "%",
-   "time": "2026-10-19",
+   "time": "2026-10-22",
    "source": "한국은행 기준금리"
   },
   {
    "key": "usdkrw",
    "name": "원/달러 환율",
-   "value": 1325.2,
+   "value": 1324.2,
    "unit": "원",
-   "time": "2026-10-21",
+   "time": "2026-10-22",
    "source": "원/달러 환율(종가)"
   },
   {
@@ -38,9 +38,9 @@
   {
    "key": "ktb3",
    "name": "국고채 3년",
-   "value": 3.822,
+   "value": 3.84,
    "unit": "%",
-   "time": "2026-10-21",
+   "time": "2026-10-22",
    "source": "국고채수익률(3년)"
   },
   {
@@ -86,8 +86,5 @@
    }
   },
   "source": "한국은행 예금은행 가중평균금리(신규취급액 기준)"
- },
- "stale": true,
- "lastError": "GET 실패: https://ecos.bok.or.kr/api/KeyStatisticList/***/json/kr/1/120 (<urlopen error timed out>)",
- "lastErrorAt": "2026-10-22T12:29+09:00"
+ }
 }
