@@ -1,34 +1,48 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-23T07:25+09:00",
+ "updatedAt": "2026-10-23T12:28+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "여야, 8개 상임위서 종합감사…홈플러스·기준금리·부동산 등 쟁점 전망",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HOExTS1hOc1p1cTdDSXE1ZDJIOEZ4akUyZDJuWlgzLWNSMDRlU3dpLWRsdjVfZXdvNHdPQWFsS0ZHaUtZbV93WEpNajk4UkxVN2FWUnJuZkh2QQ?oc=5",
-   "source": "뉴스1",
-   "published": "2026-10-22T20:00:00+00:00",
+   "title": "한은, 기준금리 3% 만장일치 동결…“불확실성 높아져”",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mTERRVUE3NnJCSkNiQktGNGhBVV9jTUFZbFZEa3ItaWRlZUl0NGFnSlEyZW1iQWJoNXdGZzJqVGRLelllUVlOOWZ5Mkw2Y2czZ1JTN1o4RTR2NllkbDhlQXFuSElodnAtMDFYc1N5X2plZw?oc=5",
+   "source": "한겨레",
+   "published": "2026-10-23T02:53:00+00:00",
    "topic": "금리"
   },
   {
-   "title": "뉴욕증시, 하락세로 전환…나스닥 2.23%↓",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IREUxb05SbjlTekNFNGFKaTNRemRJbk93N1dsYVF0dmR2ZHg3SVliUDVjeXB4QkNHcUxnNm5UWGNsaUtvczVhU0t0SUJ4V1ll?oc=5",
-   "source": "블루밍비트",
-   "published": "2026-10-22T15:46:13+00:00",
+   "title": "재경위·산중위 등 8곳 종합감사…MBK·기준금리·개인정보 유출 쟁점",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yZGZlYklKZWQ1eHhCY1BKZEx5UWF6SUJfaW05R3NKdDFLdFp1NFdGRVVzQlVtZy1kTzNpbG9MNXp1SGdNTHpzZUJjOWNWQy1MbGdmazhCVWdZSGEtcFo1SA?oc=5",
+   "source": "아시아경제",
+   "published": "2026-10-23T02:05:00+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "미국 증시 12월부터 하루 23시간 거래…투자판 바뀐다",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYbkp3bHdlS3BoZFhTS1NkNDVvT3lISWF6Y29XUllkTzhtVUNkWlU5MGw3MTNHVmZDN2xoeDhXdHFtSi11OVFrQWFNYjdsdldLMGlZZGl6d0tTZw?oc=5",
+   "source": "한국경제",
+   "published": "2026-10-23T00:28:08+00:00",
    "topic": "미국 증시"
   },
   {
-   "title": "기준금리 3% 동결...한은 총재, 재정 정책에 쓴소리",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVWdWY052UVhuM3M0TTl0b1RZOWxXVXFsaW8tZXVydU00OGJ6UWRGNFBSNHduOGNaREJ4TzRrdkpRVlZncDVFREtvWXJwbkp0VjktXzViRTdaLXFvUmc?oc=5",
+   "title": "SK하이닉스, 손자회사 솔리다임 미국 증시 상장 철회",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBudGZqNGQ3VHBHN1hDclp3QkVTRHBkd0pSdzJ0Ql80V1J5YU1BSVAtTnZjR3dCZk0wSlVpUjZzeXNxUDJOc04wenBVcWxZZw?oc=5",
+   "source": "전자신문",
+   "published": "2026-10-22T22:37:28+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[스타트 경제] 한은, 기준금리 연 3%로 만장일치 동결...11월 인상?",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4dWczYUlhbGF6alpycXF3ZzRyUXdjUXI4MUllTXVFbXVfX0pmYnVLVXlGT1FRWVQxckd2RFRwZlY1WUVzeDd0cGtHZHZqM00xSjNWUTRrN1RDRmFWbGc?oc=5",
    "source": "YTN",
-   "published": "2026-10-22T14:02:00+00:00",
+   "published": "2026-10-22T22:27:00+00:00",
    "topic": "금리"
   },
   {
-   "title": "미국증시, 테슬라·메타 AI 투자 우려에 나스닥 급락…반도체·SK하이닉스 동반 약세",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TVzRpQTB5a0ZrU1JJZl9ZcTlzS1ZVUDJZRjRaUmxXeWkyaWdCR2NtZ0pSWEFXd1pPeVJLcGJWQXp2YnNWX3pLZHE2RncwSktXeXQ3Qnc5MllzaHd2eEJRV2hlbUhWNzFUUWU5QWplLXdGQQ?oc=5",
+   "title": "미국증시 나스닥 2.60% 급락·다우 강보합…AI 투자 의구심에 반도체 투매",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CeldnVGpXRHZxTkV2dnhMZGx1cXV6dXJpSWRxbXRfRXZtbVh2bGgyZFYtVEdiUnRibXNWeVFYd045Yk1vcl9yMzFiTVExeHJ3WFZUUERDRS1lWjFKd2tBMkg5di1CY19zZ29sUEZFWGpoZw?oc=5",
    "source": "TopStarNews",
-   "published": "2026-10-22T13:41:36+00:00",
+   "published": "2026-10-22T22:21:09+00:00",
    "topic": "미국 증시"
   },
   {
@@ -46,31 +60,17 @@
    "topic": "환율"
   },
   {
-   "title": "한은, 연 3% 기준금리 동결…“연속 인상 영향 점검”",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbHlZc2pHM3NJU1FMMG95N3E1T3VySEh5UjgyMUNKYkN5TUlKVnZMbnF1amdOd3ZFaU9qNjdxampUYzV3aFV2aGVvTlVGN0VDWXJqb1lPb0RWejg?oc=5",
-   "source": "KBS 뉴스",
-   "published": "2026-10-22T00:51:00+00:00",
+   "title": "한은, 기준금리 연 3.0% 동결‥긴축 속도 조절",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IQWYwSndyLVN1VGhwczBMT3dyZWE0WThtcThFS3VoLWFBRENXMXVZNUFOemxMRmxBTnZLYUxKZlhNeFRSbFpVeVhNRjdLQnZ6Mm1CS2ladEFMeF90elQ2bWVYUzNUUm4zOTVQRUM5RnNNaUxq0gF0QVVfeXFMTWRHZnVURGFISXdsY3YzSVNxNXhzM3lEMi1laURubDlHbjhWRGljX1dEb0NjUUtHaFB1VWgzdFRJcTVwYVdxcTZRVlR1Z2ZGNV9uRTNyNVNabW1GT0RzNGdpWjcyZE9MamVmOWVJQXNUNzFwMVE?oc=5",
+   "source": "MBC 뉴스",
+   "published": "2026-10-22T00:51:33+00:00",
    "topic": "금리"
   },
   {
-   "title": "[속보] 한은, 기준금리 연 3%로 동결…2연속 인상 뒤 숨고르기",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjZtd0p6bHVGNndIRkVRYkNheVl3eEdfUmlKNEw1bkFjMlNfcDB3cW1jdHZzaUVZMFR4REF0WW0yRkNsS1RwbFA1a25KamlZMldQaXN3?oc=5",
-   "source": "중앙일보",
-   "published": "2026-10-22T00:50:24+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "미국증시도 곧 조정에 들어갈 것 코스피는 못 버틸 겁니다",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Ni1yaThPQmE4Z29GN3FrZGlpa1RqWDRBYXVtWllnRDlYM0dQMVg5WnFpa0xEZ0cyN2phcjNEX2V5ZUFQOHlVNEI4MUdtcnpNekJaZ3JQTjR1N0ZuY1F5cVczU3hvRGFtOVNxaUxRWUnSAXRBVV95cUxOam4yMmF3dWU5X3FkdjZBNHZVVFFSQk4wdHhnWmk0WmZHRGNqeDcyVTBaOUkxRlBmcGcyX0NCdV9tRF9PZEI1aHk5XzZReHUtM1RHd1Y0NVdmTVZyeTBWZzJiTXRObmtIMVJ0X3VqREsyNF85UQ?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-10-21T23:59:16+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1%대 올라",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42V3ExVml4ZDk5UVVvdTBqd2daN3JXZUl2bnNURnBoM1lRTkpFTjRkLWVYR1NqMUZJZkUzVF9KdDRla1NqV3FsRXpDNUdtbUZlb0tFcmxYZDlTb1BfQWtYb1VPUTRQX3JrUi1NdDUtT051bHBXd2lidUhTZ3ZYUQ?oc=5",
-   "source": "서울신문",
-   "published": "2026-10-21T21:10:15+00:00",
+   "title": "미국증시, 스페이스X·테슬라 호재에 나스닥 상승…AI반도체 반등에도 다우 약세",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rcGgyNXozVWhfTzREWjltb1loNXUyS1FHQ3h2ZGQ4YjlTZ1JLMjloU1hJSEtfakNHMHBjX0lsTW1TaHd3ZllCdVYtMTBteWNRcnkzMVh6UjE0azJpN3RSemJfY0xaeGUxLWpJRDM5a3FvQQ?oc=5",
+   "source": "TopStarNews",
+   "published": "2026-10-21T14:30:49+00:00",
    "topic": "미국 증시"
   }
  ]
