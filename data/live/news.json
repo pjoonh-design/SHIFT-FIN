@@ -1,8 +1,15 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-23T21:17+09:00",
+ "updatedAt": "2026-10-24T07:25+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "원·달러 환율 연저점 경신…일부 전문가 “연내 1200원대 가능”",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiTng3RWNLSWdfZGxGMWliX0txaWFqcERtR0NHVWMwa3piMnRVWVcyNnpFYnFSV1pCcy13cEZuTWJhSC16aWpIWDlCX3JyWjFwQkRUZGl0QjFQWG1FREx4ZVk1b1RJWl80N0FpR29TY09Cdw?oc=5",
+   "source": "인더스트리뉴스",
+   "published": "2026-10-23T09:03:09+00:00",
+   "topic": "환율"
+  },
   {
    "title": "원·달러 환율 1324.6원…장중 1321원대까지 하락",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ya1VPby1IMS1nTHd3VkxCNE1Qb0hKaGxaUHNoR0FlMTJhbEVnN0Fkc2NFMWxINUxkZnpCQUY3aE9FVVdLSXA3WGQ4M2JaT1lVamFVUFlxYUhyekdNSWpIdmtOTTA4RXJS?oc=5",
@@ -15,13 +22,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtbGZkLS1FaTJ2MWw3eGxqczB4UlBoVVZETldNSFhHRjhPdDRuY2NpODFVeTZNeTF6MjEwNGZpYnI4aTdpVTFhYlJJemtXZTdVcDlKMHRFQWhiTkXSAWBBVV95cUxPajQ4UkItRlBXM2Y3ZDBjUURuWE1FYzRQWnQ4NWh6ZG1rYVFkTXJCSzJZc0E1WGJMUWlQdGtrRy11UVRFdFZZUGhmbF9LYTdXQ1hST2IxN3ZNdU44RkVMck0?oc=5",
    "source": "연합뉴스",
    "published": "2026-10-23T07:40:34+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "[속보] 원·달러 환율, 0.4원 오른 1324.6원 - 조선비즈",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRzNzS1pwZUdGSFBPZjdRSVVnbXJ3amxkUTFuQktmSlVoM2VlZXhENm5LVGdZYzRYSlY3amwydzVQNUFuVFB0UWVGOGFnMmZ6R2RGdUZ2dklZUjYxZmZuREJ0Rng2WnlSRjZXN0VwdTJlOFBCQ1g4S2prbWVTOUhlclpCblNTZ9IBmgFBVV95cUxNZGxwLVhnUVFSN3VvTk9PYy1MY2t1TUtpRXkzZHBIY29OOWR3UzQ4a0FNeHI0NnB2N3FSaUU4NXI0NTVucE5fSWhpb0RlWnFnNl9TNkw2NzMycEJ2WWxzTGszWjl0ZVdtdDA3NWs0SDBqN1RRZ0NORzBmbDRINFBiV1NQNmJZb1lDTmlfTVZoS193LTc1TXMtazV3?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-10-23T06:34:00+00:00",
    "topic": "환율"
   },
   {
@@ -39,25 +39,11 @@
    "topic": "미국 증시"
   },
   {
-   "title": "[환율 전망] 기술주 불안 고조, 위험회피에 환율 반등 예상",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TYldrRmxwMHpGQ0Z3VTdkdkJGc09PNXNReUlKem1OUEZOU0djcWRocEZGM3laVDVQeF9ycDNBdi1NMzQyTHlySVIwWGlEWHJEUTR6WjhUb1RrOHdjckpHMQ?oc=5",
-   "source": "KB Think",
-   "published": "2026-10-22T23:08:43+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "SK하이닉스, 손자회사 솔리다임 미국 증시 상장 철회",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBudGZqNGQ3VHBHN1hDclp3QkVTRHBkd0pSdzJ0Ql80V1J5YU1BSVAtTnZjR3dCZk0wSlVpUjZzeXNxUDJOc04wenBVcWxZZw?oc=5",
    "source": "전자신문",
    "published": "2026-10-22T22:37:28+00:00",
    "topic": "미국 증시"
-  },
-  {
-   "title": "[스타트 경제] 한은, 기준금리 연 3%로 만장일치 동결...11월 인상?",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4dWczYUlhbGF6alpycXF3ZzRyUXdjUXI4MUllTXVFbXVfX0pmYnVLVXlGT1FRWVQxckd2RFRwZlY1WUVzeDd0cGtHZHZqM00xSjNWUTRrN1RDRmFWbGc?oc=5",
-   "source": "YTN",
-   "published": "2026-10-22T22:27:00+00:00",
-   "topic": "금리"
   },
   {
    "title": "미국증시, 테슬라·메타 AI 투자 우려에 나스닥 급락…반도체·SK하이닉스 동반 약세",
@@ -72,6 +58,20 @@
    "source": "TopStarNews",
    "published": "2026-10-22T12:53:00+00:00",
    "topic": "미국 증시"
+  },
+  {
+   "title": "[속보] 한은, 기준금리 연 3%로 동결…2연속 인상 뒤 숨고르기",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjZtd0p6bHVGNndIRkVRYkNheVl3eEdfUmlKNEw1bkFjMlNfcDB3cW1jdHZzaUVZMFR4REF0WW0yRkNsS1RwbFA1a25KamlZMldQaXN3?oc=5",
+   "source": "중앙일보",
+   "published": "2026-10-22T00:50:24+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "[속보]한은 기준금리 연 3.0%로 동결···두 차례 인상 후 ‘숨고르기’",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEVms0bGs2R3l4X1RVd3JIU2szT3Vkc0J3YnR5c2I0MjhNUFQ5Q2ZveW9SOWloQmREYTMyZkRWcVFBTkZuMlhWSjBPb3FJckIxeGp6OXFMN0ZjZ9IBX0FVX3lxTE9ra2lNX1RSMEtpMDBSa1NJU05uX2ZiNGgwOU9ROFd6QzJwRFRMbjFndVRKb2pwaV90N3Z6TXE4NGFZUUJ5RExMVzJiSUIwNUNqaWJ1SUt2WlJvMkJvbVdj?oc=5",
+   "source": "경향신문",
+   "published": "2026-10-22T00:50:00+00:00",
+   "topic": "금리"
   }
  ]
 }

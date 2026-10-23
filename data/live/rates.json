@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-23T12:28+09:00",
+ "updatedAt": "2026-10-24T07:25+09:00",
  "source": "금융감독원 금융상품한눈에",
  "month": "202610",
  "via": "https",
@@ -8,8 +8,8 @@
   {
    "bank": "전북은행",
    "product": "JB 다이렉트예금통장 (만기일시지급식)",
-   "rate": 3.92,
-   "maxRate": 3.92,
+   "rate": 3.98,
+   "maxRate": 3.98,
    "term": 12,
    "type": "단리",
    "open": true,
@@ -18,8 +18,8 @@
   {
    "bank": "전북은행",
    "product": "JB 다이렉트(자유만기) 예금",
-   "rate": 3.92,
-   "maxRate": 3.92,
+   "rate": 3.98,
+   "maxRate": 3.98,
    "term": 12,
    "type": "단리",
    "open": true,
@@ -107,8 +107,5 @@
    "open": true,
    "month": "202610"
   }
- ],
- "stale": true,
- "lastError": "JSONDecodeError: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)",
- "lastErrorAt": "2026-10-23T21:17+09:00"
+ ]
 }
