@@ -1,8 +1,15 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-24T21:16+09:00",
+ "updatedAt": "2026-10-25T07:21+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "美연준, 내주 금리 동결할까…시장은 '12월 추가 인상' 전망",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wQzhTbnd2MGlHVU9zMTFPdUxLNXJKcUN1ckRGNl9id3pkLW92ekRXS1ZwZVQ1Z3VsREFMb2ZaZnZlTVpyMDZORVJyci1CYXJmZVdxT3ZSOTk0Z2vSAWBBVV95cUxNeUEyTmt1Uk15VWZUTXN6dExxVll3WEpkbHRwRjFQYjNka0E5UC14YzVsclNqdmlfT1BvQlE3LUZtVEE4VGpKTmZSbXlfMWNRb0VQUENKQXJMRERXdnViZFY?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-24T15:39:36+00:00",
+   "topic": "금리"
+  },
   {
    "title": "원·달러 환율, 2년 만에 최저 기록",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yX0NpUnFEMkg0TjVfNWxKWHA1b2Z1RFRNaG9JcmtqNy04eVpiSENuVGJ3ZTM3NU5sajgxSmVEdW9VSWRsYXF4OGtLY2FXMzZLWmtORWNCbXZyTFhrUTdvQmxsaHU4d0tITjItaVFqNUNVOF9KSWI0?oc=5",
@@ -25,24 +32,17 @@
    "topic": "금리"
   },
   {
-   "title": "[미국증시] SOXL에 13억 달러 몰렸다…반도체 바닥 잡기 통할까",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0ybndMekpkRjJ2cUwyOXZQTVlEWTNWNFQxNXBWYzhDNGFZQV9uQUQ1blFqNWV6Qm1QWGNjbjQ2RnhIbldQeG11UlJPN2FsWVo4NHhjZkxjQ3g5eEVjZXVJWS11dUJUT2s?oc=5",
-   "source": "자본시장뉴스",
-   "published": "2026-10-24T01:57:45+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "금리 0.5%p 오르면…대출이자 얼마 더 내나[긴축 청구서①]",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzYjBYV2tnbE9WOEhnclpQeXBDZGhlel9BbC1MQ1c3eGdfY3FKdnFVbXBlVXdhV2lmYlV0UGprWnhNYVZrZUQzZWFqRkxyVUEwX1Ftb05aWUoyeHc2SE1iZNIBeEFVX3lxTE9GME5DMnRyOFpMQ1hGVVI1TWNtTlVJWnNpcmhLUFdVQjZRNUduNTlvbVJSSDdLVkVrdnAyVDZoM3owTFlza1ZfeWkwRjJjS3FOVG41dkdkMkZVRGQ2NVF4cGZtbzRjQnpTVmU2NUZBYTZrVUlhUE93Ug?oc=5",
-   "source": "뉴시스",
-   "published": "2026-10-23T23:00:00+00:00",
-   "topic": "금리"
-  },
-  {
    "title": "골드만삭스 “기술주 실적·거시경제 변화에 미국 증시 하락”",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUYUE5TnltWUFWV2h1NmZNdlR5TW1GeWNPaFdGQ3ozNDFHa1ZzdllsaDItWUg1aEFkY1JzN2JWUnUyVlJwQkhNT1Q2WDdsWTl2alcxRjlSNDU5WmJfLU9NT042TnM0ZjdULXh4WGc5RTVFMkd6bFRr?oc=5",
    "source": "Investing.com 한국어",
    "published": "2026-10-23T17:12:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "SK하이닉스, 손자회사 솔리다임 미국 증시 상장 철회",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBudGZqNGQ3VHBHN1hDclp3QkVTRHBkd0pSdzJ0Ql80V1J5YU1BSVAtTnZjR3dCZk0wSlVpUjZzeXNxUDJOc04wenBVcWxZZw?oc=5",
+   "source": "전자신문",
+   "published": "2026-10-22T22:37:28+00:00",
    "topic": "미국 증시"
   },
   {
@@ -60,10 +60,10 @@
    "topic": "환율"
   },
   {
-   "title": "속보 한국은행, 기준금리 연 3.00%로 동결",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kT0VvRFhtemFJTlp3U3VnalFXSjlmV2RuY1hGYWUxbWlUZ1AtWVpDZUIyR0hOSmxPRzB2T0xJb1JMSVlDa1BXcUdEQ2gtOE9xVk5nVTF6M1BSOFpXLXc?oc=5",
-   "source": "YTN",
-   "published": "2026-10-22T00:53:00+00:00",
+   "title": "한은, 물가·집값 경계 속 기준금리 동결…긴축 속도조절(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KQkNZNnZqWnFRMS1XcU1yR2IzX0N5SU5sdE1nRXY5eEZ3TXQtMi1xOEY5OEFicjZROVZRTXNVRWQ2THN0eHRDMDZvaTFEbVZZc3pST05pN2R2eEXSAWBBVV95cUxQQk42QzZWeW5wMnhVck15c19kU3NYYnhLeTA5OS1KNHBoMXpYZHU1SEJ2S2k2MU41R2lWVVNCUnFEdFV6eTFFNUg2QzVGRkxtc2dYN3B0QnpHMFZ0VnhQbEs?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-22T00:51:04+00:00",
    "topic": "금리"
   },
   {
