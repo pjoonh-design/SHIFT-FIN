@@ -73,5 +73,8 @@
    "published": "2026-10-21T21:59:09+00:00",
    "topic": "금리"
   }
- ]
+ ],
+ "stale": true,
+ "lastError": "GET 실패: https://news.google.com/rss/search?q=%EB%AF%B8%EA%B5%AD%20%EC%A6%9D%EC%8B%9C&hl=ko&gl=KR&ceid=KR:ko (HTTP Error 503: Service Unavailable)",
+ "lastErrorAt": "2026-10-25T12:27+09:00"
 }
