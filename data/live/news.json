@@ -1,8 +1,50 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-26T07:19+09:00",
+ "updatedAt": "2026-10-26T12:30+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "원/달러 환율 하락에…명목실효환율 2년 만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVW5JTklQbUlmaEJWRXFJV2VnNnc0cVN3YmtNNVRIYUFTN2tZM0QxT0daLWV4Qm1rQXc0XzhDZWlFQnRvNHJpdy1tV2lNaTlPaEFqQ2NRWDJnM1Q4TXJWbi1SS0RPbUU?oc=5",
+   "source": "연합뉴스TV",
+   "published": "2026-10-26T01:02:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "[미국증시] 엔비디아 감가상각 반박…6년 된 A100도 올랐다",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBSG5ZS3FrZE5MTnMwblRlRlZNeTh0cDVoN29oWFNLaG1YUjI2c2JiUzhjWENXT3F0eElxYmxRWFhIdVBzY2sxVTlUTThnN2p2ZTFraTdDaHJOdWhqbnVxRkpRczNrQk0?oc=5",
+   "source": "자본시장뉴스",
+   "published": "2026-10-26T00:57:28+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "의외의 곳에서 방향이 바뀐다 원·달러 환율은 다시 오를 겁니다",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4dldHendCNFFnS3MzWFRON3JtYldKQkpkRFkxeHk0N2VTT1hFUHdRbzFzWEIxUGpZN1pvTWtoa3k3RVRkV1pVS19ELVhpTDVuNFpQQVdnSWpKOW9zbTVOdXdIbzdESHNmTHhheklQV27SAXRBVV95cUxNdHUxVFVZWDNrN3FackxqNE53Z0JsWnlxSXJ6ZVQxU1VMQjhGMktEclE4djJZQlkwQjRRQ0FXQWxlRzNSUVBzbW5kWG5ZLXNwa3FFZUVKeW51SjR4RW40Ym1IRDNQTmI1OGVvRllHbFN5dEo3aA?oc=5",
+   "source": "연합인포맥스",
+   "published": "2026-10-25T23:49:48+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "중동 확전 우려에 미국 증시 또 하락, 이번 주 주목할 이슈는?",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZRmQ0aDJDT2JmQzJnNW84eFdTenNwYTJ4bnpqczNkLWI0dDh2ZjNxeVgwOEE4VUloQ21iV2lfMUZwMDcwd2d4NWFZal8zVGJTRjRHSmVGRHE?oc=5",
+   "source": "네이버페이 머니스토리",
+   "published": "2026-10-25T23:40:07+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[시황] 미국증시, 국제유가 상승과 국채금리 부담 이어지며 3대 지수 모두 하락 마감",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJU0cyYkppOG1ZY1RkYTNmUm02RHNSSW1vaklQZGtXQWpJTi1DLXkxQ09tcmR6a0llaW1scnVFTHQ4RU5xalA4OFNGcl9NbDhab1NFdFF1Y1YweGZsNnpOYmRR?oc=5",
+   "source": "버핏연구소",
+   "published": "2026-10-25T23:27:17+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "원·달러 환율 1310원대 눈앞…원화 가치 2년 만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oVEpMNXJZemtHWnMzN0tQeW9kZXpnU1BhQXBOMWJnQ05HS29WRDFlMktWQlA4eGNJZ1MxbVM4bjVsUXQ1UVBqR25JM21nUjU1d1YwVnBHbkdqZw?oc=5",
+   "source": "경북매일",
+   "published": "2026-10-25T22:59:00+00:00",
+   "topic": "환율"
+  },
   {
    "title": "미국증시 전망, FOMC·PCE·빅테크 실적…AI 랠리 분기점",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fYTNIVzJPa0ZEaXRzVDNjLUdwcnBqcTF3Wk9Hcnd0clFzeHlMSDFyRTFQRUF1SXh0S0Fxa29OQ3NieTZpc2xSb1FqOW9aM3ZzbW9yUXJoanZEdGZTcjdKSkxxQk5raUZqNlc1d1Q1dTh6UQ?oc=5",
@@ -18,60 +60,18 @@
    "topic": "금리"
   },
   {
-   "title": "원/달러 1320원대…원화 실효가치 2년 만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zdGhmTVB2MVJYU1U5MlFhdmhZcFVsNHEtWFBfdlNqaTRmNVR1LWU3STBkOGQyYWhXcTBlYURuOE12ZWZNbHMwTDZpakxfMVJSM2tFYnVDQXExVEpzdG1iSGY2RUd0WWtfTURYdS1vSU4zTkHSAXdBVV95cUxQUU9HT1d4S2Y4ZENQQnJKSzl2UFFuVk9sd3N1UjJySlkxaGlzUHBHZWRQUG5iN3pUMU9BR3h6MXdRNWhPb3p2V1U1Z1hrdFdueUVESFRLT3UtMVo1djMtdjIwZjlBU2RtQmZqSHlUcWxjZHU2aEFJTQ?oc=5",
-   "source": "스트레이트뉴스",
-   "published": "2026-10-25T21:42:42+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zSDRGU1prOFA4YzJ1emU0dmdYYU9XTnZOdUdlSi1sNzdjQ2xRaGg1T0llNW1GVU9lSXhyT1dieFhadjJhREIwQmhMZEFMVW9lTWc?oc=5",
-   "source": "매일경제 마켓",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xY1U2U25NVVZoazZxRkpKTnRiTVBtQW8xZHNUVlpoZDR0Tmt3X2w4QUFYX1FxTUJBTV82YXJNR1YxTkczSEQ4Y292SlVmdkllWGZ4ak1xczl6eUk?oc=5",
+   "source": "연합뉴스",
    "published": "2026-10-25T20:55:00+00:00",
    "topic": "환율"
   },
   {
-   "title": "\"변동이냐 고정이냐\"…금리 인상에 주담대 셈법 복잡",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByeTFqT2dlam5qd1hEeUwyb1lGdGkzb1RFbkdpYlRoeFF4cEtPbkNIemM1bUdWSWx0clZ5anB5WDZqX2gyUkVoa2lhVzNkbnhTMXBjeUl3ekkxcVlPSkdQLQ?oc=5",
-   "source": "메트로신문",
-   "published": "2026-10-25T03:16:42+00:00",
+   "title": "이번주 세계 미리보기…브라질 대선 결과·이스라엘 총선·美 기준금리 결정[월드콕!]",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzWFpIamI5c3FsSmtpRlZaMFkxOF9WQ3VxMElEeENPN1dwMlgzQzBBR2lqYU1HUHNHZTFTd0xyX0o5T3NuVjNmbm1KS0F2MDlD?oc=5",
+   "source": "문화일보",
+   "published": "2026-10-25T08:36:36+00:00",
    "topic": "금리"
-  },
-  {
-   "title": "연준, 내주 금리 동결할까…시장은 ‘12월 추가 인상’ 전망",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nVGZsWVA0aHRlWXV1T2FlMXVUQW5IRjNjOUJTeHgzZDMzb05XWWFna0laakc2T0hWb2dYczJOYXBrZjMxbF9BOXhrcXRLVFJxcnkwVWZDN2J0WUZ1bEg0?oc=5",
-   "source": "미주한국일보",
-   "published": "2026-10-24T00:51:07+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "골드만삭스 “기술주 실적·거시경제 변화에 미국 증시 하락”",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUYUE5TnltWUFWV2h1NmZNdlR5TW1GeWNPaFdGQ3ozNDFHa1ZzdllsaDItWUg1aEFkY1JzN2JWUnUyVlJwQkhNT1Q2WDdsWTl2alcxRjlSNDU5WmJfLU9NT042TnM0ZjdULXh4WGc5RTVFMkd6bFRr?oc=5",
-   "source": "Investing.com 한국어",
-   "published": "2026-10-23T17:12:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "SK하이닉스, 손자회사 솔리다임 미국 증시 상장 철회",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBudGZqNGQ3VHBHN1hDclp3QkVTRHBkd0pSdzJ0Ql80V1J5YU1BSVAtTnZjR3dCZk0wSlVpUjZzeXNxUDJOc04wenBVcWxZZw?oc=5",
-   "source": "전자신문",
-   "published": "2026-10-22T22:37:28+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "한국은행 금융통화위원회 기준금리 3.0%로 동결 결정",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCR21ZZERsRF9SQmdibUhCWHdKNHd0ODhyUEc4SzhPb2hGQWRYUEJHR0JhSFl2Zkg0bURyQWYtWHdmOVNaa21zcnhlNTdIekMwWWc?oc=5",
-   "source": "경인일보",
-   "published": "2026-10-22T11:18:49+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "원/달러 환율 '매파적 동결' 금통위에 하락…연저점 또 경신(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxOWk2MGtwQU5hS3p0QmJacG9vdmRwNG12WV83TXZNRjlJUi10b3V6UVZJYlJsZDhQTWJDeUdpTzlXd1dHMkJ0WUVpdUEwUWxDUEQ0UEduYjRRM1nSAWBBVV95cUxQajVwWTJGT3p1cG51LWc0NjRyeUhLU1cwcTdPQ2o5UlRlT201MmJ1WjYta1FaLXFYcnBlM2RFQWFSSWx5MVhTOEFVSGJNc3I1WlRyT2w3ZnVQd3NxYmZScjA?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-10-22T07:10:00+00:00",
-   "topic": "환율"
   }
  ]
 }
