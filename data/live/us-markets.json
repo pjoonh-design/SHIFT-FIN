@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-26T12:30+09:00",
+ "updatedAt": "2026-10-26T23:16+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
@@ -51,12 +51,12 @@
    "id": "VIXCLS",
    "name": "VIX 변동성 지수",
    "unit": "",
-   "date": "2026-10-22",
-   "value": 19.03,
-   "prevDate": "2026-10-21",
-   "prev": 16.68,
-   "change": 2.35,
-   "changePct": 14.09
+   "date": "2026-10-23",
+   "value": 19.45,
+   "prevDate": "2026-10-22",
+   "prev": 19.03,
+   "change": 0.42,
+   "changePct": 2.21
   }
  ],
  "errors": []
