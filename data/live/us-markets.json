@@ -1,18 +1,18 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-26T23:16+09:00",
+ "updatedAt": "2026-10-27T07:29+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
    "id": "SP500",
    "name": "S&P 500",
    "unit": "",
-   "date": "2026-10-21",
-   "value": 7757.17,
-   "prevDate": "2026-10-20",
-   "prev": 7712.57,
-   "change": 44.6,
-   "changePct": 0.58
+   "date": "2026-10-23",
+   "value": 7623.68,
+   "prevDate": "2026-10-22",
+   "prev": 7663.43,
+   "change": -39.75,
+   "changePct": -0.52
   },
   {
    "id": "NASDAQCOM",
@@ -29,23 +29,23 @@
    "id": "DJIA",
    "name": "다우존스",
    "unit": "",
-   "date": "2026-10-23",
-   "value": 52215.16,
-   "prevDate": "2026-10-22",
-   "prev": 52867.98,
-   "change": -652.82,
-   "changePct": -1.23
+   "date": "2026-10-26",
+   "value": 52361.58,
+   "prevDate": "2026-10-23",
+   "prev": 52215.16,
+   "change": 146.42,
+   "changePct": 0.28
   },
   {
    "id": "DGS10",
    "name": "미국 10년물 국채금리",
    "unit": "%",
-   "date": "2026-10-22",
-   "value": 4.96,
-   "prevDate": "2026-10-21",
-   "prev": 5.13,
-   "change": -0.17,
-   "changePct": -3.31
+   "date": "2026-10-23",
+   "value": 5.0,
+   "prevDate": "2026-10-22",
+   "prev": 4.96,
+   "change": 0.04,
+   "changePct": 0.81
   },
   {
    "id": "VIXCLS",

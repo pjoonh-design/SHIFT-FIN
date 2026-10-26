@@ -1,13 +1,41 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-26T23:16+09:00",
+ "updatedAt": "2026-10-27T07:29+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "미국증시 장초반 동반 상승…유가 하락에 테슬라·엔비디아·SK하이닉스 강세",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56dlI1UVhIeEJ3RTl0NUZCY1lTbjBxdWZDc3NHQmRzb09lV2QxcHRfS0pHVzVGTU41Y3E1d0xleGgzTjRIZUxMS2g2TFduUmF3TUdBZmNfMHliZGtyT1hDdWgyaEpwUTFzME9TSktncm5hQQ?oc=5",
-   "source": "톱스타뉴스",
-   "published": "2026-10-26T13:44:46+00:00",
+   "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VdHRIcXJIakFKNUJUeTZPNGhKZ3FzcjFnZ3NLeFVnR2NNeGFYbnB4MENVU2MxSUdCOGZfZzhha3BPUjJDVk8tLXk5Q0lGeGZHdF9rOUR5bmFUMnZNX01hR1UtLS0xNmJIRFJZZnN5dw?oc=5",
+   "source": "서울신문",
+   "published": "2026-10-26T21:15:25+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "美 국채 금리 5% 넘었는데 증시는 왜 버티나… BofA 금리 총괄 \"성장 견조, 금융 여건 위축 없어\"",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTZXRDF3cHZzUkx3c1czWXR1MVZKcFBKdkhLQ251WVA4NV9Fa0Q3dXhJOFNhQXBkNG9mM1Rual9pb24yWERiaVdyWFFzZ1F3TG1qSGgyUklNam5kYzczS0llTDdWejluWkVIVFUyUm9adGZmcjlrM1k4RURQNzJkWWNfd254bGhrZlhz?oc=5",
+   "source": "조선일보",
+   "published": "2026-10-26T21:06:38+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "치솟은 유가에 기준금리 3.75% 가능성 부상…일부선 4% 전망도",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWX0RSaXFWVldSb1ljMWVjcUJGTEhWRi1SSE5HQmNTejFoVWdCUXZ6djVxaHNVSmhJNXpweFJoZTluM0lqRzczOVEySURlbDkzNDFoVw?oc=5",
+   "source": "뉴스1",
+   "published": "2026-10-26T21:00:00+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "[뉴욕증시] 앤트로픽 상장 본격 준비…상승 마감",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54YnNRTmZabDdaN3RuS3R1LWNIVGtjZjZwcGVwS0FXY19tZXhJNzJ0cTFtWTVsNzBwY3Z5dHMzZEtHSWxfbXF2VnI4TGRHOTRpSmpXdjJDZXVLUDZTM25Jb2FSZFkySVh2bWdubk5RUGdhUQ?oc=5",
+   "source": "KB Think",
+   "published": "2026-10-26T20:51:16+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "AI불안 완화..미국증시 반도체주 '껑충', 엔비디아·인텔·ARM '활짝'",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLaVktUDA1TVZGbkp0OTVLd0ZhZ0JYZG9PczRVNHFtVHdLem4xVjJjeG9SVWk0Wmc3TkhNbjlZaUJQVzlOLTQwRTlxZTFLd09mZzZHdlFGcWV2Nk1rZUNjeGdmakRBb0ltQXB5eF9LMNIBc0FVX3lxTE9pN1ZaNzV5MldJZndSMTdkX2NkWTJuSlI1TTJ6UTdETzFmMkMyb1VXTXIwMDZBbHhmSDUyZnJtS0R3bVY2UWhJM3NibFVWVUEyNkdodkRCbkhRWXNROUsyN19hUk1BeWMtVE44aW1ycXVlZ1E?oc=5",
+   "source": "초이스경제",
+   "published": "2026-10-26T20:31:12+00:00",
    "topic": "미국 증시"
   },
   {
@@ -18,60 +46,32 @@
    "topic": "금리"
   },
   {
-   "title": "강달러에도 원/달러 환율 1323.1원…연저점 경신 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UOEk4bkpLRHB0X0NIaE8wQ3RxcmZRVmtYaHl3T3ladE1JQTNNeG1RSjRZMG9obzFBcUZ1czRiWDhUN0xsNFBMOVk2eFZvZHdfU0ZWTjZ3WWlaVnZZSFRiZi1Vd1dhbTJBWG5j0gFwQVVfeXFMT3ZVZjNkNnN3U1ZrS2RXT19SSXJDcWtiTzdhZ1g1MVBZcXlKNUpibXpjYjA2WDhSUnozZGNwaFlpZFFPOUVjNFFQQkl5ZF9zZko5V3c5VmU0cjdYV3VmdDZ2TDQ2QVRvOU1saG1rMHlMWA?oc=5",
-   "source": "머니투데이",
-   "published": "2026-10-26T07:45:30+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "원화 가치 2년 만에 최고 수준…원·달러 환율 1320원대 초반 하락",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43LU1CQmNXZFdha1dpdlRtVEUtZUNLN3hRYi1VUnE4aGJpbDM0R096YUJyTDFHWUktOTRYN2c5QkJuVVdiN3ZaY1ZlNWIyQ3UyTWdORkxybkEwWi1ZUGFxTVB6ZUp3RzJNRzdCcm9n?oc=5",
-   "source": "폴리뉴스 Polinews",
-   "published": "2026-10-26T06:16:09+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "원/달러 환율 하락에 원화 명목실효환율, 2년 만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SbXdXMjdMWnBTd0ttMTRKcnlYWDN1ZXl2WHd0ZWdhYmFLZ0tLOFlwekFTODRPVG4tbm9HVTNJVG01Y0N0dFkyOVFrUFp1QWFNQUxhRXdaM0hmZzV2SDVWbFp1ckZGTUg4WlE?oc=5",
-   "source": "천지일보",
-   "published": "2026-10-26T02:00:00+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "SK하닉 '키옥시아' 특별배당 추진? '솔리다임'으로 돌아선 투심 달래나",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56Q2lrMTRCUGNtbDZhVklVaWg0NkgwcTZiNDgzYVJpU0NQVFBFbURPNUE0WnFCelZ5WGI2dnFOYS1yYTZ1b2lCd2ZJcENUUzBSaXJCWmpFZlVvMFk4Smc?oc=5",
-   "source": "YTN",
-   "published": "2026-10-25T23:41:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "중동 확전 우려에 미국 증시 또 하락, 이번 주 주목할 이슈는?",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZRmQ0aDJDT2JmQzJnNW84eFdTenNwYTJ4bnpqczNkLWI0dDh2ZjNxeVgwOEE4VUloQ21iV2lfMUZwMDcwd2d4NWFZal8zVGJTRjRHSmVGRHE?oc=5",
-   "source": "네이버페이 머니스토리",
-   "published": "2026-10-25T23:40:07+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "美 기준금리 결정 앞두고 가상 자산 주춤… 비트코인 8만달러대 - 조선비즈",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGM4NDdwMDZGU0NjV3pKbmJ5bDUyaE5oRGVLWTBzY2pYNUw0d3VtcnV5ZkZqQW9welRmeW40SnNObW0wTlpveFNpRC1DS0FmNlpJNEg1eTFZeEdSel9QWUtTUWtyYzliYjQ5eGtpMkMwS3NXUDNyQ1VyWGxld3FDS9IBlAFBVV95cUxQYnBPQXVoaXFGbmxYYzVkcU1kTjRWTTZPTjRxUVhUUUdraV9QOEFNQ1RWcGo2YVMxMWVHQmNLODlsOURrMTVfMFFXZkRRdmNrb2pCWk9icGNfTHNsTUhqX2JKeU05UDZIdE9aUS1zeXpsVDVYMjBldGZmN094U3ozcXF2ZnNEb1FkdlJHdUNqUmhqMWlJ?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-10-25T23:31:37+00:00",
+   "title": "한국은행, 기준금리 3%로 동결…2연속 인상 후 숨고르기",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TaTRnRnN5aUtaWFNLQ2tnU1o5UklEaVNyRXljS2NlQlpNWk5JLVN4THY1SnJYMDZIYm9aQnhTLUNuSmJzRm81YVhUamZyTXJlallGeVUxQ0JlM3lGVS1BNmRZOVZaeUswNEE?oc=5",
+   "source": "금강일보",
+   "published": "2026-10-26T09:00:00+00:00",
    "topic": "금리"
   },
   {
-   "title": "[시황] 미국증시, 국제유가 상승과 국채금리 부담 이어지며 3대 지수 모두 하락 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJU0cyYkppOG1ZY1RkYTNmUm02RHNSSW1vaklQZGtXQWpJTi1DLXkxQ09tcmR6a0llaW1scnVFTHQ4RU5xalA4OFNGcl9NbDhab1NFdFF1Y1YweGZsNnpOYmRR?oc=5",
-   "source": "버핏연구소",
-   "published": "2026-10-25T23:27:17+00:00",
-   "topic": "미국 증시"
+   "title": "원달러 환율 1330원대… 명목실효환율 2년 만에 최고치",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NZXlIcjJnVFVpUnJuS1JtQmdBUzBNbHVJQkhLTWl2TVBRUkY5b0Fjbk5pcWhEQm1XLWdVY2lXdVA4SkE4RG9UZ0NLaGhoY1luUkpqTEFZbTFqS3ZnYkU1Zk9mdko0NGtxaExYR1RlZWlhMGl3?oc=5",
+   "source": "부산일보",
+   "published": "2026-10-26T08:42:48+00:00",
+   "topic": "환율"
   },
   {
-   "title": "한국은행 기준금리 3% 동결…멈춘 정책금리, 뛰는 시장금리",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82SW14bEViOXZNOF9IejJabUV0ampkc3ZfZlA4b0hCTjN3TGgxMjE3SnRGR3JhLVFkVHNiVmJJckVCRDlzT3VrNEdTYXkycHVpaHFhQkF3RzlidlQ4RkV0N2pzYWRGRVBGcHhtcjZn?oc=5",
-   "source": "뉴스후플러스",
-   "published": "2026-10-25T22:30:00+00:00",
-   "topic": "금리"
+   "title": "원·달러 환율 하락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUXB2UlZJMkNsOVByMk41QWlaLTlRZ0lHMjhxSFZBQXpycl9oMFFqdzVZOUtSVngxTWtka1ZocmIwSzZtNFFxMzU5blJ1VkJ5bFprWGlqYmxiWjhMVW9ueQ?oc=5",
+   "source": "뉴시스",
+   "published": "2026-10-26T07:20:06+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "원·달러 환율, 엔화 강세·월말 네고에 연저점 경신 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa2o3eThWX2xUUFRPTUdfLWY1RE1pMVllY2lwRTdET1FacEI5aGV2YWdZNE9hRS1HR3dCV01aVTdyTjdIMndFRHlfMnFWZ0hIdkHSAVNBVV95cUxOLU5GQ2JDN3p6NUpWUlU4S0NWdHktZ1BXVzc5a01MQkpnNm9RRkZ0ZDdzcGN0SEkyT1BVMERKS0FzaXR2cXVLMzJrQVNzUEpOYzlNQQ?oc=5",
+   "source": "서울경제",
+   "published": "2026-10-26T07:13:15+00:00",
+   "topic": "환율"
   }
  ]
 }
