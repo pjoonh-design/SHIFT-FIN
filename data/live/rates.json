@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-27T12:30+09:00",
+ "updatedAt": "2026-10-27T21:26+09:00",
  "source": "금융감독원 금융상품한눈에",
  "month": "202610",
  "via": "https",
@@ -26,6 +26,16 @@
    "month": "202610"
   },
   {
+   "bank": "수협은행",
+   "product": "헤이(Hey)정기예금",
+   "rate": 3.91,
+   "maxRate": 3.91,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  },
+  {
    "bank": "한국스탠다드차타드은행",
    "product": "e-그린세이브예금",
    "rate": 3.85,
@@ -38,16 +48,6 @@
   {
    "bank": "케이뱅크",
    "product": "내맘대로 이자받는 정기예금",
-   "rate": 3.81,
-   "maxRate": 3.81,
-   "term": 12,
-   "type": "단리",
-   "open": true,
-   "month": "202610"
-  },
-  {
-   "bank": "수협은행",
-   "product": "헤이(Hey)정기예금",
    "rate": 3.81,
    "maxRate": 3.81,
    "term": 12,
