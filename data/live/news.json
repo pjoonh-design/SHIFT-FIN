@@ -1,8 +1,29 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-27T07:29+09:00",
+ "updatedAt": "2026-10-27T12:30+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "CNBC 설문서 전원 \"BOJ, 금주 금리동결…12·1월 인상\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91QWRjRnh1cGZJN1JndndnOEg1ZnhXQ0hEUUZzU1IwUVY3c0VObE1zVlhFUThtblpPRDk4bUJTOUVuUXVjRWJHSHRZeW85RG5VVjdrQnpRRmRUY1htLVJiNTJoaGJGOEIyT3BoRlJXalU?oc=5",
+   "source": "연합인포맥스",
+   "published": "2026-10-27T03:06:26+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "[미국증시] 야데니 7900 낮췄다…증시 재상승 막는 4개 고비",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYMFVLZHpWbklEN29fY1lnMUJhYUlTX2M0LXlPQzFCMXFmZDZ5R2t4b0FBN0pYX2gyeU5iRzNlRVlDZEN5dlFQV253Mmo5TXJtRWVIMU9CNDNBOXZ0czRHN2RLeHpYbzA?oc=5",
+   "source": "자본시장뉴스",
+   "published": "2026-10-27T00:50:05+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "日 증시, 美앤트로픽 훈풍에 1%대 상승 개장",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zWllKMkYyaUY0MUtpZzBIOEh2MmpIbEtiOV9GVFgwc0s3UUlNRVRpdnRnLUE0STI0d3pjaFIwRnZfVF80bDR3SHQtWnp0bE41cTNnMTE3REpiR3UxaEFUZnVZeEFOcWhQbXdILUR5TkFHZw?oc=5",
+   "source": "KB Think",
+   "published": "2026-10-27T00:16:27+00:00",
+   "topic": "미국 증시"
+  },
   {
    "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VdHRIcXJIakFKNUJUeTZPNGhKZ3FzcjFnZ3NLeFVnR2NNeGFYbnB4MENVU2MxSUdCOGZfZzhha3BPUjJDVk8tLXk5Q0lGeGZHdF9rOUR5bmFUMnZNX01hR1UtLS0xNmJIRFJZZnN5dw?oc=5",
@@ -18,6 +39,13 @@
    "topic": "미국 증시"
   },
   {
+   "title": "주담대 금리 年 7%대 턱밑…변동·고정형 금리 격차 0.2%p로 축소",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ed2VqUGo3X2MxeWt1SkVoUmVnc3RjMWlqcTRmZkVZcHFlTkdpbC1JcjN2S3RaY05IREMzV0kxeHVhVS1mdmQwWTZjb0VzaUoyU0ZaZzMzN05Hakgt?oc=5",
+   "source": "부산파이낸셜뉴스",
+   "published": "2026-10-26T21:05:00+00:00",
+   "topic": "금리"
+  },
+  {
    "title": "치솟은 유가에 기준금리 3.75% 가능성 부상…일부선 4% 전망도",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWX0RSaXFWVldSb1ljMWVjcUJGTEhWRi1SSE5HQmNTejFoVWdCUXZ6djVxaHNVSmhJNXpweFJoZTluM0lqRzczOVEySURlbDkzNDFoVw?oc=5",
    "source": "뉴스1",
@@ -25,52 +53,24 @@
    "topic": "금리"
   },
   {
-   "title": "[뉴욕증시] 앤트로픽 상장 본격 준비…상승 마감",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54YnNRTmZabDdaN3RuS3R1LWNIVGtjZjZwcGVwS0FXY19tZXhJNzJ0cTFtWTVsNzBwY3Z5dHMzZEtHSWxfbXF2VnI4TGRHOTRpSmpXdjJDZXVLUDZTM25Jb2FSZFkySVh2bWdubk5RUGdhUQ?oc=5",
-   "source": "KB Think",
-   "published": "2026-10-26T20:51:16+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "AI불안 완화..미국증시 반도체주 '껑충', 엔비디아·인텔·ARM '활짝'",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLaVktUDA1TVZGbkp0OTVLd0ZhZ0JYZG9PczRVNHFtVHdLem4xVjJjeG9SVWk0Wmc3TkhNbjlZaUJQVzlOLTQwRTlxZTFLd09mZzZHdlFGcWV2Nk1rZUNjeGdmakRBb0ltQXB5eF9LMNIBc0FVX3lxTE9pN1ZaNzV5MldJZndSMTdkX2NkWTJuSlI1TTJ6UTdETzFmMkMyb1VXTXIwMDZBbHhmSDUyZnJtS0R3bVY2UWhJM3NibFVWVUEyNkdodkRCbkhRWXNROUsyN19hUk1BeWMtVE44aW1ycXVlZ1E?oc=5",
-   "source": "초이스경제",
-   "published": "2026-10-26T20:31:12+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "파키스탄 중앙은행, 물가 상승 속 기준금리 12%로 인상",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wOWFYNTQ0LTkzTVJYUjBBUW8tSzk0WUhYZFBoaWFqMV9vMFV6VkJVdnZNZDM4RmhQUmRNN0ZkMHZhS0VyZDJQVnNtTHhxRExyOUQxZmtaWUJJbHdXSUpSRWFFUmJDblcwODlrcFdFTjg?oc=5",
-   "source": "Investing.com 한국어",
-   "published": "2026-10-26T10:57:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "한국은행, 기준금리 3%로 동결…2연속 인상 후 숨고르기",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TaTRnRnN5aUtaWFNLQ2tnU1o5UklEaVNyRXljS2NlQlpNWk5JLVN4THY1SnJYMDZIYm9aQnhTLUNuSmJzRm81YVhUamZyTXJlallGeVUxQ0JlM3lGVS1BNmRZOVZaeUswNEE?oc=5",
-   "source": "금강일보",
-   "published": "2026-10-26T09:00:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "원달러 환율 1330원대… 명목실효환율 2년 만에 최고치",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NZXlIcjJnVFVpUnJuS1JtQmdBUzBNbHVJQkhLTWl2TVBRUkY5b0Fjbk5pcWhEQm1XLWdVY2lXdVA4SkE4RG9UZ0NLaGhoY1luUkpqTEFZbTFqS3ZnYkU1Zk9mdko0NGtxaExYR1RlZWlhMGl3?oc=5",
-   "source": "부산일보",
-   "published": "2026-10-26T08:42:48+00:00",
+   "title": "강달러에도 원/달러 환율 1323.1원…연저점 경신 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UOEk4bkpLRHB0X0NIaE8wQ3RxcmZRVmtYaHl3T3ladE1JQTNNeG1RSjRZMG9obzFBcUZ1czRiWDhUN0xsNFBMOVk2eFZvZHdfU0ZWTjZ3WWlaVnZZSFRiZi1Vd1dhbTJBWG5j0gFwQVVfeXFMT3ZVZjNkNnN3U1ZrS2RXT19SSXJDcWtiTzdhZ1g1MVBZcXlKNUpibXpjYjA2WDhSUnozZGNwaFlpZFFPOUVjNFFQQkl5ZF9zZko5V3c5VmU0cjdYV3VmdDZ2TDQ2QVRvOU1saG1rMHlMWA?oc=5",
+   "source": "머니투데이",
+   "published": "2026-10-26T07:45:30+00:00",
    "topic": "환율"
   },
   {
-   "title": "원·달러 환율 하락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUXB2UlZJMkNsOVByMk41QWlaLTlRZ0lHMjhxSFZBQXpycl9oMFFqdzVZOUtSVngxTWtka1ZocmIwSzZtNFFxMzU5blJ1VkJ5bFprWGlqYmxiWjhMVW9ueQ?oc=5",
-   "source": "뉴시스",
-   "published": "2026-10-26T07:20:06+00:00",
+   "title": "[속보] 원달러 환율 1320원대…2024년 이후 최저",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1acmdWRm5ySTBwQVZKX0RHWnlEWU9mNjY0bE1hdm4zNW5ZUWFsLWFPaHdheUpUR0NPTXZ4UVZ2MEZJaU11UlZfS28tQmhiS2FFdXhrOWZ2OGltWWpVYmpBd1JUU3VhbEdOcTMw?oc=5",
+   "source": "프레시안",
+   "published": "2026-10-26T07:39:27+00:00",
    "topic": "환율"
   },
   {
-   "title": "원·달러 환율, 엔화 강세·월말 네고에 연저점 경신 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa2o3eThWX2xUUFRPTUdfLWY1RE1pMVllY2lwRTdET1FacEI5aGV2YWdZNE9hRS1HR3dCV01aVTdyTjdIMndFRHlfMnFWZ0hIdkHSAVNBVV95cUxOLU5GQ2JDN3p6NUpWUlU4S0NWdHktZ1BXVzc5a01MQkpnNm9RRkZ0ZDdzcGN0SEkyT1BVMERKS0FzaXR2cXVLMzJrQVNzUEpOYzlNQQ?oc=5",
-   "source": "서울경제",
-   "published": "2026-10-26T07:13:15+00:00",
+   "title": "원화 가치 2년 만에 최고 수준…원·달러 환율 1320원대 초반 하락",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43LU1CQmNXZFdha1dpdlRtVEUtZUNLN3hRYi1VUnE4aGJpbDM0R096YUJyTDFHWUktOTRYN2c5QkJuVVdiN3ZaY1ZlNWIyQ3UyTWdORkxybkEwWi1ZUGFxTVB6ZUp3RzJNRzdCcm9n?oc=5",
+   "source": "폴리뉴스 Polinews",
+   "published": "2026-10-26T06:16:09+00:00",
    "topic": "환율"
   }
  ]
