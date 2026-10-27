@@ -1,20 +1,41 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-27T21:27+09:00",
+ "updatedAt": "2026-10-28T07:32+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "달러-원, 뉴욕장서 1,320원 후반대 거래",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tQ1BPQk9NcXRJMVFVYWk1QnZubzFlRWNjUVF3Ym5xUkJKSXozSVAtRFpxa1VGMmhjM0l5d19Yek9Lc3U4anNneW8xQ1VuVTF3UXcyOUJ5VVl0M2U2cnJMd1pvdGtJaEZIaUpMOEZwQ1lIdw?oc=5",
+   "title": "미국증시 나스닥 1.18% 상승…앤트로픽 기대에 반도체 반등, 다우는 강보합",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tWmRyYmg2M0tBZUo2T0ZzYzkyUTNDZVk5NkVyXzlrMlYyNDVuaXJoallyWmZKQWxjOXktWThXYjNsODkycC1zMGFhb2lfc1BaVE5GTEIyMFgya19BamRYSFNNUjF3aGR5R3BaVHJ6RmhNQQ?oc=5",
+   "source": "톱스타뉴스",
+   "published": "2026-10-27T22:08:26+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[외환] 1,320원 후반대로 상승…FOMC 앞두고 달러화 강세",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jbldhNWg2REM5RE5PTVFUcXJRYVB6ZEw4NzVDS0hJbXhEcXJfSTFtX2s4QWp4WGNMZkwzWHhUaVpzVzk1Rk1mSzU5WkhEZHk5Y3ZJMW96MEZCTnQ5RTlWdXU1SzZ5cS1LYTgxQm1JYUx5UQ?oc=5",
    "source": "KB Think",
-   "published": "2026-10-27T11:57:56+00:00",
+   "published": "2026-10-27T21:27:27+00:00",
    "topic": "환율"
   },
   {
-   "title": "미국증시 선물 상승…나스닥 반등, FOMC·빅테크 실적 시험대",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ENXNSWVFqcnMxWkZoRlRmZ1paM1F2YVpiQ0toU1VFVUh2b0dvenhUeWhaTVlaOXAyVzR2RE9QRDFveWg2eEZyY3NlZUswWGo2Yzh5T0ZNZzZPcmJEanFjWVBmY2hETUxEX3lFako5b3p0Zw?oc=5",
-   "source": "톱스타뉴스",
-   "published": "2026-10-27T11:39:18+00:00",
+   "title": "[서울데이터랩]미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 1%대 올라",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01Yk1uZ0hKUHp6MjVzXy1vYVI5MlhxODJWNlVWaGhvXzR2X2ljVTZfaWNLVE5zTkpWcmhoeC0yLVdDbGQzdHhad3gwVnhhUUVkaDhWeWI1Y2RvTllpbTFHLW9QMFFCQ1ZkVmZmSnI3cmJjVlluTjY1eW1PUXJadw?oc=5",
+   "source": "서울신문",
+   "published": "2026-10-27T21:09:14+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "뉴욕증시, 상승세로 마감…나스닥 1.18%↑",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPOW9HVUlzdDEyb0Q2Vmx2cXktRVZ1UVFyOVBGclRFLWVEV3JpNnhRS1pwYTd0MEVqaFFZVE93ZXhiN1Qta2VvREFoYUFDLVZX?oc=5",
+   "source": "블루밍비트",
+   "published": "2026-10-27T20:17:15+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "\"美 국채 금리 5%에도… 경제 성장 타격 없어\"",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYW43SWdOZjh3UzJmYXlBaHVoMl96YU81b3FPVzVydzdzU19obTNlR2IzeWJ0T1A3b3ZTQTB1bzlUbkNpUnBaRjFRM205bXlDSHBxWDFvOTN6b2MtcG5OOVdzWlk0V25vVTBtQWl5cmV6Y0ZpRGk0c0RzLWhoNUkzZFBLak56UkI3V1A0?oc=5",
+   "source": "조선일보",
+   "published": "2026-10-27T15:32:00+00:00",
    "topic": "미국 증시"
   },
   {
@@ -32,32 +53,11 @@
    "topic": "금리"
   },
   {
-   "title": "앤트로픽 상장 도전…AI 훈풍에 국내 반도체주 들썩",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFbEdsdU9kNkxXNzExRGl5UjdsTmNUSHl4aE1BSjZpdUN0Ym9iS0ZiLURjTEgwdW9xbXBDSi1OOWR2dGNUczY1amJicHliRnBWdGc?oc=5",
-   "source": "매일경제 마켓",
-   "published": "2026-10-27T07:43:37+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "원/달러 환율, 미 금리 결정 경계감 속 1,320원대 보합권",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ai1SVzA1ZmVfZmhiVThZX2JtMXQ5SWR1bnBwR1MtV05LS0ZKc1RQNk9kQ0d5ZnNRUmNDT1NNZzBaYlFBQktDNGYyNlI4c3p4X0E?oc=5",
-   "source": "매일경제 마켓",
-   "published": "2026-10-27T07:33:34+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "노무라 \"4분기도 소비 부진 시, 한은 금리인상 조기 종료 가능성\"",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FSkpTbVk5bWljVHJkR0xCa0xHRWVPZ2xVSUFlOW81VzFrX2NGM1VnNE9FUEJjZlBud1dYM0ZlWk1XTTdPcFhhX1BMSzlXcE5yNmhlN1RiVVI1dHhvd3haeWFiNFhuVmJ5ZjhVZEpRMldsSkk?oc=5",
    "source": "마켓인",
    "published": "2026-10-27T06:51:37+00:00",
    "topic": "금리"
-  },
-  {
-   "title": "[속보] 원·달러 환율, 0.6원 오른 1323.7원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdllkWU1ZWkRXcFphNGZkNkR6SGNtSllDUEVNOWQ3Rm9vNm5ydlZSTl9mLTRxMlFPWnBubmhMS191ejVKUmhjNWh6elpPSmdRY2UyblNFOUFQTkdYYUxUXzIwaXlFTGsyM1dTdHkzTjNOeFBIamF2WXE0NWFTTzhsbmpuaEgxQdIBmgFBVV95cUxQMkR1VEtsajNPd3hpUUU0TE5HV2hmMVVQeUI3M2hnV0daSnlxamZQOHhRMWxaUXZrM2tJRjVuYTljcm1OTFc5NElXYU96X1JnNDVnQ0RNTzRzZ1NuSzJOUFVRbXhSYV9CdnFaUGZLSWNVNDU2Q1k2XzI5SGg4UWU2UkVsUTYtZ0pZTjlkVFVWNXMtdHVUSHEwUTVn?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-10-27T06:40:00+00:00",
-   "topic": "환율"
   },
   {
    "title": "CNBC 설문서 전원 \"BOJ, 금주 금리동결…12·1월 인상\"",
@@ -67,11 +67,11 @@
    "topic": "금리"
   },
   {
-   "title": "뉴욕증시 일제히 상승…AI 투자 열기 되살아나나",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qdF9aQTM3bnpXWFlsdE9Wc19aTUVpRVJfQTJJMURQVjNCYy1JTGpTMlJTUGw5TGFOazB4aUJDbmtsYWVQaEpzYUJ2TEtONnR2WU5nX3dQWWQ?oc=5",
-   "source": "네이버페이 머니스토리",
-   "published": "2026-10-27T00:28:46+00:00",
-   "topic": "미국 증시"
+   "title": "주담대 금리 年 7%대 턱밑…변동·고정형 금리 격차 0.2%p로 축소",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qaS1SOXAxM0p5eERvMjhnNTc2c2pBaDN5d21wamFNYTVrdGNMWEVQUjZNQkVVb2tkTE42RV9YSTlNQlNEQnlqeVhCb05vSE5Dd2Jrd2Vna1VRdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-26T21:05:56+00:00",
+   "topic": "금리"
   }
  ]
 }
