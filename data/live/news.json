@@ -1,27 +1,55 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-28T21:29+09:00",
+ "updatedAt": "2026-10-29T07:35+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "달러-원, 뉴욕장서 1,340원 초반대 거래",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DWXdEbXZZOEp1M1hURGwybWRrR3dmWTViQ2IwRmFjaUpMSTZZb2cyYXlmeHhfY2NyOUl1bTBJVTc5RUw0T3g2aW8wUGI4NHRIWTNUelYteXRCaTc5cm5mZGd3VUs2TkJxSndzREJGWFNqdw?oc=5",
-   "source": "KB Think",
-   "published": "2026-10-28T11:31:42+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "태국, 기준금리 1.0% 4회 연속 동결…\"성장률 전망 상향\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83SnRJbUhOZTIzcnJzMk9BbGw4NDVmUUVBU1VkQl9oaVZET3FJOHQ4ODVWemc3LUE4MUtnWFBPNHc5RjdnMWVoMEEybkc2dkkxenkyRy1LSUNVRC1zV2hnWtIBeEFVX3lxTE1Zc3ZoUlNEU2s4MUZBWUp3N1RnaEFKS2lDX2xaVXBsbktyekhOanJicXFXRkFRS1dPTUpmRjlJZ1U0SU9GZHVlM1h4RjE1WWcxNy1WcDJtUlNJQzVOQ0JSRnBfVmx6XzB3SWw0Mi1YWHVjQWFfbnFWcA?oc=5",
-   "source": "뉴시스",
-   "published": "2026-10-28T11:06:30+00:00",
+   "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기(종합2보)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51YWIwd0pLZl9KcjdsS19jY2FBcjNFS09IZXpZU2lObTBxa3E0bnNoY3AyQjNaRFpHMU5ERzBSRGlWYXVsWm9rX0Z1R2tHdjJJUWNyeFpodEd4amfSAWBBVV95cUxPZ09QejYwSnFLVjEyb1J0WXFQa3RFcDdHX3hJRWhLeFUycWF3d0ZKY2R4NVp2T2dSNmRSWlJnRjNTMWctSnN4U0xfQkYyd1k5ck9iOEFnV3RFdVZ4cG53cTU?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-28T20:28:03+00:00",
    "topic": "금리"
   },
   {
-   "title": "Vertiv 주가, 미국 증시 개장 전 15.1% 급등한 이유는?",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwX1hRM2dZQzVaQVZQNDZ3YkxkMnNHaFpFZDVVVUpqSTdwRmk2eFN3d2FTel8zNzNIekxSbWtLcjNMY21wVEstSDJxUmRkUWFKTTN4eXlOYlEtWVNaTGsxWVZ4aWJPQVdTWFhYdXNQeTQ5dVJwUGZR?oc=5",
-   "source": "Investing.com 한국어",
-   "published": "2026-10-28T10:29:00+00:00",
+   "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5",
+   "source": "VOA 한국어 홈페이지",
+   "published": "2026-10-28T19:06:58+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "BOC, 기준금리 2.50%로 25bp 인상…2023년 7월 이후 처음(상보)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VdVlFTDZ3a2tnbDN3TEQ1YWZfUEh1QjV4dWR6NzM1aldXUVg4UUk3bGtTQlZtazN4dWxWVjlhYU1jdGZZc1RsWlBza2tSUl9QaGhSS0dtanR3c1pEQmN1MHFqa29pN0QxQjVJTkhaMDg?oc=5",
+   "source": "연합인포맥스",
+   "published": "2026-10-28T16:13:02+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "캐나다, 3년 3개월 만에 금리 인상…기준금리 연 2.50%로 상향",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFMzA3VVVVS0VpMC1kd3hXaW1LMWV4RVB0UGcwYWczakp4QWJvRVpvaTdrSzlQblpyRzlFV2JidFViTTFqc0kxWmFNVU41MWZHYmk3SlBmZ2RZYTTSAWBBVV95cUxPYTkzTDljS292MUlNaFU2MlBFblhFZVhhbkhhUVR5WU5LNC1DWXlyMFJVZ3Y2SExRSTNmTVNTY1lkbXJZRjg2VjVoWl93amM4Z0JWSllVVHRQaFYxNEdrZm0?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-28T15:16:45+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "캐나다, 3년만에 기준금리 인상…유가발 인플레에 추가 인상 시사",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RYmhQTWh5a1M3VUtJQjJ3OEQ3YlVteFJVdzJNNzJ1anFva2NfZ2RpTFdoel9mOU1KTWhneXZhNmExUEhrUVFNT2dybWo1T0JfQ1o2VGdyclZhTTAwNm8xU1h0Y2Y4RHY0Q0FCaWF6allrbFk?oc=5",
+   "source": "마켓인",
+   "published": "2026-10-28T14:48:17+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "미국증시 상승 출발…SK하이닉스 11% 급등·마이크론 5% 강세, 연준 결정 앞두고 관망",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45TnBfcUVGbHpFR3VpaGpSTHdKYU90S1ZwZUdsTFI1UFd5aGt3bmhCMk9tZ0dIdUk4TFVKUGVLVVhHcEVkcVk3TFo5aEdWbnZkc2tlbEMzSDJsd3RwVjJoMzdaN3h3YXJEQmhkd0tia3V0QQ?oc=5",
+   "source": "톱스타뉴스",
+   "published": "2026-10-28T14:08:01+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "미국증시 전망…SK하이닉스 훈풍에도 FOMC·빅테크 '분수령'",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kbWkxLUQwWFlZcFVGVFVPTHRRZ3ZublFUb2dqUVBQVzlWMlkxV2RWaDUwNk93WTRkdVUyMDFzZGVQdlRPMXh4ZnJoel9xN3ViSHRwU0lOc1lTWU13bi1ycGdnSmFDalYwTEtuYjNhV0Zfdw?oc=5",
+   "source": "톱스타뉴스",
+   "published": "2026-10-28T12:33:38+00:00",
    "topic": "미국 증시"
   },
   {
@@ -39,39 +67,11 @@
    "topic": "환율"
   },
   {
-   "title": "[속보] 원·달러 환율, 14원 오른 1337.7원",
+   "title": "원·달러 환율, 14원 오른 1337.7원",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONk5MMVp4N19Bc3haY1R6emotaVpmbGhIb2ViRXBTUVc0eG9mNmZhV1FuSGtOM1FKVGJNUHNQT3NlLTNGUVRFZWZzNVllWXAySzlGSmQwYlB3RHZ1VzlSOXlyMklMazhBQkxuamtBalFTcHhIOWZQZHJLR210UkMwVlJjVGNvUdIBmgFBVV95cUxNQ3lLcFVEbmNPQzlmdjVzSlBablJvYVh1MWhqNVJwZ1FxZHlUeGxKdnZRcm5EWkhNcmtNTXNnZ2xJUmJ4Z3J2NVoyN2FCRGtFazBnSFR4MlExXy1GVVN6NFd0LUdFd3ZZdlgxcGx0ckYxMzJuWXNRX1E3QWZvOXgxVE5ZNDdvQmNMYi1oNlVRQ29TeHBXdGZFUVFR?oc=5",
    "source": "Chosunbiz",
-   "published": "2026-10-28T06:36:00+00:00",
+   "published": "2026-10-28T07:05:00+00:00",
    "topic": "환율"
-  },
-  {
-   "title": "\"변동형 주담대 금리 연말 이자 부담 커진다\"… 은행 건전성 변수",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzNmS3JIVDBaUjZpM3ZrLXJramIzdXR1Nlo2M3VlUHhZMDc4cThiaWVaR0xRU0piNElWdnlJSGRWTi1Kb05BRHRuSnpnMUxrUzlmMzBBeWhuSEpHNlo5Y3d2X1dIYS1ZZ3d5UXBBcFJaM1E1MGx6bnlROVJISUdSdERzMA?oc=5",
-   "source": "글로벌이코노믹",
-   "published": "2026-10-28T06:26:10+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "금값 vs 백금값…월가 '숨은 지표'가 띄운 증시 경고",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JSXV6TFp4dko2anEzOEE5VXFMZlBwMFVRVnczR2FhWWhFYzdTQnUyQTJEdnV2RDBRb1k4N29mTXE0a2V4MHZUSnJ2X0Z5cWxfUGVxYUNNRXl6UQ?oc=5",
-   "source": "한국경제",
-   "published": "2026-10-28T06:16:06+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "기준금리 좌우할 물가상승 원인, '한은 vs 국회' 누가 맞을까",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TOTBORmREeE95YTZOWmliTlptX1EwN2h1UkloUUZZQi16d3JPckJWLUpQQTVpOWhvZFVjOGNLUnNQbGE3ZnV5eW1sRzBLZ0d4cURPTEVNTEUzTEFTSF95TXdBTzZYVVZxdmVsY3Z1cw?oc=5",
-   "source": "이코리아",
-   "published": "2026-10-28T04:39:42+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "뉴질랜드, 기준금리 2.75% 동결…4대3 표결로 인상 불발(상보)",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tVW9CRlVMLWRxcFQ2Ym9UZkNWNVA1M1JEUmR2d1hSYURicElfNXFqNWtSaUZFWGhwczZIcTAyUFpQR0NMNzVBRVJpY1pWX0NJNFJrSjluZERNdHNUcEloUW9MUXQ2ZnJGX0tBOFpJS2o?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-10-28T03:38:39+00:00",
-   "topic": "금리"
   }
  ]
 }
