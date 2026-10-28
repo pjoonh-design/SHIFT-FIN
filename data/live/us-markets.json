@@ -1,18 +1,18 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-28T07:32+09:00",
+ "updatedAt": "2026-10-28T12:38+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
    "id": "SP500",
    "name": "S&P 500",
    "unit": "",
-   "date": "2026-10-26",
-   "value": 7676.77,
-   "prevDate": "2026-10-23",
-   "prev": 7623.68,
-   "change": 53.09,
-   "changePct": 0.7
+   "date": "2026-10-27",
+   "value": 7722.6,
+   "prevDate": "2026-10-26",
+   "prev": 7676.77,
+   "change": 45.83,
+   "changePct": 0.6
   },
   {
    "id": "NASDAQCOM",
@@ -29,12 +29,12 @@
    "id": "DJIA",
    "name": "다우존스",
    "unit": "",
-   "date": "2026-10-26",
-   "value": 52361.58,
-   "prevDate": "2026-10-23",
-   "prev": 52215.16,
-   "change": 146.42,
-   "changePct": 0.28
+   "date": "2026-10-27",
+   "value": 52377.57,
+   "prevDate": "2026-10-26",
+   "prev": 52361.58,
+   "change": 15.99,
+   "changePct": 0.03
   },
   {
    "id": "DGS10",

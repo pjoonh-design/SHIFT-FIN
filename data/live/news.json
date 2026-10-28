@@ -1,20 +1,55 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-28T07:32+09:00",
+ "updatedAt": "2026-10-28T12:38+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "미국증시 나스닥 1.18% 상승…앤트로픽 기대에 반도체 반등, 다우는 강보합",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tWmRyYmg2M0tBZUo2T0ZzYzkyUTNDZVk5NkVyXzlrMlYyNDVuaXJoallyWmZKQWxjOXktWThXYjNsODkycC1zMGFhb2lfc1BaVE5GTEIyMFgya19BamRYSFNNUjF3aGR5R3BaVHJ6RmhNQQ?oc=5",
-   "source": "톱스타뉴스",
-   "published": "2026-10-27T22:08:26+00:00",
+   "title": "[미국증시] 알파벳·MS·FOMC·이스라엘 총선…이벤트 3중고",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IUlp2ZTBXUDdudFpiLUpNcWpDdDFZZ3UwRktYR2pHYVkwMEFWRjVmSzkyWDVKZHlQdUh4NGZ2WHZfVm1mcWIzR1NaR0llOTFHazRSS3FrYU82bEU2RTFKbUM4dXFaa2c?oc=5",
+   "source": "자본시장뉴스",
+   "published": "2026-10-28T02:10:00+00:00",
    "topic": "미국 증시"
   },
   {
-   "title": "[외환] 1,320원 후반대로 상승…FOMC 앞두고 달러화 강세",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jbldhNWg2REM5RE5PTVFUcXJRYVB6ZEw4NzVDS0hJbXhEcXJfSTFtX2s4QWp4WGNMZkwzWHhUaVpzVzk1Rk1mSzU5WkhEZHk5Y3ZJMW96MEZCTnQ5RTlWdXU1SzZ5cS1LYTgxQm1JYUx5UQ?oc=5",
+   "title": "美 금리 동결해도…韓은 인상에 무게",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OSTRHcmU3ak1ocHB5U21FR0pRblJVdm1WMFFPaHhJeXAwWm5veEJQYXdYWl9Ld25saFZIMHZPS2k4SmwxQVJ4WmhkclVLM1hxeGtFd1lB?oc=5",
+   "source": "헤럴드경제",
+   "published": "2026-10-28T02:08:59+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "[외환] FOMC 경계·숏커버에 12원 이상 급등세…1,330원대 중후반대",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50LUhfeXZOZkNkUE1ROE1vQXNwaDNRZkRDcUh5VTVuVVJWLWI0Mk1UbF9EM2FMZmtDcFN0NVZxZU14R0JqVjhGeldyRHRVRDVWdkdHZlV1WTVxUFFqQ2U2MG5PYllUeEZNbi1XYU1mU3c5QQ?oc=5",
    "source": "KB Think",
-   "published": "2026-10-27T21:27:27+00:00",
+   "published": "2026-10-28T01:57:59+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "원·달러 환율, 3.4원 오른 1327.1원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY011RkRIWDBlVnNQZjlUblFnZzNCQTBIWEVRRkpZZm10NVQ5dDgzWWlJczNfVXhSQ3Y2Rk1QZWVsRTN5UG1EWVZESXNRVVNDaTJqUGJSUmdIaFlFQTlhbV9UWi1QX0tHSEVMbThBb3h4RVFEOVNJeU9uenpWMlZZOWlNdFRwUdIBmgFBVV95cUxNUGVkZ2xNV29pVTNtaDhxT2tXLVBWR0lRUlFmX1RqUVBURk45MzJXZl83Um1rb0YzbGZOd2t5Z1NZNGhTb1ZPQWM1cVhNYXZQeHRpWWFVbWFNYTFVa2IwRGl5V1Zfd2I0UXBHMktOUDk1am9MSVpTcHlmVzBsMmhsazZrSV9iMmE4d2NZSTVLcXNQQmN6ck5zeG93?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-10-28T00:27:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "日 증시, 메타발 美 강세장 연동하며 상승",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5ZTBqQTJuTDYzVlh1R0xqbjRydjVlU3p4QXhOY01naDJ5Rld5YUx1bjJXTGF4UEFJVlE2dTh4OHNJWUZvakJzMU5MY1JJTWxueUxYV3c4WExFTnZDalhiWTlkeldkc0l0RnRBLUMyWEZsQQ?oc=5",
+   "source": "KB Think",
+   "published": "2026-10-28T00:24:55+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[시황] 미국증시, AI 반도체 3거래일 연속 반등에 나스닥 강세",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aZ0pVOU5SMmZYMGx5QVQ0OVgzTHYtblJrR0tfMGkxaWlDSTBudmhIdkFmSkFGeWx5MEkxRHkwckJGb2NoeDBIV095OUhZOFlab2luc3Biblg2QkdUN3lGTXFB?oc=5",
+   "source": "버핏연구소",
+   "published": "2026-10-27T23:10:25+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "원·달러 환율, 1327.0원…달러, 美 경제지표 개선에 상승",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZ090eUt0SExHTE1IRGpwWE5YbC1TY0hyR2FRYlplTDl3V2xaVTBuZXVrcnVOQk1yTmpvSTRrSWxGN3I3ZVJmODN1Q3NtelI1eUc5QUVkMUZrNnZxOTlN?oc=5",
+   "source": "조세일보",
+   "published": "2026-10-27T22:53:51+00:00",
    "topic": "환율"
   },
   {
@@ -25,27 +60,6 @@
    "topic": "미국 증시"
   },
   {
-   "title": "뉴욕증시, 상승세로 마감…나스닥 1.18%↑",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPOW9HVUlzdDEyb0Q2Vmx2cXktRVZ1UVFyOVBGclRFLWVEV3JpNnhRS1pwYTd0MEVqaFFZVE93ZXhiN1Qta2VvREFoYUFDLVZX?oc=5",
-   "source": "블루밍비트",
-   "published": "2026-10-27T20:17:15+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "\"美 국채 금리 5%에도… 경제 성장 타격 없어\"",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYW43SWdOZjh3UzJmYXlBaHVoMl96YU81b3FPVzVydzdzU19obTNlR2IzeWJ0T1A3b3ZTQTB1bzlUbkNpUnBaRjFRM205bXlDSHBxWDFvOTN6b2MtcG5OOVdzWlk0V25vVTBtQWl5cmV6Y0ZpRGk0c0RzLWhoNUkzZFBLak56UkI3V1A0?oc=5",
-   "source": "조선일보",
-   "published": "2026-10-27T15:32:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "원·달러 환율 하락세… 경남 수출기업, 환위험 관리 비상",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBISWIzSnp2djRScjVqdUZvWWVzTHJQYy1OZG1HRWZ6eXhxalJVUGFjaThNNncycFppTUJDM0J0dFZ1bnNNWGtydnVlcDZiR2hkUmlTRDRSWXF6dw?oc=5",
-   "source": "경남신문",
-   "published": "2026-10-27T10:00:41+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "[시사플랫폼] “한국은행, 금리를 어느 정도 속도로 올릴 지 고민할 것”",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFTXZ5OW1SaVBaaVNkZUJ1OURyRWRvSnNTUXFxVnM1OHVMVFRSekJGYVRUZjZUMVptellHTjhyZ1o4RjdHeUxJZkZFWC05dTEyM2s3Vmg0Wjk3LTVLTkxuN2ZoVEVwUk5CUFV6SlJn?oc=5",
    "source": "KBS 뉴스",
@@ -53,24 +67,10 @@
    "topic": "금리"
   },
   {
-   "title": "노무라 \"4분기도 소비 부진 시, 한은 금리인상 조기 종료 가능성\"",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FSkpTbVk5bWljVHJkR0xCa0xHRWVPZ2xVSUFlOW81VzFrX2NGM1VnNE9FUEJjZlBud1dYM0ZlWk1XTTdPcFhhX1BMSzlXcE5yNmhlN1RiVVI1dHhvd3haeWFiNFhuVmJ5ZjhVZEpRMldsSkk?oc=5",
-   "source": "마켓인",
-   "published": "2026-10-27T06:51:37+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "CNBC 설문서 전원 \"BOJ, 금주 금리동결…12·1월 인상\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91QWRjRnh1cGZJN1JndndnOEg1ZnhXQ0hEUUZzU1IwUVY3c0VObE1zVlhFUThtblpPRDk4bUJTOUVuUXVjRWJHSHRZeW85RG5VVjdrQnpRRmRUY1htLVJiNTJoaGJGOEIyT3BoRlJXalU?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-10-27T03:06:26+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "주담대 금리 年 7%대 턱밑…변동·고정형 금리 격차 0.2%p로 축소",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qaS1SOXAxM0p5eERvMjhnNTc2c2pBaDN5d21wamFNYTVrdGNMWEVQUjZNQkVVb2tkTE42RV9YSTlNQlNEQnlqeVhCb05vSE5Dd2Jrd2Vna1VRdw?oc=5",
-   "source": "파이낸셜뉴스",
-   "published": "2026-10-26T21:05:56+00:00",
+   "title": "증권가 \"한은, 10월 금리 동결했지만…11월 추가 인상 가능성 여전\"",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBMDBzWUthZ05SX0VCZ29RN3FocFdPczdTS1hnTktSQ193dUZITTdNM01jQTJCOUpVWWhROVBDMzVLM3NGb2dWSXJtTWhlVHNDams1QWtRWVJaNGRTaXNJVjUybmlOa292Y0NtNQ?oc=5",
+   "source": "ER 이코노믹리뷰",
+   "published": "2026-10-27T08:27:35+00:00",
    "topic": "금리"
   }
  ]
