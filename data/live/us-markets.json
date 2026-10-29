@@ -1,29 +1,29 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-29T07:35+09:00",
+ "updatedAt": "2026-10-29T12:41+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
    "id": "SP500",
    "name": "S&P 500",
    "unit": "",
-   "date": "2026-10-27",
-   "value": 7722.6,
-   "prevDate": "2026-10-26",
-   "prev": 7676.77,
-   "change": 45.83,
-   "changePct": 0.6
+   "date": "2026-10-28",
+   "value": 7743.98,
+   "prevDate": "2026-10-27",
+   "prev": 7722.6,
+   "change": 21.38,
+   "changePct": 0.28
   },
   {
    "id": "NASDAQCOM",
    "name": "나스닥 종합",
    "unit": "",
-   "date": "2026-10-27",
-   "value": 26477.81,
-   "prevDate": "2026-10-26",
-   "prev": 26169.38,
-   "change": 308.43,
-   "changePct": 1.18
+   "date": "2026-10-28",
+   "value": 26549.85,
+   "prevDate": "2026-10-27",
+   "prev": 26477.81,
+   "change": 72.04,
+   "changePct": 0.27
   },
   {
    "id": "DJIA",

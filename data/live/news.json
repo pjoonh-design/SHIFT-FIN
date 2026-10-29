@@ -1,41 +1,55 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-29T07:35+09:00",
+ "updatedAt": "2026-10-29T12:41+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기(종합2보)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51YWIwd0pLZl9KcjdsS19jY2FBcjNFS09IZXpZU2lObTBxa3E0bnNoY3AyQjNaRFpHMU5ERzBSRGlWYXVsWm9rX0Z1R2tHdjJJUWNyeFpodEd4amfSAWBBVV95cUxPZ09QejYwSnFLVjEyb1J0WXFQa3RFcDdHX3hJRWhLeFUycWF3d0ZKY2R4NVp2T2dSNmRSWlJnRjNTMWctSnN4U0xfQkYyd1k5ck9iOEFnV3RFdVZ4cG53cTU?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-10-28T20:28:03+00:00",
+   "title": "[환율 전망] 주가와 환율의 기묘한 동행",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00VHFBYTdjNFh2SU1Pajh5QXlvUTdudTVJV3lsZFlidlVDWWNwRW1PeUdrUldEVnJjZ25lOWJLVndTTC1kXzMtaER5VlBHYmgyRU9aMTJWb1lBLTI2X0twZQ?oc=5",
+   "source": "KB Think",
+   "published": "2026-10-29T02:12:44+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "원·달러 환율, 1.6원 오른 1339.3원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZTdqZFNPLXhhWGtrOHd0LW1wdHFQUzZuQTBsSUdfNGZLWk9TMDY0SmZDOTNTT2M3aDdLdXl4YmtTdXgwSklCVmJDOEhYSVQ2WWZpa1FOUmlmbmhMY0h4cDhmMmZBOWktcWNiZFJxTDVfR1FST21QM2Vpc3BFUDljSnptbGtzQdIBmgFBVV95cUxNX0VUc2dhcWduN21kYmNWbkNIUE9kX0NxS1FPVG9HZ0s1Rk5GLXItbTVXQUV4dDlYVmkzbXIwZGFyQldsYlNhT2lkaWJkcmMzQ1RWQ1VwWllBUHdmY0Z6em5ZV3EzaDd5UEQ5aW1Rb3liQWNpQ285a2NwRjRCaG5lLW5NalRxMVhGay1yQ2hYTDFXXzQ1WTFOWkp3?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-10-29T00:40:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "캐나다 중앙은행, 3년 만에 금리 인상… 기준금리 2.5%로 25bp↑ - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mMEdDZFZWZlBNa3Fqa0xYbmR2UVphMmI0MjNqVGhYVk9IR2Q1MXV1cnRkRmlRS1VMaW81TmNjcU1CMHIxaTkxZmsxYWVRR0tBZ2dmQnVRTDZiSmdqdmpHVXNYcHEwMjR30gFuQVVfeXFMT2tsZ21tN1Q2dEFVbVpvbXhOVGZmWmpDMWxkTWxqZFhEZzBsMlc0WE9fQWpSdEE1NmRqWWd4dGRIUmF2T2JOWTZXZGluSU9sWTZDZldEZzdYX3prTVZQa3ZRdTc5eVdQd25YT1JKdlE?oc=5",
+   "source": "머니투데이",
+   "published": "2026-10-28T22:30:35+00:00",
    "topic": "금리"
   },
   {
-   "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5",
-   "source": "VOA 한국어 홈페이지",
-   "published": "2026-10-28T19:06:58+00:00",
+   "title": "미국증시 장중 하락 뒤 소폭 상승…연준 금리 동결에 SK하이닉스 13.3% 급등",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mMVRQcHVBZjlDSjVleWVvVFZNcmQ5Q2Roa2N4TDFVQmtBSHlLNHFEdXBxXzFJbmFPQVdfYWJEWEpXZnBzSGpZY3BlMVFqakdCLUYwSTdoTnFTRUViN0djeTlPUzhET1ZPTUxxT2ZJUGFtQQ?oc=5",
+   "source": "톱스타뉴스",
+   "published": "2026-10-28T22:04:56+00:00",
    "topic": "미국 증시"
   },
   {
-   "title": "BOC, 기준금리 2.50%로 25bp 인상…2023년 7월 이후 처음(상보)",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VdVlFTDZ3a2tnbDN3TEQ1YWZfUEh1QjV4dWR6NzM1aldXUVg4UUk3bGtTQlZtazN4dWxWVjlhYU1jdGZZc1RsWlBza2tSUl9QaGhSS0dtanR3c1pEQmN1MHFqa29pN0QxQjVJTkhaMDg?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-10-28T16:13:02+00:00",
+   "title": "美, 기준금리 동결…12월 추가 인상 가능성",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByU2dETjg3NkdVNVFYeVNGb2FDeDlrdTVkZERKdlJEN0E3M2JZNkM3REtjTjFBdEQ2UjB4V2t0Szc5Rl92X1JtU3hPYmx4YVNtUkNKWnNhcURCRjFEVkFYdl9FRmpEYm8?oc=5",
+   "source": "연합뉴스TV",
+   "published": "2026-10-28T21:07:00+00:00",
    "topic": "금리"
   },
   {
-   "title": "캐나다, 3년 3개월 만에 금리 인상…기준금리 연 2.50%로 상향",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFMzA3VVVVS0VpMC1kd3hXaW1LMWV4RVB0UGcwYWczakp4QWJvRVpvaTdrSzlQblpyRzlFV2JidFViTTFqc0kxWmFNVU41MWZHYmk3SlBmZ2RZYTTSAWBBVV95cUxPYTkzTDljS292MUlNaFU2MlBFblhFZVhhbkhhUVR5WU5LNC1DWXlyMFJVZ3Y2SExRSTNmTVNTY1lkbXJZRjg2VjVoWl93amM4Z0JWSllVVHRQaFYxNEdrZm0?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-10-28T15:16:45+00:00",
+   "title": "미 연준, 기준금리 동결…“내년 금리 결정은 7번만”",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQVYyWHJuUWFkT19TZDd4ZTNJSm9iQ1BwNlF1NjVEbVVyelU1dmtUaDRndWg4dGt1Q3F4dEZBRXhqYThtSmFWVWYyUHM2OEFDRTRtcC0tOU5MNDQ?oc=5",
+   "source": "KBS 뉴스",
+   "published": "2026-10-28T21:01:00+00:00",
    "topic": "금리"
   },
   {
-   "title": "캐나다, 3년만에 기준금리 인상…유가발 인플레에 추가 인상 시사",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RYmhQTWh5a1M3VUtJQjJ3OEQ3YlVteFJVdzJNNzJ1anFva2NfZ2RpTFdoel9mOU1KTWhneXZhNmExUEhrUVFNT2dybWo1T0JfQ1o2VGdyclZhTTAwNm8xU1h0Y2Y4RHY0Q0FCaWF6allrbFk?oc=5",
-   "source": "마켓인",
-   "published": "2026-10-28T14:48:17+00:00",
+   "title": "美 연준, 기준금리 3.75~4.00% 동결…추가 인상 속도 조절",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHZEtyVWU0anhfTG1kWmZsbG5FUC1abVlsek1zMlRGMHRRbDJWTjVsc2t4SEt1a1YwazNleHh1MS1xU1RmdXExSzZaU2xvSDU2dm8tUk1R?oc=5",
+   "source": "중앙일보",
+   "published": "2026-10-28T20:15:13+00:00",
    "topic": "금리"
   },
   {
@@ -53,24 +67,10 @@
    "topic": "미국 증시"
   },
   {
-   "title": "원·달러 환율, 14원 뛰어…FOMC 앞두고 외환시장 긴장감(상보)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXcjhnSjBjMG1jbVp2ay1ZeGhOMDU1MThia1RUdEw0MnVqRkE0V1lGdnVkRWVNZzl5VG04TEl6VFF3LUQxdkkycVFBeDM2T2tsaUZhQjZwT0NoN1FLZ01sUA?oc=5",
-   "source": "아시아경제",
-   "published": "2026-10-28T07:47:17+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "원/달러 환율, 1,340원대로 상승…달러 매수세에 14원↑",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pZzZHXzhhdzd4WGU0VGhQb3J2WGFFUkxHNy1tbllDbmRiczZ1TEtsVTlXN29SUnZBUGoxYW9FSmZmTlBZVzBRUk5GSERmdWFWR19QXzdvdl9GSWZwTkJ2d9IBYEFVX3lxTE1pZzZHXzhhdzd4WGU0VGhQb3J2WGFFUkxHNy1tbllDbmRiczZ1TEtsVTlXN29SUnZBUGoxYW9FSmZmTlBZVzBRUk5GSERmdWFWR19QXzdvdl9GSWZwTkJ2dw?oc=5",
    "source": "연합뉴스",
    "published": "2026-10-28T07:15:03+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "원·달러 환율, 14원 오른 1337.7원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONk5MMVp4N19Bc3haY1R6emotaVpmbGhIb2ViRXBTUVc0eG9mNmZhV1FuSGtOM1FKVGJNUHNQT3NlLTNGUVRFZWZzNVllWXAySzlGSmQwYlB3RHZ1VzlSOXlyMklMazhBQkxuamtBalFTcHhIOWZQZHJLR210UkMwVlJjVGNvUdIBmgFBVV95cUxNQ3lLcFVEbmNPQzlmdjVzSlBablJvYVh1MWhqNVJwZ1FxZHlUeGxKdnZRcm5EWkhNcmtNTXNnZ2xJUmJ4Z3J2NVoyN2FCRGtFazBnSFR4MlExXy1GVVN6NFd0LUdFd3ZZdlgxcGx0ckYxMzJuWXNRX1E3QWZvOXgxVE5ZNDdvQmNMYi1oNlVRQ29TeHBXdGZFUVFR?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-10-28T07:05:00+00:00",
    "topic": "환율"
   }
  ]

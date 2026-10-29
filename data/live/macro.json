@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-28T21:29+09:00",
+ "updatedAt": "2026-10-29T12:41+09:00",
  "source": "한국은행 경제통계시스템(ECOS)",
  "items": [
   {
@@ -30,9 +30,9 @@
   {
    "key": "kospi",
    "name": "코스피",
-   "value": 5638.34,
+   "value": 6012.44,
    "unit": "1980.01.04=100 ",
-   "time": "2026-10-27",
+   "time": "2026-10-28",
    "source": "코스피지수"
   },
   {
@@ -61,33 +61,30 @@
   "items": {
    "deposit1y": {
     "name": "정기예금(1년)",
-    "value": 3.39,
-    "month": "2026-08"
+    "value": 3.57,
+    "month": "2026-09"
    },
    "saving": {
     "name": "정기적금",
-    "value": 3.72,
-    "month": "2026-08"
+    "value": 3.15,
+    "month": "2026-09"
    },
    "creditLoan": {
     "name": "일반신용대출",
-    "value": 6.33,
-    "month": "2026-08"
+    "value": 6.49,
+    "month": "2026-09"
    },
    "mortgage": {
     "name": "주택담보대출",
-    "value": 4.66,
-    "month": "2026-08"
+    "value": 4.88,
+    "month": "2026-09"
    },
    "householdLoan": {
     "name": "가계대출",
-    "value": 4.76,
-    "month": "2026-08"
+    "value": 4.96,
+    "month": "2026-09"
    }
   },
   "source": "한국은행 예금은행 가중평균금리(신규취급액 기준)"
- },
- "stale": true,
- "lastError": "GET 실패: https://ecos.bok.or.kr/api/KeyStatisticList/***/json/kr/1/120 (<urlopen error timed out>)",
- "lastErrorAt": "2026-10-29T07:35+09:00"
+ }
 }
