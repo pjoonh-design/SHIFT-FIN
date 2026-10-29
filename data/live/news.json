@@ -1,13 +1,13 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-29T12:41+09:00",
+ "updatedAt": "2026-10-29T21:30+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "[환율 전망] 주가와 환율의 기묘한 동행",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00VHFBYTdjNFh2SU1Pajh5QXlvUTdudTVJV3lsZFlidlVDWWNwRW1PeUdrUldEVnJjZ25lOWJLVndTTC1kXzMtaER5VlBHYmgyRU9aMTJWb1lBLTI2X0twZQ?oc=5",
-   "source": "KB Think",
-   "published": "2026-10-29T02:12:44+00:00",
+   "title": "미 금리 동결에 원/달러 환율 소폭 하락",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fVUwwcl9GQkpVaC1pWkl5VHp2WEVUMEJ3d1VNMEJ5S1lBSWRnWUF0MUVoUElJTEJoWHRoMEpyazVSTF9OcUt1RWNBbUhyWWV0S3lpVnZUNGUzSVnSAWBBVV95cUxPeFR1UXBDcS15eHdXaDMtTWVHRVV6R01LVUkyckVkYXRHbEQ1MXJ4UG5qVHloZkt0MDVEank5a0JPcFRIZ18wY2liTU9sdkw2RlR5bFI2OWVMTUliMmpVNXA?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-29T07:34:41+00:00",
    "topic": "환율"
   },
   {
@@ -15,6 +15,13 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZTdqZFNPLXhhWGtrOHd0LW1wdHFQUzZuQTBsSUdfNGZLWk9TMDY0SmZDOTNTT2M3aDdLdXl4YmtTdXgwSklCVmJDOEhYSVQ2WWZpa1FOUmlmbmhMY0h4cDhmMmZBOWktcWNiZFJxTDVfR1FST21QM2Vpc3BFUDljSnptbGtzQdIBmgFBVV95cUxNX0VUc2dhcWduN21kYmNWbkNIUE9kX0NxS1FPVG9HZ0s1Rk5GLXItbTVXQUV4dDlYVmkzbXIwZGFyQldsYlNhT2lkaWJkcmMzQ1RWQ1VwWllBUHdmY0Z6em5ZV3EzaDd5UEQ5aW1Rb3liQWNpQ285a2NwRjRCaG5lLW5NalRxMVhGay1yQ2hYTDFXXzQ1WTFOWkp3?oc=5",
    "source": "Chosunbiz",
    "published": "2026-10-29T00:40:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "[환율 전망] 주가와 환율의 기묘한 동행",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00VHFBYTdjNFh2SU1Pajh5QXlvUTdudTVJV3lsZFlidlVDWWNwRW1PeUdrUldEVnJjZ25lOWJLVndTTC1kXzMtaER5VlBHYmgyRU9aMTJWb1lBLTI2X0twZQ?oc=5",
+   "source": "KB Think",
+   "published": "2026-10-28T23:07:28+00:00",
    "topic": "환율"
   },
   {
@@ -32,32 +39,32 @@
    "topic": "미국 증시"
   },
   {
-   "title": "美, 기준금리 동결…12월 추가 인상 가능성",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByU2dETjg3NkdVNVFYeVNGb2FDeDlrdTVkZERKdlJEN0E3M2JZNkM3REtjTjFBdEQ2UjB4V2t0Szc5Rl92X1JtU3hPYmx4YVNtUkNKWnNhcURCRjFEVkFYdl9FRmpEYm8?oc=5",
-   "source": "연합뉴스TV",
-   "published": "2026-10-28T21:07:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "미 연준, 기준금리 동결…“내년 금리 결정은 7번만”",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQVYyWHJuUWFkT19TZDd4ZTNJSm9iQ1BwNlF1NjVEbVVyelU1dmtUaDRndWg4dGt1Q3F4dEZBRXhqYThtSmFWVWYyUHM2OEFDRTRtcC0tOU5MNDQ?oc=5",
-   "source": "KBS 뉴스",
-   "published": "2026-10-28T21:01:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "美 연준, 기준금리 3.75~4.00% 동결…추가 인상 속도 조절",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHZEtyVWU0anhfTG1kWmZsbG5FUC1abVlsek1zMlRGMHRRbDJWTjVsc2t4SEt1a1YwazNleHh1MS1xU1RmdXExSzZaU2xvSDU2dm8tUk1R?oc=5",
-   "source": "중앙일보",
-   "published": "2026-10-28T20:15:13+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "미국증시 상승 출발…SK하이닉스 11% 급등·마이크론 5% 강세, 연준 결정 앞두고 관망",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45TnBfcUVGbHpFR3VpaGpSTHdKYU90S1ZwZUdsTFI1UFd5aGt3bmhCMk9tZ0dIdUk4TFVKUGVLVVhHcEVkcVk3TFo5aEdWbnZkc2tlbEMzSDJsd3RwVjJoMzdaN3h3YXJEQmhkd0tia3V0QQ?oc=5",
-   "source": "톱스타뉴스",
-   "published": "2026-10-28T14:08:01+00:00",
+   "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5",
+   "source": "VOA 한국어 홈페이지",
+   "published": "2026-10-28T19:06:58+00:00",
    "topic": "미국 증시"
+  },
+  {
+   "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBveTNQMFcwazJjellKVTkxRlZ3dXNyaWNIeEd5NGFzX2tsNEplUkpjQ1lvSWFoSS16RDFfaThjVUdxVF9jYkxXWjdXNWlpZHZmRHVxYURpZ2dONm_SAWBBVV95cUxPZjk4dzlmUVJfWFVuM3RWTUpYV2wyVnRxbkl0MnRZV1NaNWlQSUh6bUY2YS1TcmE3VFNDbFNkT2U0WmY2cUVfc2ktdW9jX2xPbDNDc3VFZ3YyMFA2TUVrTUE?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-28T18:32:54+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "캐나다 기준금리 연 2.5%로 상향",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtbzRuVkx0VTZ3SXVKRF8wc2VoUGktbW42OEM5Vm1kcjRGbDVmMGQxanlOSmV1b2lnck0xQTdGNmx1Ni1lVnhXREdkd25CdXUzcEt3S3V6akJ3SVU?oc=5",
+   "source": "KBS 뉴스",
+   "published": "2026-10-28T15:42:00+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "캐나다, 3년 3개월 만에 금리 인상…기준금리 연 2.50%로 상향",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFMzA3VVVVS0VpMC1kd3hXaW1LMWV4RVB0UGcwYWczakp4QWJvRVpvaTdrSzlQblpyRzlFV2JidFViTTFqc0kxWmFNVU41MWZHYmk3SlBmZ2RZYTTSAWBBVV95cUxPYTkzTDljS292MUlNaFU2MlBFblhFZVhhbkhhUVR5WU5LNC1DWXlyMFJVZ3Y2SExRSTNmTVNTY1lkbXJZRjg2VjVoWl93amM4Z0JWSllVVHRQaFYxNEdrZm0?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-28T15:16:45+00:00",
+   "topic": "금리"
   },
   {
    "title": "미국증시 전망…SK하이닉스 훈풍에도 FOMC·빅테크 '분수령'",
@@ -65,13 +72,6 @@
    "source": "톱스타뉴스",
    "published": "2026-10-28T12:33:38+00:00",
    "topic": "미국 증시"
-  },
-  {
-   "title": "원/달러 환율, 1,340원대로 상승…달러 매수세에 14원↑",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pZzZHXzhhdzd4WGU0VGhQb3J2WGFFUkxHNy1tbllDbmRiczZ1TEtsVTlXN29SUnZBUGoxYW9FSmZmTlBZVzBRUk5GSERmdWFWR19QXzdvdl9GSWZwTkJ2d9IBYEFVX3lxTE1pZzZHXzhhdzd4WGU0VGhQb3J2WGFFUkxHNy1tbllDbmRiczZ1TEtsVTlXN29SUnZBUGoxYW9FSmZmTlBZVzBRUk5GSERmdWFWR19QXzdvdl9GSWZwTkJ2dw?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-10-28T07:15:03+00:00",
-   "topic": "환율"
   }
  ]
 }

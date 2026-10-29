@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-29T12:41+09:00",
+ "updatedAt": "2026-10-29T21:30+09:00",
  "source": "금융감독원 금융상품한눈에",
  "month": "202610",
  "via": "https",
@@ -58,6 +58,16 @@
  ],
  "saving": [
   {
+   "bank": "카카오뱅크",
+   "product": "카카오뱅크 자유적금",
+   "rate": 3.85,
+   "maxRate": 4.05,
+   "term": 12,
+   "type": "단리",
+   "open": true,
+   "month": "202610"
+  },
+  {
    "bank": "한국산업은행",
    "product": "KDB 자유적금",
    "rate": 3.84,
@@ -78,16 +88,6 @@
    "month": "202610"
   },
   {
-   "bank": "카카오뱅크",
-   "product": "카카오뱅크 자유적금",
-   "rate": 3.75,
-   "maxRate": 3.95,
-   "term": 12,
-   "type": "단리",
-   "open": true,
-   "month": "202610"
-  },
-  {
    "bank": "케이뱅크",
    "product": "주거래우대 자유적금",
    "rate": 3.7,
@@ -101,7 +101,7 @@
    "bank": "수협은행",
    "product": "Sh해양플라스틱Zero!적금 (자유적립식)",
    "rate": 3.65,
-   "maxRate": 4.15,
+   "maxRate": 4.25,
    "term": 12,
    "type": "단리",
    "open": true,
