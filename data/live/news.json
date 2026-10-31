@@ -1,14 +1,35 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-31T12:39+09:00",
+ "updatedAt": "2026-10-31T21:28+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "[신문은 선생님] [생활 속 경제] 최근 환율 떨어져 인기 많지만… 수수료 같은 숨어 있는 비용도 잘 살펴야 해요",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlsbVQwRE8xSlI4bHI3Nm1BM2ZBa19yLTRFMFJobzlxMllaMlhrTHdVYjQyT2xYQ1lOdkVvYmJvS3JRZU5razB0akRDQVEyNE1JbVdLUUdUUnp1ZWxrc2JUZUtzY0RfWnF5OU51RjRWaDBrc1dxeE1LWEZhNTdMZUJ3bDRpejRXSVhTRDZ3?oc=5",
+   "source": "조선일보",
+   "published": "2026-10-31T10:57:33+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "‘AI 투자 우려’에 인텔 29% 폭락…국내 증시 여파 촉각",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbklwTUVFRF9rZGlDbDNPUzlwUTFab3lERXhkVEJCd1JaMm9kTk9uSmJLWlY3VG9VTHR2NFZ4MXdQRVExeHhxaWtyRFoxZE5aOVdNeg?oc=5",
+   "source": "JTBC",
+   "published": "2026-10-31T09:47:00+00:00",
+   "topic": "미국 증시"
+  },
   {
    "title": "환율 하락에 여행객은 ‘웃고’ 대출금리 상승에 차주는 ‘울고’",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrT0RMZjlrenQxNnJZUF8tQW9reUtpc2FVYUZBUDJOYXI2YVdERWtoWWtjdmMwRGd2LV9ub1dpRmhoYzJhZEIycUZENGlXTjdMSnR0UzZkWXNrQk95WUZiaFRHenpPY204WWI4?oc=5",
    "source": "영남일보",
    "published": "2026-10-31T03:00:41+00:00",
    "topic": "환율"
+  },
+  {
+   "title": "다음주 미국증시, 국내증시 전망 : 필라델피아 반도체 지수 -7% 하락 이유, 다시 반등할까?",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOekdlazlQakJiRkNmOW9YcFNWemRFX09BZmI3ejljYlNSUW5UYXpLU0dIc1VkaExBeGIyTW5JX3A5OFNxejhqeFJtb1RoeTlJeE9QUHpPQURFSkc2MXdXdVpqZ0JOTVNCeS1fTlRfalhuUmltb3k0b29FX2NYVmRfUFNCVQ?oc=5",
+   "source": "네이버 프리미엄콘텐츠",
+   "published": "2026-10-31T02:55:00+00:00",
+   "topic": "미국 증시"
   },
   {
    "title": "156년 만에 세 번째 선 경고등… 40.7 치솟은 미국 증시 밸류에이션",
@@ -18,25 +39,18 @@
    "topic": "미국 증시"
   },
   {
-   "title": "[미국증시] AWS 39.3% 성장에도…나스닥 최악의 10월",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMcFlvZ2JWXzg5bi0wSVgtVzRjQXZxelNLdjhaYWkxTW5SanZCbWJ5UGo1T3FBVk9sWDJSTVY4a3lmMFNUS1Nkb1FHTk1YQlQ2UEs5SkswVkM4RE5Oc3d2aVBNa3hKeUU?oc=5",
-   "source": "자본시장뉴스",
-   "published": "2026-10-31T00:30:00+00:00",
-   "topic": "미국 증시"
+   "title": "로건 연은 총재 \"기준금리 최소 두 차례 더 올려야\"… 추가 긴축 촉구",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yNTVrcVZqNG9MbDFwMXByT0Z1LWk1cFJwOTI1VExPcEJUem5jN196YldyZ0h6QlJ6QWxSXy1CNzNFWDkyODRHRXNrLXp4RkdVUDJ1QlNSek8?oc=5",
+   "source": "블록미디어",
+   "published": "2026-10-30T21:50:10+00:00",
+   "topic": "금리"
   },
   {
-   "title": "미국증시 나스닥 2.86% 급락…인텔 29% 폭락·AI 투자비 우려에 반도체 투매",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BemN4V3pod0xmeUExWkQxTUJoMkY5b2FsMDQ4MWloSnY4SHp3MF9SLUhLN2VmSEppQWZ1QTREUWlwRm85RVAySWNTM2RhTEdxRE5rWmdUSXpoSDlzaWx6ZHBmSjNGSGhESzZtNTYyR3FOUQ?oc=5",
-   "source": "톱스타뉴스",
-   "published": "2026-10-30T23:47:36+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "[신문은 선생님] [생활 속 경제] 최근 환율 떨어져 인기 많지만… 수수료 같은 숨어 있는 비용도 잘 살펴야 해요",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlsbVQwRE8xSlI4bHI3Nm1BM2ZBa19yLTRFMFJobzlxMllaMlhrTHdVYjQyT2xYQ1lOdkVvYmJvS3JRZU5razB0akRDQVEyNE1JbVdLUUdUUnp1ZWxrc2JUZUtzY0RfWnF5OU51RjRWaDBrc1dxeE1LWEZhNTdMZUJ3bDRpejRXSVhTRDZ3?oc=5",
-   "source": "조선일보",
-   "published": "2026-10-30T22:13:18+00:00",
-   "topic": "환율"
+   "title": "\"물가 목표 2% 도달\"...일본은행, 기준금리 '동결'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRndGYkdIVlBxelVyNzhTU01xZkZVZEFzeEYzcGxFVGtNU3B3X2YzUE8zTElIRnJOcVRyaDhxbXFGQ1RrYVVQYWZoRXpOTl85V2VzLXk0b1VsNE0tM0E?oc=5",
+   "source": "YTN",
+   "published": "2026-10-30T14:06:00+00:00",
+   "topic": "금리"
   },
   {
    "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락",
@@ -46,32 +60,18 @@
    "topic": "환율"
   },
   {
-   "title": "일본은행, 기준금리 1.25% 유지…'물가 목표 2% 달성' 판단",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WQ0pPazAzVVZVRXJEZWN1c0NfaFhsbWNvMS1KSmk4X0lFQlVwMXZ2eF9SVUZTRExNd0tGVmJydjF2ejlVcWlXVzUwRjRuamZNQzR3T0FrbHlTNFnSAWBBVV95cUxQWnIycFd6ei1RTTZDMGo5US13NzM4TERLS0FfdDRqUm1IMEpGOEVSUDJEVDJrZVFISUZQWWRZRklhV1g4eW1ydDhybWRhRy1QclJNWld3VU9UNmFsNDVseXY?oc=5",
+   "title": "한은 금리 두 번 올리자…4% 예금 비중 한 달 새 20배 급증",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0T1hlX1E5UjBoTkxXbEgwMnd5S1NIZmdVbU1rQ0tMOG5HNjlEWF9raENrdlJveFFGcjFvZnFWSGp2V3RVTDNsNTF0UDAzT3d6ckxwUjJkbVJGRnJ6LXI5Q09xdW5yZ0VZSlRSaWsyRDgwM00?oc=5",
+   "source": "마켓인",
+   "published": "2026-10-30T06:18:43+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기(종합2보)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51YWIwd0pLZl9KcjdsS19jY2FBcjNFS09IZXpZU2lObTBxa3E0bnNoY3AyQjNaRFpHMU5ERzBSRGlWYXVsWm9rX0Z1R2tHdjJJUWNyeFpodEd4amfSAWBBVV95cUxPZ09QejYwSnFLVjEyb1J0WXFQa3RFcDdHX3hJRWhLeFUycWF3d0ZKY2R4NVp2T2dSNmRSWlJnRjNTMWctSnN4U0xfQkYyd1k5ck9iOEFnV3RFdVZ4cG53cTU?oc=5",
    "source": "연합뉴스",
-   "published": "2026-10-30T03:25:52+00:00",
+   "published": "2026-10-28T20:28:03+00:00",
    "topic": "금리"
-  },
-  {
-   "title": "미 연준, 기준금리 동결…“내년 금리 결정은 7번만”",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJa0ZwWWlINklpTmM2QWhaT1FmYlVOVWRuUnFMcUNtWF8wR01PMFhCSzZmcG4wbHZJdHdYR1lGMVNpVnVOcjRJaVhDQ0tSV3BDblp5TzJpYXZoWTlHWldtNzM5TDB1Zw?oc=5",
-   "source": "KBS 뉴스",
-   "published": "2026-10-28T21:01:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "연준, 美 중간선거 앞두고 기준금리 동결…‘12월 인상’ 시장 전망은 85%",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHODlTRFlJM3VuTEU3UTkwRXNaTktMckg5SWUwVVM5N3JiNEtwc3dXU0NaSEsxQXk2VVNySzR2cnVJUm9YU0hfT0xVV3BFS21QNVNfbV9kdnpMR2FxUU1JSGxUNnI4RFpqU091M0NyanExQ0nSAWZBVV95cUxQZ09DZ055Y25BdWlpQzlfcWtYZkhGVGJLdFc0TkVPZUhkZVkyU09CX3IxeTdVZkotTnJpY284SUJEUmpVMVp3NHhwNUVFQTlCdmdsTVRta1FvQ1hjdkFRVkNGMnZMM3c?oc=5",
-   "source": "동아일보",
-   "published": "2026-10-28T20:17:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5",
-   "source": "VOA 한국어 홈페이지",
-   "published": "2026-10-28T19:06:58+00:00",
-   "topic": "미국 증시"
   }
  ]
 }
