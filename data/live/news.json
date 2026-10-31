@@ -1,14 +1,35 @@
 {
  "status": "ok",
- "updatedAt": "2026-10-31T21:28+09:00",
+ "updatedAt": "2026-11-01T07:29+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "[신문은 선생님] [생활 속 경제] 최근 환율 떨어져 인기 많지만… 수수료 같은 숨어 있는 비용도 잘 살펴야 해요",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlsbVQwRE8xSlI4bHI3Nm1BM2ZBa19yLTRFMFJobzlxMllaMlhrTHdVYjQyT2xYQ1lOdkVvYmJvS3JRZU5razB0akRDQVEyNE1JbVdLUUdUUnp1ZWxrc2JUZUtzY0RfWnF5OU51RjRWaDBrc1dxeE1LWEZhNTdMZUJ3bDRpejRXSVhTRDZ3?oc=5",
-   "source": "조선일보",
-   "published": "2026-10-31T10:57:33+00:00",
+   "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mMUNmcGN2bkVDNm0zeEtodzhDeFNUVzBjODRjWE50ZjZMRVZTSnQ1cDlEcnhqNXpmdlk3cEFjZzRzdGdGdFNQZVdyR1RnMHhjc1hUbGwtUzBCWHPSAWBBVV95cUxQMm9lWGR1ZU40RktpZ1BVeFM5RFdCS255eG1LUXR1WUlra1FVeGNkeVFQbDVXWS01a0FsWEVybnotRjkyaU5HVGNtSWdyeFFNb3ZWY0pXeVZ0V2VzMGdOLWU?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-31T21:00:08+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "1300원대 환율에 외화투자 관심 쑥, '달러예금' '트래블통장'부터 'ETF'도 눈길",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUjFEMWV6X1pjMU82NUR6LWJKNUpLTXZMZl9xclpnNFdyWUNLNml5VVZybXROVlV3NUhWTHFGZl9PUHBSTUhtN1RLcDlrMHVzZW1jTDVnbTJUanFHOURTS2dOeXJWdUt4YnhVOF9xWVNkWTg?oc=5",
+   "source": "비즈니스포스트",
+   "published": "2026-10-31T21:00:00+00:00",
    "topic": "환율"
+  },
+  {
+   "title": "4개월 연속 내린 환율…美 선거·고용 앞두고 시험대",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMGZ4a1RpV01SMUFWN0F3VHU3VDBsLTNfeEtQemczQmtPMkNLMkRaX2VreGxWOFBxLXRiU2x5c0g5VUg3N2N3enZDSUxXaExlaEdaLXZyTTBySFpTVlQ0d1FMc2I4SGpZNTRvT3p0SWppOUk?oc=5",
+   "source": "마켓인",
+   "published": "2026-10-31T20:00:04+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5",
+   "source": "KBS 뉴스",
+   "published": "2026-10-31T12:04:00+00:00",
+   "topic": "미국 증시"
   },
   {
    "title": "‘AI 투자 우려’에 인텔 29% 폭락…국내 증시 여파 촉각",
@@ -18,38 +39,17 @@
    "topic": "미국 증시"
   },
   {
-   "title": "환율 하락에 여행객은 ‘웃고’ 대출금리 상승에 차주는 ‘울고’",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrT0RMZjlrenQxNnJZUF8tQW9reUtpc2FVYUZBUDJOYXI2YVdERWtoWWtjdmMwRGd2LV9ub1dpRmhoYzJhZEIycUZENGlXTjdMSnR0UzZkWXNrQk95WUZiaFRHenpPY204WWI4?oc=5",
-   "source": "영남일보",
-   "published": "2026-10-31T03:00:41+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "다음주 미국증시, 국내증시 전망 : 필라델피아 반도체 지수 -7% 하락 이유, 다시 반등할까?",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOekdlazlQakJiRkNmOW9YcFNWemRFX09BZmI3ejljYlNSUW5UYXpLU0dIc1VkaExBeGIyTW5JX3A5OFNxejhqeFJtb1RoeTlJeE9QUHpPQURFSkc2MXdXdVpqZ0JOTVNCeS1fTlRfalhuUmltb3k0b29FX2NYVmRfUFNCVQ?oc=5",
-   "source": "네이버 프리미엄콘텐츠",
-   "published": "2026-10-31T02:55:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "156년 만에 세 번째 선 경고등… 40.7 치솟은 미국 증시 밸류에이션",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU01qdDYxeDNYZnhubF9FZHNCYklSTWRJb1NzZjFOcU5wdUlzVVFxWUZQX0xGRkZja3YteWg1eFc0WlNxUWt3VFRtRkkyRWhEbEdacy0yeVg1dWNNOW5oSG5tR3JfdWJWWjhIdko2QkhmWnB2QjgtRGxRUnJQNmd6cWY5LVp1T1p5?oc=5",
-   "source": "글로벌이코노믹",
-   "published": "2026-10-31T02:43:01+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "로건 연은 총재 \"기준금리 최소 두 차례 더 올려야\"… 추가 긴축 촉구",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yNTVrcVZqNG9MbDFwMXByT0Z1LWk1cFJwOTI1VExPcEJUem5jN196YldyZ0h6QlJ6QWxSXy1CNzNFWDkyODRHRXNrLXp4RkdVUDJ1QlNSek8?oc=5",
-   "source": "블록미디어",
-   "published": "2026-10-30T21:50:10+00:00",
-   "topic": "금리"
-  },
-  {
    "title": "\"물가 목표 2% 도달\"...일본은행, 기준금리 '동결'",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRndGYkdIVlBxelVyNzhTU01xZkZVZEFzeEYzcGxFVGtNU3B3X2YzUE8zTElIRnJOcVRyaDhxbXFGQ1RrYVVQYWZoRXpOTl85V2VzLXk0b1VsNE0tM0E?oc=5",
    "source": "YTN",
    "published": "2026-10-30T14:06:00+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "일본은행, 기준금리 1.25% 유지…‘물가 목표 2% 달성’ 판단",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03QnY5eFFWdmVid3BOSkxmcy1WQk1mS0MyU2JzZFd4azJrMkd1ZXhzRmxYZEtQT25jdFFpT3pCdmFDZXY5aENXSGE3cnpFbGRzU1pUSG10REZ5Nms?oc=5",
+   "source": "KBS 뉴스",
+   "published": "2026-10-30T09:31:00+00:00",
    "topic": "금리"
   },
   {
@@ -60,10 +60,10 @@
    "topic": "환율"
   },
   {
-   "title": "한은 금리 두 번 올리자…4% 예금 비중 한 달 새 20배 급증",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0T1hlX1E5UjBoTkxXbEgwMnd5S1NIZmdVbU1rQ0tMOG5HNjlEWF9raENrdlJveFFGcjFvZnFWSGp2V3RVTDNsNTF0UDAzT3d6ckxwUjJkbVJGRnJ6LXI5Q09xdW5yZ0VZSlRSaWsyRDgwM00?oc=5",
-   "source": "마켓인",
-   "published": "2026-10-30T06:18:43+00:00",
+   "title": "美·유럽·日 나란히 동결 … 반도체 호황에 한은만 인상 저울질, '금리 분화' 갈림길",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Oc3A0dTZfQ01ydGpOQktPdjN1bi1HcmRNZzlvMXlhOVlCZjEtSlZmbXZNR2kwUTJCNXlYanlrOTRKSi11ZGJIaWJ4MExpNVYxWlJxSjI0Q2RXeGNJaktkLVQwN0x2YVhUOHRRc2QyNXpyOFpXcUdYRXhDUdIBgAFBVV95cUxNbGk5a19MTW1BZzdmSHpRaUFHWVFSSzZiVXFXYkh2MWNXQTdwMDJza21CWl9YVFpxdTZfa01LMnMxUjZXcVhwVy1vQkQ4eGI5U2pjSEZxM0dOSzZsVXg3ZGRVQTdEcjVlcThHTjJoeGs5UmhkbUg1NEhEZHZvRk9mcA?oc=5",
+   "source": "뉴데일리",
+   "published": "2026-10-30T07:22:00+00:00",
    "topic": "금리"
   },
   {
