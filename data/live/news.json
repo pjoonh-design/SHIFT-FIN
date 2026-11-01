@@ -1,8 +1,22 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-01T12:46+09:00",
+ "updatedAt": "2026-11-01T21:30+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "“미장할 시간인데 주식창 왜 얼었죠?”…서머타임 해제에 1시간 뒤로",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jMm9zaUtzN0cyZWVxVDRsbEktUDZSZ1pjbktWbEd3VEJVbDBNUWZyUFdjN2ItcmFKZlFIN3JGYVNEeDIwVVA2NTZTQXBSUXRRcHc?oc=5",
+   "source": "매일경제 마켓",
+   "published": "2026-11-01T11:20:26+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "\"미국 주식, 한 번에 사지 마라\"…교수가 짚은 노후 투자법",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Tc0RpeWlYd2VydTZreUF0M3RBZ0pTblUxRHlLS29KVXZkTWZvaTNTNFpDbXZURXBBYW96UGRmRHRiVm9pQUdsWm9YUl9INzFOVEx1SjBMWDFMYl9NS0hTN9IBeEFVX3lxTE9iY0xxS2FVRU1TTkJxNFRic1pTMDFJSXlHUUN6RFhMdE1WdEhQZEVwTjIwTS1zZTdMRVZfZm5QTVE4VW5tVHVOZVQyNXJsX0Q1ZUxJaDdjd3FNa2ZhX1VpaW02NS1SZElPV3pVU3BPUWFXblNmUzFYUw?oc=5",
+   "source": "뉴시스",
+   "published": "2026-11-01T07:22:00+00:00",
+   "topic": "미국 증시"
+  },
   {
    "title": "“연 4% 예금 찾는 발길”...반가운 금리 상승, 대출자는 부담",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NTk5lVTFta2RiVElzMFdsYUczUWxvbXNJV3N3ZWdBMmtPY2s3d0FITFQ3UXVDMDZGYTN1dEtEaS0yeTlsR0JkdVFyMmdqZ2lwUTdpUEdERVJlQXc?oc=5",
@@ -11,31 +25,10 @@
    "topic": "금리"
   },
   {
-   "title": "“떨어질수록 3배짜리로 만회해야죠”…서학개미, SOXL에 4조원 넘게 베팅",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Gd2JNYVFLNVhvemE2U181R0IyNHdmWHI2NmFYS3ZNVW52c2piQ09CdmVsU3JfUVBhc01tZmhKdFE0anBISmpYSDdYeE1JTjBEUlE?oc=5",
-   "source": "매일경제 마켓",
-   "published": "2026-10-31T21:03:38+00:00",
-   "topic": "미국 증시"
-  },
-  {
    "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mMUNmcGN2bkVDNm0zeEtodzhDeFNUVzBjODRjWE50ZjZMRVZTSnQ1cDlEcnhqNXpmdlk3cEFjZzRzdGdGdFNQZVdyR1RnMHhjc1hUbGwtUzBCWHPSAWBBVV95cUxQMm9lWGR1ZU40RktpZ1BVeFM5RFdCS255eG1LUXR1WUlra1FVeGNkeVFQbDVXWS01a0FsWEVybnotRjkyaU5HVGNtSWdyeFFNb3ZWY0pXeVZ0V2VzMGdOLWU?oc=5",
    "source": "연합뉴스",
    "published": "2026-10-31T21:00:08+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "1300원대 환율에 외화투자 관심 쑥, '달러예금' '트래블통장'부터 'ETF'도 눈길",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUjFEMWV6X1pjMU82NUR6LWJKNUpLTXZMZl9xclpnNFdyWUNLNml5VVZybXROVlV3NUhWTHFGZl9PUHBSTUhtN1RLcDlrMHVzZW1jTDVnbTJUanFHOURTS2dOeXJWdUt4YnhVOF9xWVNkWTg?oc=5",
-   "source": "비즈니스포스트",
-   "published": "2026-10-31T21:00:00+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5",
-   "source": "KBS 뉴스",
-   "published": "2026-10-31T12:04:00+00:00",
    "topic": "미국 증시"
   },
   {
@@ -46,6 +39,13 @@
    "topic": "환율"
   },
   {
+   "title": "원·달러 환율, 1334.3원 마감…증시 하락에도 원화 강세 보여",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9URXY2X0tnNHZGckJsOWFUV2dNMU1Iel9kRHZ0Z2JLalp3cVYzQ2wzSVVTSTRWdWpkVWVQdGh4NGVpcE9SV3VTRWlkZ1J5clpfck9KS0t6OUJpNTVjV25v?oc=5",
+   "source": "조세일보",
+   "published": "2026-10-30T07:33:00+00:00",
+   "topic": "환율"
+  },
+  {
    "title": "美·유럽·日 나란히 동결 … 반도체 호황에 한은만 인상 저울질, '금리 분화' 갈림길",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Oc3A0dTZfQ01ydGpOQktPdjN1bi1HcmRNZzlvMXlhOVlCZjEtSlZmbXZNR2kwUTJCNXlYanlrOTRKSi11ZGJIaWJ4MExpNVYxWlJxSjI0Q2RXeGNJaktkLVQwN0x2YVhUOHRRc2QyNXpyOFpXcUdYRXhDUdIBgAFBVV95cUxNbGk5a19MTW1BZzdmSHpRaUFHWVFSSzZiVXFXYkh2MWNXQTdwMDJza21CWl9YVFpxdTZfa01LMnMxUjZXcVhwVy1vQkQ4eGI5U2pjSEZxM0dOSzZsVXg3ZGRVQTdEcjVlcThHTjJoeGs5UmhkbUg1NEhEZHZvRk9mcA?oc=5",
    "source": "뉴데일리",
@@ -53,17 +53,17 @@
    "topic": "금리"
   },
   {
+   "title": "한은 금리 두 번 올리자…4% 예금 비중 한 달 새 20배 급증",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1YyQmtnaEV2UGNKbTJxU0VBTW9WV0NZeE1DdG5LSmxJb0hCQnBLaXFKLVVfcURaejVqMDNpcTVMcTlmVFVfUTV2ZkZfLWJxUnphMEgycmd3UGZCSEc1UDhQMVN3MzRtQm1RcGs4QmdRNlRZaEZEQ2Y2ODRvM19Qcg?oc=5",
+   "source": "이데일리",
+   "published": "2026-10-30T06:18:43+00:00",
+   "topic": "금리"
+  },
+  {
    "title": "[속보] 일본은행, 기준금리 동결…연 1.25% 유지",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eUdFUDhiRGlvMGJPNGxVeFVDUzgwVXFNT3ZvWTJfMlE3OFJIekt2dkdDYWVWdm85R2lfSlhUaGo0T1hzcHVYZHV3elpIbzJ1bXhxQUU2RkJQUQ?oc=5",
    "source": "한국경제",
    "published": "2026-10-30T03:32:22+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기(종합2보)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51YWIwd0pLZl9KcjdsS19jY2FBcjNFS09IZXpZU2lObTBxa3E0bnNoY3AyQjNaRFpHMU5ERzBSRGlWYXVsWm9rX0Z1R2tHdjJJUWNyeFpodEd4amfSAWBBVV95cUxPZ09QejYwSnFLVjEyb1J0WXFQa3RFcDdHX3hJRWhLeFUycWF3d0ZKY2R4NVp2T2dSNmRSWlJnRjNTMWctSnN4U0xfQkYyd1k5ck9iOEFnV3RFdVZ4cG53cTU?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-10-28T20:28:03+00:00",
    "topic": "금리"
   },
   {
