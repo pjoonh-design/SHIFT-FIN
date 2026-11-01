@@ -1,8 +1,22 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-01T21:30+09:00",
+ "updatedAt": "2026-11-02T07:30+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "AI주 시총 5조달러 증발에도 美 증시 반등 기대 나오는 이유",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUng5SFpmT0VabExZa19LN3FncWFjZ0I1QnE2bmJzTlRvbU1EOWwtOXZnZ09FS1hUYkQxUVNrQVJCdV9NZ2w2SWlRM3c5bnhkemtkeWRaUTc3dmYyVTJXVHczc0hUYnlmU0dJT0RMcUl3RGFQWklvanNHMnRlaHVYdlhhbXJlWk0?oc=5",
+   "source": "글로벌이코노믹",
+   "published": "2026-11-01T18:00:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "앤스로픽 상장 임박… 증시에 약 될까 독 될까",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFZ5VFRHUmhvZGdEczlSMzNkSjRtXzhKR055SlZuQ2ZHVk9FZUIzYWRmYlVYOUZrczVKQkI1ZndPaGd2bGF6V3FOc0RhUEdsdUFuNmtDU3cwM3NuUVU1Nmc1VDNPQV9xVjBFWVdRQzlZSVhlcHRoZlloN0tuT3V0RDlqM1B3RzFhZk14UkFn?oc=5",
+   "source": "조선일보",
+   "published": "2026-11-01T15:34:00+00:00",
+   "topic": "미국 증시"
+  },
   {
    "title": "“미장할 시간인데 주식창 왜 얼었죠?”…서머타임 해제에 1시간 뒤로",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jMm9zaUtzN0cyZWVxVDRsbEktUDZSZ1pjbktWbEd3VEJVbDBNUWZyUFdjN2ItcmFKZlFIN3JGYVNEeDIwVVA2NTZTQXBSUXRRcHc?oc=5",
@@ -18,18 +32,18 @@
    "topic": "미국 증시"
   },
   {
+   "title": "반도체·AI에 날개 단 수출…이달 기준금리 인상 힘 받나",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Sb1gyUmxNdnlhUTB2Q29RNFExZHA0a0lENUhMSGdFWmsyc190REJfQm9xX282aHAwdGpEemNfVHliZkNMeDlJOHB5Y0lqeExCLUN6WDg0TjhzN2Mtekc4TEw4N0tEdjFYdkNB?oc=5",
+   "source": "비즈워치",
+   "published": "2026-11-01T05:00:02+00:00",
+   "topic": "금리"
+  },
+  {
    "title": "“연 4% 예금 찾는 발길”...반가운 금리 상승, 대출자는 부담",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NTk5lVTFta2RiVElzMFdsYUczUWxvbXNJV3N3ZWdBMmtPY2s3d0FITFQ3UXVDMDZGYTN1dEtEaS0yeTlsR0JkdVFyMmdqZ2lwUTdpUEdERVJlQXc?oc=5",
    "source": "에너지경제신문",
    "published": "2026-11-01T02:25:50+00:00",
    "topic": "금리"
-  },
-  {
-   "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mMUNmcGN2bkVDNm0zeEtodzhDeFNUVzBjODRjWE50ZjZMRVZTSnQ1cDlEcnhqNXpmdlk3cEFjZzRzdGdGdFNQZVdyR1RnMHhjc1hUbGwtUzBCWHPSAWBBVV95cUxQMm9lWGR1ZU40RktpZ1BVeFM5RFdCS255eG1LUXR1WUlra1FVeGNkeVFQbDVXWS01a0FsWEVybnotRjkyaU5HVGNtSWdyeFFNb3ZWY0pXeVZ0V2VzMGdOLWU?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-10-31T21:00:08+00:00",
-   "topic": "미국 증시"
   },
   {
    "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락",
@@ -53,25 +67,11 @@
    "topic": "금리"
   },
   {
-   "title": "한은 금리 두 번 올리자…4% 예금 비중 한 달 새 20배 급증",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1YyQmtnaEV2UGNKbTJxU0VBTW9WV0NZeE1DdG5LSmxJb0hCQnBLaXFKLVVfcURaejVqMDNpcTVMcTlmVFVfUTV2ZkZfLWJxUnphMEgycmd3UGZCSEc1UDhQMVN3MzRtQm1RcGs4QmdRNlRZaEZEQ2Y2ODRvM19Qcg?oc=5",
-   "source": "이데일리",
-   "published": "2026-10-30T06:18:43+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "[속보] 일본은행, 기준금리 동결…연 1.25% 유지",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eUdFUDhiRGlvMGJPNGxVeFVDUzgwVXFNT3ZvWTJfMlE3OFJIekt2dkdDYWVWdm85R2lfSlhUaGo0T1hzcHVYZHV3elpIbzJ1bXhxQUU2RkJQUQ?oc=5",
-   "source": "한국경제",
-   "published": "2026-10-30T03:32:22+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5",
-   "source": "VOA 한국어 홈페이지",
-   "published": "2026-10-28T19:06:58+00:00",
-   "topic": "미국 증시"
+   "title": "원·달러 환율, 2.5원 내린 1334.3원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUtoZEhuenYzd1ota0tTSUJtZEJFUjFHLW1pUEpabzA5MHhxcWlSV1J3OE5mVDlrY1l2RTZHcGVmUU1Vcm5STEVwTE9uVll5ZUZyUkJramZwMVhnWXd2cFZBNmstWVkwb2FCbEoxMGZMQXEyMmtiUWxfZUNuVnpYUlVSZHVmUdIBmgFBVV95cUxQalFGTGZHcEs3MWVhN1BFWWk4VTM3WXdMeWItTjFJSTQ5cWdCUWVUT25ldk5ZZGw1dzVlRjlLZUpYTzN1bi1vaGs3ODU1OTJXdDBQUzU4blY3cVBIMFI1WC1GS2tRNzdwY09fZ1dNbTVVS2V2NGd0ekRBbVZvcmhWN3Q2ZllNVTF2WHl0ZjZSVGpBdTA0ZDFsRTln?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-10-30T06:58:00+00:00",
+   "topic": "환율"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-01T12:46+09:00",
+ "updatedAt": "2026-11-02T07:30+09:00",
  "source": "금융감독원 금융상품한눈에",
  "month": "202610",
  "via": "https",
@@ -107,8 +107,5 @@
    "open": true,
    "month": "202610"
   }
- ],
- "stale": true,
- "lastError": "금감원 서버 응답 없음 (https <urlopen error timed out> / http <urlopen error timed out>)",
- "lastErrorAt": "2026-11-01T21:30+09:00"
+ ]
 }
