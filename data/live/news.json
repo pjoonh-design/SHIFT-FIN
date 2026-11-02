@@ -1,77 +1,77 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-02T07:30+09:00",
+ "updatedAt": "2026-11-02T12:48+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "AI주 시총 5조달러 증발에도 美 증시 반등 기대 나오는 이유",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUng5SFpmT0VabExZa19LN3FncWFjZ0I1QnE2bmJzTlRvbU1EOWwtOXZnZ09FS1hUYkQxUVNrQVJCdV9NZ2w2SWlRM3c5bnhkemtkeWRaUTc3dmYyVTJXVHczc0hUYnlmU0dJT0RMcUl3RGFQWklvanNHMnRlaHVYdlhhbXJlWk0?oc=5",
-   "source": "글로벌이코노믹",
-   "published": "2026-11-01T18:00:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "앤스로픽 상장 임박… 증시에 약 될까 독 될까",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFZ5VFRHUmhvZGdEczlSMzNkSjRtXzhKR055SlZuQ2ZHVk9FZUIzYWRmYlVYOUZrczVKQkI1ZndPaGd2bGF6V3FOc0RhUEdsdUFuNmtDU3cwM3NuUVU1Nmc1VDNPQV9xVjBFWVdRQzlZSVhlcHRoZlloN0tuT3V0RDlqM1B3RzFhZk14UkFn?oc=5",
-   "source": "조선일보",
-   "published": "2026-11-01T15:34:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "“미장할 시간인데 주식창 왜 얼었죠?”…서머타임 해제에 1시간 뒤로",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jMm9zaUtzN0cyZWVxVDRsbEktUDZSZ1pjbktWbEd3VEJVbDBNUWZyUFdjN2ItcmFKZlFIN3JGYVNEeDIwVVA2NTZTQXBSUXRRcHc?oc=5",
-   "source": "매일경제 마켓",
-   "published": "2026-11-01T11:20:26+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "\"미국 주식, 한 번에 사지 마라\"…교수가 짚은 노후 투자법",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Tc0RpeWlYd2VydTZreUF0M3RBZ0pTblUxRHlLS29KVXZkTWZvaTNTNFpDbXZURXBBYW96UGRmRHRiVm9pQUdsWm9YUl9INzFOVEx1SjBMWDFMYl9NS0hTN9IBeEFVX3lxTE9iY0xxS2FVRU1TTkJxNFRic1pTMDFJSXlHUUN6RFhMdE1WdEhQZEVwTjIwTS1zZTdMRVZfZm5QTVE4VW5tVHVOZVQyNXJsX0Q1ZUxJaDdjd3FNa2ZhX1VpaW02NS1SZElPV3pVU3BPUWFXblNmUzFYUw?oc=5",
-   "source": "뉴시스",
-   "published": "2026-11-01T07:22:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "반도체·AI에 날개 단 수출…이달 기준금리 인상 힘 받나",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Sb1gyUmxNdnlhUTB2Q29RNFExZHA0a0lENUhMSGdFWmsyc190REJfQm9xX282aHAwdGpEemNfVHliZkNMeDlJOHB5Y0lqeExCLUN6WDg0TjhzN2Mtekc4TEw4N0tEdjFYdkNB?oc=5",
-   "source": "비즈워치",
-   "published": "2026-11-01T05:00:02+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "“연 4% 예금 찾는 발길”...반가운 금리 상승, 대출자는 부담",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NTk5lVTFta2RiVElzMFdsYUczUWxvbXNJV3N3ZWdBMmtPY2s3d0FITFQ3UXVDMDZGYTN1dEtEaS0yeTlsR0JkdVFyMmdqZ2lwUTdpUEdERVJlQXc?oc=5",
-   "source": "에너지경제신문",
-   "published": "2026-11-01T02:25:50+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MQW5FUXNINUFjTXo2QldZTm0weF84WUNpU2ZqdmhidWNhOGVWQnF4c1l2MVpkMkJzenFiYm0zWjdacFpVNFZNUHl1SDBXN2R5QkJSbGtYZ1RlZnPSAWBBVV95cUxORldxY3dHOUQ1aU5GQllUV2NjSl81VEMyeXdnYW9ZOGJTTkhqSVE2UmJRWVZYUl8yRlZ4YnZiU3hHZHdCb2t3OEdFTmNBYzEyd0Qzb1EwVWFoM3RKTHFJUEM?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-10-30T07:50:27+00:00",
+   "title": "[외환] 코스피 반등에 동반 상승…외인 달러선물 매수",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jd1VOaTlnajhWdXFXZV9qVF8xT2dxYjZESURrS3VZRm53YUstV2xhdkVyMGo1bjlacVREd3JiVkRTampXcFhrODhlME9XclNwRE1EZjFwN1pLakk5X0RVUnpnNDFXbWNTZGRvLXJzWWF6UQ?oc=5",
+   "source": "KB Think",
+   "published": "2026-11-02T02:20:16+00:00",
    "topic": "환율"
   },
   {
-   "title": "원·달러 환율, 1334.3원 마감…증시 하락에도 원화 강세 보여",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9URXY2X0tnNHZGckJsOWFUV2dNMU1Iel9kRHZ0Z2JLalp3cVYzQ2wzSVVTSTRWdWpkVWVQdGh4NGVpcE9SV3VTRWlkZ1J5clpfck9KS0t6OUJpNTVjV25v?oc=5",
-   "source": "조세일보",
-   "published": "2026-10-30T07:33:00+00:00",
-   "topic": "환율"
+   "title": "\"미 증시 하락조정 있지만 엄청난 기회\"…모건스탠리 전략가 진단",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QN2VYZDhVZW5xcUxDLThEWVVkdmp5TzhuVFVBdWVIdTNnLVV4VkduTGIwYmhCQ29vbTYydllJRVdOLWd4TXB1X1J1dW9jaVZNWUcxbXFnWC1CZ1N2Wi05RmVPU0NXY1U?oc=5",
+   "source": "연합뉴스TV",
+   "published": "2026-11-02T01:43:00+00:00",
+   "topic": "미국 증시"
   },
   {
-   "title": "美·유럽·日 나란히 동결 … 반도체 호황에 한은만 인상 저울질, '금리 분화' 갈림길",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Oc3A0dTZfQ01ydGpOQktPdjN1bi1HcmRNZzlvMXlhOVlCZjEtSlZmbXZNR2kwUTJCNXlYanlrOTRKSi11ZGJIaWJ4MExpNVYxWlJxSjI0Q2RXeGNJaktkLVQwN0x2YVhUOHRRc2QyNXpyOFpXcUdYRXhDUdIBgAFBVV95cUxNbGk5a19MTW1BZzdmSHpRaUFHWVFSSzZiVXFXYkh2MWNXQTdwMDJza21CWl9YVFpxdTZfa01LMnMxUjZXcVhwVy1vQkQ4eGI5U2pjSEZxM0dOSzZsVXg3ZGRVQTdEcjVlcThHTjJoeGs5UmhkbUg1NEhEZHZvRk9mcA?oc=5",
-   "source": "뉴데일리",
-   "published": "2026-10-30T07:22:00+00:00",
+   "title": "한국은행 기준금리 3.00%에 서울 아파트 거래 18.3% 급감, 집값 숨 고르기 신호 일곱 가지",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFJ5RC1Ic2tGTG43SE9hM0hjcjNDb0sxWmpyQWNyTFh4Z0h4QjFzVUFZam1wNzhpbkhOS19iZnFmaG1nZjhoZktGQWotZk9CLU1qWUNyUmJyeEt3WW1jMjBORnh1WlhvTllQN2lTNlNkV1JJd2tvR2F0alpXQ3gtODdPdDhodDZIWGg3eQ?oc=5",
+   "source": "네이버 프리미엄콘텐츠",
+   "published": "2026-11-02T01:14:00+00:00",
    "topic": "금리"
   },
   {
-   "title": "원·달러 환율, 2.5원 내린 1334.3원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUtoZEhuenYzd1ota0tTSUJtZEJFUjFHLW1pUEpabzA5MHhxcWlSV1J3OE5mVDlrY1l2RTZHcGVmUU1Vcm5STEVwTE9uVll5ZUZyUkJramZwMVhnWXd2cFZBNmstWVkwb2FCbEoxMGZMQXEyMmtiUWxfZUNuVnpYUlVSZHVmUdIBmgFBVV95cUxQalFGTGZHcEs3MWVhN1BFWWk4VTM3WXdMeWItTjFJSTQ5cWdCUWVUT25ldk5ZZGw1dzVlRjlLZUpYTzN1bi1vaGs3ODU1OTJXdDBQUzU4blY3cVBIMFI1WC1GS2tRNzdwY09fZ1dNbTVVS2V2NGd0ekRBbVZvcmhWN3Q2ZllNVTF2WHl0ZjZSVGpBdTA0ZDFsRTln?oc=5",
+   "title": "모건스탠리 \"미국 증시 일시 하락조정 가능성...엄청난 기회\"",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZSjVkSGNVUUs0eXVnX0xrOXRPdVA2SkZlMEQ0U1V0TnVGMlAxNmpyRngzQXZrdXRRMFBLN0puZG5vT25wN0dmeXhibUlJSkR1QWtUUHA2Q3ZZWjN3OUE?oc=5",
+   "source": "YTN",
+   "published": "2026-11-02T00:56:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[1mm금융톡]기준금리 연속 인상에도 은행 수익성 하락…이유는",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFQ1BUMlNCS1ZwRGVJRTFmZ25ZRUJPclBqZlI3djU3QTZTV1V1Q2hSSkZxV1N1aHdCaG92b1YwdFB3ckJBWVo3VEhpeTVaWUdtUTg4MHo1VktGcFowYWhXTg?oc=5",
+   "source": "아시아경제",
+   "published": "2026-11-02T00:52:29+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "원·달러 환율, 0.6원 오른 1334.9원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWVUtc3RMUmR6QWhQTTZsMFNNdFdaUl8zRGwxelByYjJKWV9BNE5BMHFqZno3QjZ0OGxPd2pEYkhjLTFrSjc4VWpvRFNDeF8zcFRXems1SGVhcUpIS3lLYXZiWFI4MHFlVUlCeDNXNVR4OHF6QVh4bzFyaHI4dnQ3MTA3d1JhUdIBmgFBVV95cUxOd0Zud0ZfdmhDVEZQUG9lRWFxNmRmOHVsTS1nMDctNGVQbnlzSmNfSGkyR2p1OUxVQWQ4ZGxoRGMydjJfN011eHRVVUhpbHpfVnQyeXZDT0FmaWdIaGVQM05lamVuTE05UUtRdjNxYXNOQlBPbHhIQXA3RXE0bXVCdXY3b0hmQUJyTDEzTkVvUGlpcjZxdjNEZTdR?oc=5",
    "source": "Chosunbiz",
-   "published": "2026-10-30T06:58:00+00:00",
+   "published": "2026-11-02T00:27:00+00:00",
    "topic": "환율"
+  },
+  {
+   "title": "인텔 폭락에 미국 증시 급락, 이번 주는 애플·AMD 실적에 달렸다",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iNkEtbDFWNW9XdkpvSDFGUDFfY0pzcHRqd3UzNEVwRFZWN3VlcWZLUjh3di1YYms4cFhoUmxFZ0lpOW41cmp6VlVWQ3UyZzFZM2xFMGlxMUs?oc=5",
+   "source": "네이버페이 머니스토리",
+   "published": "2026-11-02T00:00:04+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "\"코스피 반등 기다리기 지쳐\"...국내 투자자, 지난달 미국 주식 올해 최대 순매수",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODFIMjBXcWtaSXVNY3FBZ1gzcDNUX3V3d01fSmxDd1NUaTJhWEdkMm96LUJFWWIyRkdlQmEwVV9hSlRzVUpudFVpYm9WR1h4VDh3VDJfWEl5VU5ubVpFcC1Cb2psWGJSSGMxZGNnYV9OWmdvVlBqX2ZPNkpFY2RDbA?oc=5",
+   "source": "조선일보",
+   "published": "2026-11-01T23:40:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "원·달러 환율, 1334.3원…달러, AI 투자 수익성 우려에 하락",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaMHA3c1VLOUpCVmd5T2JXQ0NRbmlDM3ZiTG9JLVFCZFdyb2haWVZ5UU9qeHFzQ1owOW1QSlJqTk1OSU5aYkNwTkhkbTdPcHFiSlBvRXlBem9fT1FQZEdn?oc=5",
+   "source": "조세일보",
+   "published": "2026-11-01T22:52:57+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "4% 예금이 돌아왔다…신규 정기예금 10%가 연 4% 이상",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJNU5wanhPODhBOTZqbE1QcnRqNnBUS0hicEZQX0Voa2FYaG5pWTQtN2VEMTNvci1BMGppdzVFNGFZQkxRY3AyaXdWOTJXMFVnYkZwdGtiSTJrWEk?oc=5",
+   "source": "KBS 뉴스",
+   "published": "2026-11-01T02:03:00+00:00",
+   "topic": "금리"
   }
  ]
 }
