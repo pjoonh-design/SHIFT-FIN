@@ -1,14 +1,28 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-02T21:44+09:00",
+ "updatedAt": "2026-11-03T07:36+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "“미국 주식 겁나서 못하겠어요”…서학개미 돈 7조, 국장 아닌 美국채로",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93ZlBna3U4N3AzUUJZSDdnOXRweHh5WHZRUnJkX1VlSUxIZ0ZUbHRxUVlRUzBwY1VMTGJ4STl1RXprbG1xaWFnNHZLMktBNzR4MWc?oc=5",
-   "source": "매일경제 마켓",
-   "published": "2026-11-02T11:35:07+00:00",
+   "title": "앤트로픽도 자금 흡수하나…쏟아지는 미국 주식에 국장 수급 우려",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnNZYnFaTGxWZXQybjRMZzJrZl9KUGtfNkRtbXQwOTRLaDZsWDMxUHBhYllieVYwY0x5c2JfZDZ2NHZDUmRBOENxRFVZa0pmZGpESksxN2pJNnZVdnhGdWtPM2JFYmphTmRWNGppSDB3b1dUQWM1VHluMjFFMW03VVJFMA?oc=5",
+   "source": "인베스트조선",
+   "published": "2026-11-02T22:01:43+00:00",
    "topic": "미국 증시"
+  },
+  {
+   "title": "[뉴욕증시] 반등하기엔 근심거리가 많다…나스닥 1%↓",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FU3dxY0lzODZrTWNFSklsZGc0OGhLX2NzNVo4cjVzWlpvbTJZbFFFLU5jOVdNZllMME1CNnZBUmU2Mi1vaWRraFJTQjhJcUcySmo1X2tieTgzM0VGZ2pnZlAyTG9jYTVNS2xBTEs2NllxZw?oc=5",
+   "source": "KB Think",
+   "published": "2026-11-02T21:34:43+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "\"제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라\"",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1VoNENFVkczTkpyaDF6TlFWLVRHUEN1d2RXYUE5dlJ6X19vZl9XaW5ITlllc19OMlFUU3BfdGEzWHVncWs0NUtnTG5mdk9CbHdUa1VLNXhlWjVDeFFoMGlIUUcyaXpHUHlZWGNBOHpLT18yeENMYXRDc28wVUI5ag?oc=5",
+   "source": "조선일보",
+   "published": "2026-11-02T15:37:00+00:00",
+   "topic": "환율"
   },
   {
    "title": "원 달러 환율 1,340원대로 상승‥약 2주 만에 최고",
@@ -33,17 +47,10 @@
   },
   {
    "title": "원/달러 환율 1,340원대로 상승…약 2주 만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GaGNqWloyTE5qWlZqRkNkby1JYWZiVndyeHF0eENuY3ZUMmhCMGUxQ1dfU0N0V2N1Umt2dGNTVDZtZmhPTUo0eUdxY2FjWW5oWTM4UGVSTDlIU1VGWXpnSNIBYEFVX3lxTE9GaGNqWloyTE5qWlZqRkNkby1JYWZiVndyeHF0eENuY3ZUMmhCMGUxQ1dfU0N0V2N1Umt2dGNTVDZtZmhPTUo0eUdxY2FjWW5oWTM4UGVSTDlIU1VGWXpnSA?oc=5",
-   "source": "연합뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5faV9saVhIVlBsSEpIUlF0RmpyZ2t4TmtfUG1KMXFSd3Zub1BQNzN1aENmRUZrNVd6aWtiOEZUN2NIMkxlY1dkUXdDdXo1QTNjeXc?oc=5",
+   "source": "매일경제 마켓",
    "published": "2026-11-02T07:42:27+00:00",
    "topic": "환율"
-  },
-  {
-   "title": "‘금리 인상·증시 급락’에 충청 예금 ‘회귀’ 조짐",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qN0I1aXV2S1JEZXBhcndJN1RUblZ0UHQxMTY3TWtsZlo1S0R0dS1IalAzdi1oX1pUcDROSjFqLVdrUElsSVRyUnpYbEdKaVVIT1FxSGVodXJhNHpNb1BWVnBUTjBieGh0RFE?oc=5",
-   "source": "금강일보",
-   "published": "2026-11-02T07:19:23+00:00",
-   "topic": "금리"
   },
   {
    "title": "\"정부 지출 안 줄이면 호주 기준금리 6.5% 간다\"",
@@ -53,13 +60,6 @@
    "topic": "금리"
   },
   {
-   "title": "[속보] 원·달러 환율, 9.5원 오른 1343.8원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHNHdW9mMWFKMVM0VTJQYWppVUNtaV9Bc19PV0JQUmdHNUw5VkN4QmlJd0xlZS15bVNiMHViMS0zUHNzYWhJT3pLR3NRUGxyTXJlY01CTzNGZ1BsZjViNjJET1haNlM2dVJLSjZ2eGtkdm5TZFRpX3JkN3UyR3BYY2lwWDQxUdIBmgFBVV95cUxPeXRsWmpGcHFZblBZcmJUbTlGM3RlOEJreEFwd1FjUHA0Ymk0dHNYcmdPaGZJT2t5RW9BSkJsUTVOLTFDVUdSWHd0OS1lTGlNQUhOblA1ckZLdHFTbUxtXy1YcEFXb3kwLVctRHYxWlJxVGdfWFEybmVuVFhPZzhObVgyRE5uM21TT2dpczFhX1BjcmxRSEl3ZFpB?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-02T06:36:00+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "기술주 급락에 미국 증시 변동성 급등…투자자들 하락 방어 수요 확대",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ic18yQXZOa1ZkZE5XaHFHTHpKMFhXNmprRlliMUVJcUVnSjRVcWxMam9Hc3ZEM29ldGJ6am1SWFlwV1ZqcXZmX0h1MUFPSmpUaU5jWk1RTGpLb3h3bHl5SnIyQQ?oc=5",
    "source": "더구루",
@@ -67,10 +67,10 @@
    "topic": "미국 증시"
   },
   {
-   "title": "한국은행 기준금리 3.00%에 서울 아파트 거래 18.3% 급감, 집값 숨 고르기 신호 일곱 가지",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFJ5RC1Ic2tGTG43SE9hM0hjcjNDb0sxWmpyQWNyTFh4Z0h4QjFzVUFZam1wNzhpbkhOS19iZnFmaG1nZjhoZktGQWotZk9CLU1qWUNyUmJyeEt3WW1jMjBORnh1WlhvTllQN2lTNlNkV1JJd2tvR2F0alpXQ3gtODdPdDhodDZIWGg3eQ?oc=5",
-   "source": "네이버 프리미엄콘텐츠",
-   "published": "2026-11-02T01:14:00+00:00",
+   "title": "\"물가 목표 2% 도달\"...일본은행, 기준금리 '동결'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRndGYkdIVlBxelVyNzhTU01xZkZVZEFzeEYzcGxFVGtNU3B3X2YzUE8zTElIRnJOcVRyaDhxbXFGQ1RrYVVQYWZoRXpOTl85V2VzLXk0b1VsNE0tM0E?oc=5",
+   "source": "YTN",
+   "published": "2026-10-30T14:06:00+00:00",
    "topic": "금리"
   }
  ]
