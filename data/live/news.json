@@ -1,13 +1,27 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-03T21:45+09:00",
+ "updatedAt": "2026-11-04T07:37+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "[환율 전망] 환율 급등 배후, 외국인 환헤지가 업계의 정설",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EZXhLQ1BGOHdKdG8tR0h1SXVRWWJkLU55MHRQbjdmNU5KbW5Ld3EyV0lLOXB2R0RtbFdRZno5V1NZNmE4dVVUSkI0TGdzR2N0UElxdm9KeEtEbjZobF9ubA?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-03T08:28:53+00:00",
+   "title": "미국증시 혼조마감…엔비디아·반도체 반등에도 애플 하락·국채금리 상승에 매수세 제한",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tTVdzOFdla0l1cHRsVlFnbnJoaDZxTmN4LWFkcllzVE1SZjU1WU5JNWxUWE5Vdnpmd2gzbkNhRkpkaWl6SHdMRGFoODAwZFF5c1NNZnRQbFdoZF9TQjF6dGwzc0dBOWFOLTZ1bi04NzhGUQ?oc=5",
+   "source": "톱스타뉴스",
+   "published": "2026-11-03T22:02:33+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[서울데이터랩] 미국 증시, 기술주 강세에 혼조 마감…나스닥 0.83% 상승",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rQzZMYUJNU09Tekg0NG1WNUEyOGR4ZDdHMC1VYnpVWHpBQjhsM3NYYjlHVElHMDYtM2VlRW0xajRZeEhWejRGRm0xdG9pSzh6ZWVPUFlNRHJDY01MUFFLSnVKQUZsQkxUMWFYLU1BTQ?oc=5",
+   "source": "서울신문",
+   "published": "2026-11-03T21:10:01+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "\"내년 달러-원 1,500원대 본다…대외 불확실성·외화 선호에 상저하고\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTUkhnaUx1MFRieTVZcVhqWWNZazBCM0VRU2pEU0NRZWJkaHNDcm8tQ1V1R09fRDktOHBSb2ROcl8tRks0Z1gzaWN0SDFYb2xMOVVKRWdfUGcyQm84XzlRck1rV1dyWXJfeWtYdnQ4RUI?oc=5",
+   "source": "연합인포맥스",
+   "published": "2026-11-03T09:42:00+00:00",
    "topic": "환율"
   },
   {
@@ -53,25 +67,11 @@
    "topic": "금리"
   },
   {
-   "title": "호주 기준금리 4.85%로 인상…18년 만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vaXpPVjRyTzNPLTR6dmlzeV82anhVVFdxNjJES0tWY2RWNkM3VF9DNy1XU2tkaGZnY1dIb3hyVi02eHRnaXM0QjBfY2t1ZndJSDdNdTZPbHVqQW1wT2JwVVVYODlJT1MwUk5sTQ?oc=5",
-   "source": "월간조선",
-   "published": "2026-11-03T06:13:02+00:00",
-   "topic": "금리"
-  },
-  {
    "title": "RBA, 기준금리 4.85%로 25bp 인상…3명 반대표(상보)",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54MV81dUxlLVNVY1JhcWNOakZrdXRYMXh2a2J2UzZsbVJ0MkI1eWNmQndPRndRbHQ2MzhPb0pJNDNEaFZ2a19IUWpCSEZOeXlIQ0xEMlRNRHhVV0VmTVhrSG9wd3ZFSUVIeTdGam9vcC0?oc=5",
    "source": "연합인포맥스",
-   "published": "2026-11-03T06:06:59+00:00",
+   "published": "2026-11-03T06:06:00+00:00",
    "topic": "금리"
-  },
-  {
-   "title": "미국증시를 흔든 주요 기업 주간 이슈 - 마이크로소프트 외 17종목",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EeHI2eHlGVWhTM1haTjVHR1NwYjR0U2hKU1FoaWo1cjFzMS1aWDhLTmpXY3RkZ0F3T09pNUduaGI2dTJ0UHA2NGxZQUtncXRuREp0bzlUZUFja1Z0Tm9uREl3anNNTlZqRWc?oc=5",
-   "source": "초이스스탁US",
-   "published": "2026-11-03T03:45:00+00:00",
-   "topic": "미국 증시"
   }
  ]
 }

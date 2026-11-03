@@ -1,18 +1,18 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-03T21:45+09:00",
+ "updatedAt": "2026-11-04T07:37+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
    "id": "SP500",
    "name": "S&P 500",
    "unit": "",
-   "date": "2026-10-30",
-   "value": 7580.07,
-   "prevDate": "2026-10-29",
-   "prev": 7720.39,
-   "change": -140.32,
-   "changePct": -1.82
+   "date": "2026-11-02",
+   "value": 7541.4,
+   "prevDate": "2026-10-30",
+   "prev": 7580.07,
+   "change": -38.67,
+   "changePct": -0.51
   },
   {
    "id": "NASDAQCOM",
@@ -40,23 +40,23 @@
    "id": "DGS10",
    "name": "미국 10년물 국채금리",
    "unit": "%",
-   "date": "2026-10-30",
-   "value": 4.94,
-   "prevDate": "2026-10-29",
-   "prev": 4.98,
-   "change": -0.04,
-   "changePct": -0.8
+   "date": "2026-11-02",
+   "value": 4.91,
+   "prevDate": "2026-10-30",
+   "prev": 4.94,
+   "change": -0.03,
+   "changePct": -0.61
   },
   {
    "id": "VIXCLS",
    "name": "VIX 변동성 지수",
    "unit": "",
-   "date": "2026-10-30",
-   "value": 19.42,
-   "prevDate": "2026-10-29",
-   "prev": 17.2,
-   "change": 2.22,
-   "changePct": 12.91
+   "date": "2026-11-02",
+   "value": 21.15,
+   "prevDate": "2026-10-30",
+   "prev": 19.42,
+   "change": 1.73,
+   "changePct": 8.91
   }
  ],
  "errors": []
