@@ -1,8 +1,64 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-03T07:36+09:00",
+ "updatedAt": "2026-11-03T12:45+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "호주, 기준금리 4.85%로 인상…18년 만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PYXJMRWJzX0pxUjE1R216czBlV0xyVWIzSktLRy0tYkVfYUc1cWVxdF9NVU5UT3h4QjRWS05LRW81UXhVWHBiSmpWN1ZDODdJMF83b0MzZ2NOMjVB?oc=5",
+   "source": "뉴스핌",
+   "published": "2026-11-03T03:42:00+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "미국 주식 선물 소폭 상승, 애플은 실적 발표 후 하락",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGUTdrand3ZlJ5UXN4SXlXTG5NNzREUS1TR2RJUU5HbnRWODJURmNDYVlSeDA3dElKMmpQaGtvMkxuZjRaN09UaURXUkdTbHNTS0ducVljOEJMejNhMHhpVTJ5OFJUdVZuRUhORURlelM?oc=5",
+   "source": "Investing.com 한국어",
+   "published": "2026-11-03T01:01:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "국채 금리 내릴 때 CP 금리 상승…연말 단기자금 경색 신호일까",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JU0VTc2QtdVNBZ3RtMlJSSGJ5NmtxTkV2VGl5THFMYnFqRzNkU3VOSVNNQ0cwUVZfZElPSmdNOGJ0SG92S0FlMkVpX3dtYzNOSWlLR1FqMnVnU2vSAWBBVV95cUxQbGp4dDhySlU3T0NXdGR1ZWJLaDhST3ZkTTNfamhFZXJXcURGX0lNNXBqVlhHdmF3VTBsTmd6WVJJWVRqVjZ4S3ZmMlBTN1ZpQ0RpME5HS1lwMDJwUWg4LXU?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-03T00:47:39+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "피치 “2027년 원/달러 환율 1325원 전망”",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XcnZMNlNyN0pmandhbWw5Y044QnlZNjVIU0EtOXYybVZCNmVUaG9BZFVodmo0OEhrZkNFcy1Va1VCLU5SRW5hdGwtVThXMDgtN3VYam1JTHh4dmRfb2l3c1J0c1oxeDZDRENJYXZnMDlGMHc?oc=5",
+   "source": "스트레이트뉴스",
+   "published": "2026-11-03T00:42:20+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "원·달러 환율, 2.1원 오른 1345.9원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVhUZjByNXFvLUw4Q3FoaVhZUVVqbGJvc0EwclJtSHZvbzN5STZpaXJPd0ItUmhPMjRFWFk4ODRjellvTEM1aXJyM2czeUNUNENfOW1LOTNxT1pLdU1vbWlsaXlzWENGWXMzLXJRYWZJcDhkbjAxaTJpY01PX3ljd2Qxb0o2UdIBmgFBVV95cUxOUDZEQmQxTFRoNzdFTDVCYUlKVXFzdVJYZERia0h5eWhwNVRFLXF3NHFJQXpKQUY3YTNkaWR0TFdMTjJ5M29MRWp6bUVvMzlzNUF4b2IxMl95eERVNkl1SmpJVUdfaTJoYkg5c1F4TkxEMnRzVVdwVlI4M1phVHAxSFJoR3NtUEpBb1B4bXdrVVlZVEdxeUdKT19n?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-11-03T00:25:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "미·이란 협상 기대감에 시장 출렁...유가 7%대 급락",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ncHdTa2xGWFJobXY2R0stUnU4NUx3cDZ1aWZabm9SMENHQWE0MlE4dlJQa1cwaFhMSE5pSV9XY3diNDNGcEkyQXdhTVo3NVVXSmFpWUEzaUE?oc=5",
+   "source": "네이버페이 머니스토리",
+   "published": "2026-11-03T00:00:04+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "BOE가 이제 금리 인상을 시작하려는 이유",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KQXROajNtMngyZnhJTDZXb200cHNqOWpiczN3cFVPX2ZWX29uRld2THFNTFBSN18wUnd2SjAyY2FUR3ZkalY3VVp6ckgzOUsyLTU0bXpKSmV5SFJHVi13Ry1Wcnl1VVNtRzY3cTVyYng3QQ?oc=5",
+   "source": "KB Think",
+   "published": "2026-11-02T23:17:50+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "[미국 특징주] 모간스탠리 \"미국 증시 조정 막바지 국면\"",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12RlE0LTd5VXRLUWpPdm9ES2VRLUphV2lMS2lUelVhQjJRTEpkZVZYbDlJRVhfcVVpcW1Xd2RQY3NTV3dZYVRLZFlsTjFydlNodnRYTmF1TlJmb193?oc=5",
+   "source": "뉴스핌",
+   "published": "2026-11-02T23:01:00+00:00",
+   "topic": "미국 증시"
+  },
   {
    "title": "앤트로픽도 자금 흡수하나…쏟아지는 미국 주식에 국장 수급 우려",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnNZYnFaTGxWZXQybjRMZzJrZl9KUGtfNkRtbXQwOTRLaDZsWDMxUHBhYllieVYwY0x5c2JfZDZ2NHZDUmRBOENxRFVZa0pmZGpESksxN2pJNnZVdnhGdWtPM2JFYmphTmRWNGppSDB3b1dUQWM1VHluMjFFMW03VVJFMA?oc=5",
@@ -11,67 +67,11 @@
    "topic": "미국 증시"
   },
   {
-   "title": "[뉴욕증시] 반등하기엔 근심거리가 많다…나스닥 1%↓",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FU3dxY0lzODZrTWNFSklsZGc0OGhLX2NzNVo4cjVzWlpvbTJZbFFFLU5jOVdNZllMME1CNnZBUmU2Mi1vaWRraFJTQjhJcUcySmo1X2tieTgzM0VGZ2pnZlAyTG9jYTVNS2xBTEs2NllxZw?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-02T21:34:43+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "\"제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라\"",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1VoNENFVkczTkpyaDF6TlFWLVRHUEN1d2RXYUE5dlJ6X19vZl9XaW5ITlllc19OMlFUU3BfdGEzWHVncWs0NUtnTG5mdk9CbHdUa1VLNXhlWjVDeFFoMGlIUUcyaXpHUHlZWGNBOHpLT18yeENMYXRDc28wVUI5ag?oc=5",
-   "source": "조선일보",
-   "published": "2026-11-02T15:37:00+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "원 달러 환율 1,340원대로 상승‥약 2주 만에 최고",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNZlIxakZ1UVR1WjZXaEpwMGlmb21Oc00wYU81dmxVX2pJX3pDell1LXZuam9reXBhTlV2eHZqOHVucDJyZE0tVmRaUWNPREEyWjZYcmh0N0ZuN0dqUmpJU3lUNTVjU2dDdEJpc0hzRnk3bl9Q0gF0QVVfeXFMT1c5RXV5RkNzWkpzd1NHbEZ6aEg1cTN2R3k2ajlPdEtqMThObDdQa0FNWmJ1UUExTm9XNTlTUnF1WHI0eDhfZnl4ai1TM3lWdldib3YxODN1QUFkazB3Tjc5SFp6R3FTRlNwQXM5cXNJckoxR3k?oc=5",
    "source": "MBC 뉴스",
    "published": "2026-11-02T10:53:41+00:00",
    "topic": "환율"
-  },
-  {
-   "title": "Citi “공화당이 상원 지키면 미국 증시 상승 가능”",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HTXNaMTFQUjdEaVRGTFdiSHgzUEZWbzJMQW94V2pjWUdreDNTSmhrT3V0QlNZaTFMS18wZHpiSGRYMHFoSUF2b1dJdnV1REZ1M2s3WTBfZ0JVV3NDRjBjejU5NFctdlVXdzNHd29ubnVGOUhHRHU0?oc=5",
-   "source": "Investing.com 한국어",
-   "published": "2026-11-02T09:43:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "달러 약세에도 원/달러 환율 9.5원 급등…외국인 달러 매수세 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nQ1dXa3F5TzluM0Z5TkhWLWVOYTJfVEl6RWFTbVhKeF9POWxXb3Jmc0FZVm5iVm9mbTVETDdTU2QxVVhRR0pGZ0REazRMX0N5N3RVUjBFdDJnY1h6ckk4Nmp4TGRnOFVjbDZV0gFwQVVfeXFMT1gwYnpKclI0VXZEV3YtYU9YcVEwT1IyRDhDaWRjdUFXYkhiMndFSlRYZVVlVGpDc1F0Y3NHdGFJTEpfNXFHcGtNX2FBQmxpTGhwRGQ2UjgzR2xNbjR3bTczTzJMd0hFTVRHZHhnd3VBZA?oc=5",
-   "source": "머니투데이",
-   "published": "2026-11-02T08:13:48+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "원/달러 환율 1,340원대로 상승…약 2주 만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5faV9saVhIVlBsSEpIUlF0RmpyZ2t4TmtfUG1KMXFSd3Zub1BQNzN1aENmRUZrNVd6aWtiOEZUN2NIMkxlY1dkUXdDdXo1QTNjeXc?oc=5",
-   "source": "매일경제 마켓",
-   "published": "2026-11-02T07:42:27+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "\"정부 지출 안 줄이면 호주 기준금리 6.5% 간다\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mTjQ4XzMyUncwMjMwZ2g3ZnFTUG5icXB1WGdWa3RuMlpjRUpSbFNrX3BQbDdwTzlxN2hRWG16VnJESUJJUFpmNWEtUWk1VVBvdW0yekM0Qk5WdERXX3pxNE1BazByU1d2V0p3SUkxb2c?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-11-02T06:55:34+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "기술주 급락에 미국 증시 변동성 급등…투자자들 하락 방어 수요 확대",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ic18yQXZOa1ZkZE5XaHFHTHpKMFhXNmprRlliMUVJcUVnSjRVcWxMam9Hc3ZEM29ldGJ6am1SWFlwV1ZqcXZmX0h1MUFPSmpUaU5jWk1RTGpLb3h3bHl5SnIyQQ?oc=5",
-   "source": "더구루",
-   "published": "2026-11-02T03:57:16+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "\"물가 목표 2% 도달\"...일본은행, 기준금리 '동결'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRndGYkdIVlBxelVyNzhTU01xZkZVZEFzeEYzcGxFVGtNU3B3X2YzUE8zTElIRnJOcVRyaDhxbXFGQ1RrYVVQYWZoRXpOTl85V2VzLXk0b1VsNE0tM0E?oc=5",
-   "source": "YTN",
-   "published": "2026-10-30T14:06:00+00:00",
-   "topic": "금리"
   }
  ]
 }
