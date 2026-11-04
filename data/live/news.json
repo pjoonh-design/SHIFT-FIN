@@ -1,8 +1,29 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-04T21:41+09:00",
+ "updatedAt": "2026-11-05T07:43+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "미국 증시, 민주당 의회 장악에 급등…빅테크 웃고 AI 데이터센터주 울었다",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YSTVCYWtKenZ1X2RkZXJCWVlEU3dGZ0JaUVdrSkMwaC1YUTBMeC1aWF9rZ3FLUWVod1ZuRVNPX2VONFBYUUVRb3ZNYWFKUzd1bUsybnpmNEpva2p5Q0VJaEh5R3c?oc=5",
+   "source": "디지털데일리",
+   "published": "2026-11-04T21:35:30+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "중간선거 경계에 증시 '출렁'...\"영향 단기적일 듯\"",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IQWpDbGxwZ3RCNkd3X25ISHFmbW40N3JrN2NUTXVTWWNMdmU5S3VQTTBOeVBWX0dzWjQ4bFZleDVxeFNGeEFsalRRd3liY2Q4R0VnY3VkR1hNVTh2ZUE?oc=5",
+   "source": "YTN",
+   "published": "2026-11-04T16:05:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "미국 증시 변동성지수, 약 일주일 만에 최저…16.97 기록",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ONW52MnhkQWpWZDg2cWU2akxmMmhzWEREazd1dGEwOU56WGFxckNSZFdPQ2o5WkFSZHVvQnA3a0I3dGNiNHI4OUMwRl83Tjdf?oc=5",
+   "source": "블루밍비트",
+   "published": "2026-11-04T15:36:14+00:00",
+   "topic": "미국 증시"
+  },
   {
    "title": "코스피 뛸 때, 원·달러 환율도 같이 뛰었다",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hVUJxMGhhSDF0YzhiMDhKaktlNVFQcm1KSHh3WlYzUE8zcmRqUklnVUNxMl9FemFBcExXZlFNUkRib3FubHRya0FDQU80VXhh?oc=5",
@@ -11,39 +32,18 @@
    "topic": "환율"
   },
   {
-   "title": "\"미국 주식 사라고?\"…'트럼프 카드'에 서학개미 놀랄 반전 전망",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBobUhJWTVPd2RTQW1MeGhNQ0ppRS1DSlduejM1LVktcXNnN3JvZDJaQ3plZlN3MEVaUU44LVZPZWhsbGJxR1lqNFpkTDk2bVlsakYwTTc4SmxjUQ?oc=5",
-   "source": "한국경제",
-   "published": "2026-11-04T08:43:19+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "스웨덴 중앙은행, 인플레이션 우려에 기준금리 2%로 인상",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lbS1TWGFOUHJJN2gwUmlaS0l4Vmt3eC1QcFR6QVh5bElQYnJOUXhOOUtKN1VLaFFhSzVUeWVQT0U2NlBLSUpTSlZpR2dFQ2pJMUFXMGtNaVBBWkhjMVlNVGlHSElQTTRUdzJBRFl1LVFFT3VBTnpXVm1n?oc=5",
-   "source": "Investing.com 한국어",
-   "published": "2026-11-04T08:37:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "주담대 변동금리, 상반기 고정금리 넘어…차주들 이자 부담 우려",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42Q0FCVWNzRmtLS09RM01qZTVmdEhsOFp6WFlKLTRidDBLaGhCRkltVWJMRENVMF9fUE9LaXczSmJWeWsyYzJQMG5wTzJsT3RCV0pCZ3FRbVNZaUduanpJVG1xdkxsemxXRlQw?oc=5",
-   "source": "한국부동산뉴스",
-   "published": "2026-11-04T08:24:38+00:00",
-   "topic": "금리"
-  },
-  {
    "title": "원·달러 환율, 0.5원 오른 1341.5원",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWZmNk9KMUN3ZnVlbHV6VGRiYmtiX3ozMUJYR3ZzRGVIS0ZtRFh4RksxQWt0bFNnenNfZUxZUDdfWkpnVHpsZ0dndHd1MnNGdWNhRmJhbTk2dWVMb05na0FkLTVKWDhCeHg4TUpDR3FTYTlrTHVsQWprcDB1S3J0MVV4X0htZ9IBmgFBVV95cUxORElRN1ZzZWlTbG9OWVh6ZVoxVWRhNEo1MFRMZW02ZlBwSG9mbk5USkkxWWJhOVRLYWRNR3AwOUEwSXFwZUh2WEVoZngzMnNxeXVqSkVKbF8tMk5vS09XMXhpR0cxM3FHWkFFeExUQkc0MXlhajQ4NW1zYnBuSGk2ZmJCbnN4LTR2enpvZW1TRHlZQjZpdnBfS2J3?oc=5",
    "source": "Chosunbiz",
-   "published": "2026-11-04T06:35:00+00:00",
+   "published": "2026-11-04T06:50:00+00:00",
    "topic": "환율"
   },
   {
-   "title": "미국 증시 선물 보합세, AMD 강력한 실적에 급등",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDc0ZYczgzSGV5S0FDNkhYMWZmc3RCSzNXRERwMlItZ3JrUzQwSURyR1VRSFFUWXh2N0NwZ3JiZUFxb2VESDY2NGI2c3BIZmYtNVpKMGZ2MnctTk9oQVg4YzktV19IRGJsSUxiNlo0R1A?oc=5",
-   "source": "Investing.com 한국어",
-   "published": "2026-11-04T00:36:00+00:00",
-   "topic": "미국 증시"
+   "title": "2027년 채권 전망, 전문가들 ‘금리 하향 안정될 것’",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TLWpJVFdQQnRMbjRlYUVnV0xTR2dLMW9wdGs0Wkg3cmZwNmJQWW12c192SVNPVHMzZ01ydFhBYkJnV2hUOU11amZjUWZTRlEzX01iMw?oc=5",
+   "source": "이투데이",
+   "published": "2026-11-04T04:37:00+00:00",
+   "topic": "금리"
   },
   {
    "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까",
@@ -53,25 +53,25 @@
    "topic": "미국 증시"
   },
   {
-   "title": "[환율 전망] 불안한 11월, 중간선거가 끝이 아니다",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wcXpGVzJxUExPS2k5NG8zejZGVkNFbjFLUEdVc01aNlJTYURHUlIwOFFwQVljS1kxNzB6dnlrVUNBTlNaOUJGQ2pmOUpUakduVFI5ZDcwVlRlZGplQWtvVA?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-03T23:06:26+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "[서울데이터랩] 미국 증시, 기술주 강세에 혼조 마감…나스닥 0.83% 상승",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rQzZMYUJNU09Tekg0NG1WNUEyOGR4ZDdHMC1VYnpVWHpBQjhsM3NYYjlHVElHMDYtM2VlRW0xajRZeEhWejRGRm0xdG9pSzh6ZWVPUFlNRHJDY01MUFFLSnVKQUZsQkxUMWFYLU1BTQ?oc=5",
-   "source": "서울신문",
-   "published": "2026-11-03T21:10:01+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "호주 중앙은행, 기준금리 4.85%로 인상…18년 만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qSmRFNFlLV1pTUWNxbllrUEE4cS1zYmRfSldPSVBHZWhiU1ZJU1ZMLW8yNW96UngxN0xXU3JOanpoUjViY0dtTlF2WjFGLUxHdlHSAVNBVV95cUxNU1FubW5oeXY4SUx5TjA2YmhOTWJ2Vk9SelgxNFVHbGxpdUVpam9WU3I1OEZPSl8yZEtuWWlHaWJTRnBIZlZ4bTVScFVVNmw5QnNBbw?oc=5",
-   "source": "서울경제",
-   "published": "2026-11-03T13:30:49+00:00",
+   "title": "'긴축 여지' 열어둔 연준…한은 다시 '호미' 꺼내들까",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMGlfbV9oUVlnMzVJcVdON3l3Z0R0Nkk2bTAzYnp2c1V4ckFqOV9KMjJHb0lvMERITWhpLWUtNDhJV21lX1QxbzlXZXZaeFBFUldDR29KVktZbkwwYUc0ZGlGaFIxTUVXY25iMGdiT0VaWjdoR1NQMlozdmxKVzdwbHF1clVHU0tMZ3VmNWwzcm5MQlNBOC1JbFBqc2tJdWpCWk1ybDlRVWt0UkR5MGR0N29QcG5jX2gwZzhlbDFHZ0JTUFg0c3lkZGNNeUdnZDRISjZYVzRxd3dOMjZzVURWYUVYczlpZG8zZHNzOXVtdjNTR09QTlFiRkh0Xzg0NjhtcFY0emV5QlFPaFV0?oc=5",
+   "source": "데일리안",
+   "published": "2026-11-03T21:58:00+00:00",
    "topic": "금리"
+  },
+  {
+   "title": "호주 기준금리 4.85%로 인상…18년 만에 최고치",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vem03Y2RsZEx1WGRPOEVfVTE4MVFacGUwRjFrYm1Ud09hQVBHWDVWbHFFckpacUpfZ0l2MkEtd3c0cmNyUnVrb3NtY2NxTElUUEFaQlJ2SnlvQQ?oc=5",
+   "source": "한국경제",
+   "published": "2026-11-03T12:48:35+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "\"내년 달러-원 1,500원대 본다…대외 불확실성·외화 선호에 상저하고\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTUkhnaUx1MFRieTVZcVhqWWNZazBCM0VRU2pEU0NRZWJkaHNDcm8tQ1V1R09fRDktOHBSb2ROcl8tRks0Z1gzaWN0SDFYb2xMOVVKRWdfUGcyQm84XzlRck1rV1dyWXJfeWtYdnQ4RUI?oc=5",
+   "source": "연합인포맥스",
+   "published": "2026-11-03T09:42:00+00:00",
+   "topic": "환율"
   }
  ]
 }
