@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-04T07:37+09:00",
+ "updatedAt": "2026-11-04T12:47+09:00",
  "source": "한국은행 경제통계시스템(ECOS)",
  "items": [
   {
@@ -53,9 +53,9 @@
   }
  ],
  "cpi": {
-  "month": "2026-09",
-  "yoy": 2.9,
-  "index": 120.43
+  "month": "2026-10",
+  "yoy": 2.8,
+  "index": 120.73
  },
  "bankRates": {
   "items": {
