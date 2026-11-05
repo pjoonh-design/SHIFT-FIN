@@ -1,35 +1,56 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-05T12:50+09:00",
+ "updatedAt": "2026-11-05T21:47+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "코스피, 미국 증시 강세 마감에도 약보합 출발...반도체주 약세",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9haXltQzE1ODVsYzhJdm1vSWt0TkRLOGMwRzZPa2Q4TDlmV201SG16UGFIM01vR1FVVEVTZTJmcUNxUkdSUWVDWHZZVzRzc29oQTN5Y2E3cFRHTHdPcUhBVWFGRFpzTGV0blJGWUNaUQ?oc=5",
-   "source": "YTN",
-   "published": "2026-11-05T00:40:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "원·달러 환율, 0.9원 내린 1340.6원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWEVvVFBuTHhLU3RNWXdzUEVOeHNTZGdIdjB1a0FaWmpJUFBFWVpWQ0o5UDdiWFVHaFY1RHdlcnhGWkF6aVp0b1h5WVgyT2l3STRwNlh2QzYyMkd0c3dpdTNUNjgyZkxrZzlkWElhcVk4WDlXRV93QTV6U09WVlY1V2pudFRuZ9IBmgFBVV95cUxQZlJiYUt4TzhLNHN4M0FpS2daYmJFOHVldUNZNEtQaGxWVEVTNk9xTFgyMU1mRE1WcmtoV2VxZFplQWZNT05URUh5T2FONFVwV0htU2VvY2VHQm5ZTG8zSHJPWlFQSjlZelNVd3lWaXRDa0R2aVJPYWt4Vkc0ZFZ3NW83a3JYaGZwNkhmOXY2SUtuV0pJZWY4cmd3?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-05T00:21:00+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "원·달러 환율, 1345.0원…달러, 美 국채금리 하락 속 약세",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJMGhBUUR1b3RSRks2QVItMlVMdU54Z2ZYcUlKaFhqQzMtNkR3VDlxT29Wbi1TZUlDdFZIRXl4Uzl3UVl4R2hnb1ExMHc2cjVfSmJIRDhtd1lZX1VDalhv?oc=5",
-   "source": "조세일보",
-   "published": "2026-11-04T23:24:04+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "영란은행, 5일 기준금리 4.00%로 인상 유력",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03ZTQtSlZZZy1EVFR0ZHFxTF9qTHota2doaUdFTmQ2TWRhV3ZXclhrRVJvMkhsYy1GRHpqcHQ1M0FETG1HejF2Z3RtVmRGMkI5ZU4yY0pTUUV5cGhRc0F2N0RSeWE1cHhFV0h4bDE3QnVDZjQ?oc=5",
-   "source": "마켓인",
-   "published": "2026-11-04T22:59:00+00:00",
+   "title": "영국 기준금리 3.75%→4% 인상…이란 전쟁 여파에 3년여 만에 '유턴' - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HV2llWmlqX2czNzJ4VVNJX2prR0VRbVFKb1dsUjdORFk2a2F0VWVrU09KNmtJZnRjNHFWd3hXVE1HeGV2cFMteVhpb3lCYmJpYzliSWR6NWUtTFljZlQ5Qk5kRjZaY0ts0gFuQVVfeXFMT2hLZTBSdG9qbHJvbVJMejQ0enhaSmp5VWdBTzc3NXo4c3c0NlRJeG9yT2ZHUUZMdUdMQWFheEloejQyR3VFcUN5aVRXb2JYZ1B5NjBTdWNQVjJ0bnZaMXBRYU9KdURKb3lOX0xrRlE?oc=5",
+   "source": "머니투데이",
+   "published": "2026-11-05T12:32:19+00:00",
    "topic": "금리"
+  },
+  {
+   "title": "[1보] 영국, 3년여만에 기준금리 인상…연 4%로 0.25%p↑",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CZHhwVFpaUUJFby1nMnl5LWtTQVFBeENhcmdSbWZRWFdwT2JIeUMzb2tPV09BdV9uOTE1Y1h3UWdMbXZtcDg3SWRlZ1hFNnRWZXFXbFF3elJyOUnSAWBBVV95cUxQMnRwU2pPYlQ3bC0yRVVZa1RTRDRRMGkwcEd3VFJ3Y0todUZJWjFiQ1FPa09EdEpqVWVkdnFNbjhaOXpCcW5HcnFwV2NjOFdXMjVYQmVvZVVPUW4wM05rSk4?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-05T12:00:54+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "'블루웨이브' 속 외국인 3조 순매도…환율 0.6원 오른 1,342.1원",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03Ukd5ZnRqQWNTMjI1WmthYTVaU3QzcllBWi01U3hja0x0LWQza3VZNlRIU09FNElJV3lhLVFyV2RfV2xVSjJYZXJJRFQxSnBqVnFfQ1dFcFNDUE5wYlBtdk1tbzV5YXNPSHNwSEYwdzNuMjAx?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "published": "2026-11-05T07:07:45+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "원·달러 환율, 0.6원 오른 1342.1원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNelRKMUZHS2dUTzRTYi12YzU5RjhHd1J2QnJMNEUwWGZ2S05Hb09wdWRocndwZl9YQk03UUpjaWt2TWdnUzZ3MmZvNGUzWnJpLWJoeUpRVW9WdUxSdnJEUXRha19qVGMwZHVJaC11bEwtRmc1dG9iMV9VQU9oSnpib2QwNlFlQdIBmgFBVV95cUxQMElkek5EQWtiLW9leXdiY1JhMDZUMjVzQmt0Q1NTZ1dReENObXYyUHEyRDRCMXJoanI2ekc0WllFRWRKMkpOUzNEczBrOEdqeVM5czZOc0F1LTdLeVZibk93WnJUQ2VMbllDQzE5YWxEV0dkZEY5YWRsSTdHSGRoTVNiUmlWNFg4ZGxOVWg5YVRWc2x5bW9sRkV3?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-11-05T06:38:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "[외환] 원/달러 환율 0.6원 오른 1,342.1원(15:30 기준가)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5venU0dVN5dWlxV3dkM2s2cEVBeXRPYnp0RWdWQzBVYkREUHl3RG5fektQc2tDOUNTb0MyaC1xVnNCTWRlS1Q5Y3M1dllWX2Y2c0RCbTNCYWs3ZGhXbkJCWNIBYEFVX3lxTE5venU0dVN5dWlxV3dkM2s2cEVBeXRPYnp0RWdWQzBVYkREUHl3RG5fektQc2tDOUNTb0MyaC1xVnNCTWRlS1Q5Y3M1dllWX2Y2c0RCbTNCYWs3ZGhXbkJCWA?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-05T06:30:53+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "일본은행, 기준금리 \"조기에 목표에 가까워져야\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tOEkwY0syMWlCRUZiQXNBVklqbFoxclFWajBjWVJPYlE4eWJBVXVGb0lMNDdNVURpSnlSR3hZZW43dV84VnlBdFBadDRaSkVma1VUd21zalpIV0ZKWHl5OdIBeEFVX3lxTE0tOEprRWRFbDAyUlB5WWZWaDA3SjIwbU9JMVJmSFBfX1puZE1kdGlnWDdLVlpOWEtKaTc4MEVWRWtPZmRUdjZuNURfN2V3ZW9RRVNWd3FqazhSWk5Fc2prUzh0b3FHeDUxaGRBc3Y3OTNFdTNSMzJfdg?oc=5",
+   "source": "뉴시스",
+   "published": "2026-11-05T05:13:22+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "미국 증시는 급등했는데 삼전닉스는 '급락'...한 번 더 충격 올까? [몇층이세요]",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pQzRwbS1VZ3FJQXdXZHlFeVBsU3NDM2Y5SDQ4Mm9CZGdLZTZvd2ttbkRmNUlybnJNa1ltV0EwQjVMVUVfVnFDSDdPektxQWZNUVdrSTd4ekRENFljLWc?oc=5",
+   "source": "YTN",
+   "published": "2026-11-05T02:41:00+00:00",
+   "topic": "미국 증시"
   },
   {
    "title": "[3분증시] 뉴욕증시, ’블루 웨이브’ 속 일제히 상승",
@@ -51,27 +72,6 @@
    "source": "디지털데일리",
    "published": "2026-11-04T21:35:30+00:00",
    "topic": "미국 증시"
-  },
-  {
-   "title": "韓 주식 떨었는데 美는 왜…블루웨이브 효과 3가지",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xaTZ4R0FfT01YSUh2UjJMTE9rUC1CMHRIUVc0UVloV1RCQVNpQ3BkNFVYVEZZQlZ2WERZTHIwdXRmWVVhMUF6TUc1T25SdG10RXN3UkVBZlNVbzJMbVB0MVVaWUR6WGRTMmh4NGhKOVQ?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-11-04T19:50:39+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "2027년 채권 전망, 전문가들 ‘금리 하향 안정될 것’",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TLWpJVFdQQnRMbjRlYUVnV0xTR2dLMW9wdGs0Wkg3cmZwNmJQWW12c192SVNPVHMzZ01ydFhBYkJnV2hUOU11amZjUWZTRlEzX01iMw?oc=5",
-   "source": "이투데이",
-   "published": "2026-11-04T04:37:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "\"내년 달러-원 1,500원대 본다…대외 불확실성·외화 선호에 상저하고\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTUkhnaUx1MFRieTVZcVhqWWNZazBCM0VRU2pEU0NRZWJkaHNDcm8tQ1V1R09fRDktOHBSb2ROcl8tRks0Z1gzaWN0SDFYb2xMOVVKRWdfUGcyQm84XzlRck1rV1dyWXJfeWtYdnQ4RUI?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-11-03T09:42:00+00:00",
-   "topic": "환율"
   }
  ]
 }
