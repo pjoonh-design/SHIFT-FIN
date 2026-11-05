@@ -1,8 +1,50 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-05T07:43+09:00",
+ "updatedAt": "2026-11-05T12:50+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "코스피, 미국 증시 강세 마감에도 약보합 출발...반도체주 약세",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9haXltQzE1ODVsYzhJdm1vSWt0TkRLOGMwRzZPa2Q4TDlmV201SG16UGFIM01vR1FVVEVTZTJmcUNxUkdSUWVDWHZZVzRzc29oQTN5Y2E3cFRHTHdPcUhBVWFGRFpzTGV0blJGWUNaUQ?oc=5",
+   "source": "YTN",
+   "published": "2026-11-05T00:40:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "원·달러 환율, 0.9원 내린 1340.6원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWEVvVFBuTHhLU3RNWXdzUEVOeHNTZGdIdjB1a0FaWmpJUFBFWVpWQ0o5UDdiWFVHaFY1RHdlcnhGWkF6aVp0b1h5WVgyT2l3STRwNlh2QzYyMkd0c3dpdTNUNjgyZkxrZzlkWElhcVk4WDlXRV93QTV6U09WVlY1V2pudFRuZ9IBmgFBVV95cUxQZlJiYUt4TzhLNHN4M0FpS2daYmJFOHVldUNZNEtQaGxWVEVTNk9xTFgyMU1mRE1WcmtoV2VxZFplQWZNT05URUh5T2FONFVwV0htU2VvY2VHQm5ZTG8zSHJPWlFQSjlZelNVd3lWaXRDa0R2aVJPYWt4Vkc0ZFZ3NW83a3JYaGZwNkhmOXY2SUtuV0pJZWY4cmd3?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-11-05T00:21:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "원·달러 환율, 1345.0원…달러, 美 국채금리 하락 속 약세",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJMGhBUUR1b3RSRks2QVItMlVMdU54Z2ZYcUlKaFhqQzMtNkR3VDlxT29Wbi1TZUlDdFZIRXl4Uzl3UVl4R2hnb1ExMHc2cjVfSmJIRDhtd1lZX1VDalhv?oc=5",
+   "source": "조세일보",
+   "published": "2026-11-04T23:24:04+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "영란은행, 5일 기준금리 4.00%로 인상 유력",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03ZTQtSlZZZy1EVFR0ZHFxTF9qTHota2doaUdFTmQ2TWRhV3ZXclhrRVJvMkhsYy1GRHpqcHQ1M0FETG1HejF2Z3RtVmRGMkI5ZU4yY0pTUUV5cGhRc0F2N0RSeWE1cHhFV0h4bDE3QnVDZjQ?oc=5",
+   "source": "마켓인",
+   "published": "2026-11-04T22:59:00+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "[3분증시] 뉴욕증시, ’블루 웨이브’ 속 일제히 상승",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41NC1pOGlFS1puVnlyYkl4UGZXT21yblVtTXVqeDkxdzcyN3N2cVFLWTRyVVNmdjFVdnF0ZUMtSHVkSlZuMTFfSUxjYXNhdmMzdnpZbHpxLVE2MnYtb2pxLUM5VEhLdVE?oc=5",
+   "source": "연합뉴스TV",
+   "published": "2026-11-04T22:53:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "브라질 중앙은행, 룰라 재선 후 기준금리 13.75% 동결",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3LTZrZ0hZVmVZTVBpMnBWX3FZZFRKZW1JSGJDb3JnZVM1OHhISGlmNkJDVng2ZEtkY2hBTGh5Ulh5VXZOS2Y3MjN4ZzYzNFMtODYta3BiQ19QaTNaR0xPQktGVWZSODA?oc=5",
+   "source": "Investing.com 한국어",
+   "published": "2026-11-04T22:48:00+00:00",
+   "topic": "금리"
+  },
   {
    "title": "미국 증시, 민주당 의회 장악에 급등…빅테크 웃고 AI 데이터센터주 울었다",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YSTVCYWtKenZ1X2RkZXJCWVlEU3dGZ0JaUVdrSkMwaC1YUTBMeC1aWF9rZ3FLUWVod1ZuRVNPX2VONFBYUUVRb3ZNYWFKUzd1bUsybnpmNEpva2p5Q0VJaEh5R3c?oc=5",
@@ -11,59 +53,17 @@
    "topic": "미국 증시"
   },
   {
-   "title": "중간선거 경계에 증시 '출렁'...\"영향 단기적일 듯\"",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IQWpDbGxwZ3RCNkd3X25ISHFmbW40N3JrN2NUTXVTWWNMdmU5S3VQTTBOeVBWX0dzWjQ4bFZleDVxeFNGeEFsalRRd3liY2Q4R0VnY3VkR1hNVTh2ZUE?oc=5",
-   "source": "YTN",
-   "published": "2026-11-04T16:05:00+00:00",
+   "title": "韓 주식 떨었는데 美는 왜…블루웨이브 효과 3가지",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xaTZ4R0FfT01YSUh2UjJMTE9rUC1CMHRIUVc0UVloV1RCQVNpQ3BkNFVYVEZZQlZ2WERZTHIwdXRmWVVhMUF6TUc1T25SdG10RXN3UkVBZlNVbzJMbVB0MVVaWUR6WGRTMmh4NGhKOVQ?oc=5",
+   "source": "연합인포맥스",
+   "published": "2026-11-04T19:50:39+00:00",
    "topic": "미국 증시"
-  },
-  {
-   "title": "미국 증시 변동성지수, 약 일주일 만에 최저…16.97 기록",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ONW52MnhkQWpWZDg2cWU2akxmMmhzWEREazd1dGEwOU56WGFxckNSZFdPQ2o5WkFSZHVvQnA3a0I3dGNiNHI4OUMwRl83Tjdf?oc=5",
-   "source": "블루밍비트",
-   "published": "2026-11-04T15:36:14+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "코스피 뛸 때, 원·달러 환율도 같이 뛰었다",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hVUJxMGhhSDF0YzhiMDhKaktlNVFQcm1KSHh3WlYzUE8zcmRqUklnVUNxMl9FemFBcExXZlFNUkRib3FubHRya0FDQU80VXhh?oc=5",
-   "source": "블루밍비트",
-   "published": "2026-11-04T09:40:02+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "원·달러 환율, 0.5원 오른 1341.5원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWZmNk9KMUN3ZnVlbHV6VGRiYmtiX3ozMUJYR3ZzRGVIS0ZtRFh4RksxQWt0bFNnenNfZUxZUDdfWkpnVHpsZ0dndHd1MnNGdWNhRmJhbTk2dWVMb05na0FkLTVKWDhCeHg4TUpDR3FTYTlrTHVsQWprcDB1S3J0MVV4X0htZ9IBmgFBVV95cUxORElRN1ZzZWlTbG9OWVh6ZVoxVWRhNEo1MFRMZW02ZlBwSG9mbk5USkkxWWJhOVRLYWRNR3AwOUEwSXFwZUh2WEVoZngzMnNxeXVqSkVKbF8tMk5vS09XMXhpR0cxM3FHWkFFeExUQkc0MXlhajQ4NW1zYnBuSGk2ZmJCbnN4LTR2enpvZW1TRHlZQjZpdnBfS2J3?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-04T06:50:00+00:00",
-   "topic": "환율"
   },
   {
    "title": "2027년 채권 전망, 전문가들 ‘금리 하향 안정될 것’",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TLWpJVFdQQnRMbjRlYUVnV0xTR2dLMW9wdGs0Wkg3cmZwNmJQWW12c192SVNPVHMzZ01ydFhBYkJnV2hUOU11amZjUWZTRlEzX01iMw?oc=5",
    "source": "이투데이",
    "published": "2026-11-04T04:37:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLTAxS0JnTUluWnV6TmFYcENYS2psaU5DOU4wM1VvUHFFN20zd29OR29nN09CX3JMcTVpYllvVHlScXlncjc2TWhXVnZsNTVTSW5VNDZXNnJ2U2FKNGRFUjBLaERfSWNkMUHSAW5BVV95cUxNX3JfeFl4SWFHcUQzN18ydnlnNHJsYmRISVBlQXNkano3cHZjNWNqYW5UNnJUemNQbFRVa0FKUkVrdjVCMjJHTy1NcWJOUHlwYm9SN1ZzbXhTd1o0QldkOHpGa2JtX3hibjR4QjkyQQ?oc=5",
-   "source": "주간조선",
-   "published": "2026-11-04T00:35:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "'긴축 여지' 열어둔 연준…한은 다시 '호미' 꺼내들까",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMGlfbV9oUVlnMzVJcVdON3l3Z0R0Nkk2bTAzYnp2c1V4ckFqOV9KMjJHb0lvMERITWhpLWUtNDhJV21lX1QxbzlXZXZaeFBFUldDR29KVktZbkwwYUc0ZGlGaFIxTUVXY25iMGdiT0VaWjdoR1NQMlozdmxKVzdwbHF1clVHU0tMZ3VmNWwzcm5MQlNBOC1JbFBqc2tJdWpCWk1ybDlRVWt0UkR5MGR0N29QcG5jX2gwZzhlbDFHZ0JTUFg0c3lkZGNNeUdnZDRISjZYVzRxd3dOMjZzVURWYUVYczlpZG8zZHNzOXVtdjNTR09QTlFiRkh0Xzg0NjhtcFY0emV5QlFPaFV0?oc=5",
-   "source": "데일리안",
-   "published": "2026-11-03T21:58:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "호주 기준금리 4.85%로 인상…18년 만에 최고치",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vem03Y2RsZEx1WGRPOEVfVTE4MVFacGUwRjFrYm1Ud09hQVBHWDVWbHFFckpacUpfZ0l2MkEtd3c0cmNyUnVrb3NtY2NxTElUUEFaQlJ2SnlvQQ?oc=5",
-   "source": "한국경제",
-   "published": "2026-11-03T12:48:35+00:00",
    "topic": "금리"
   },
   {
