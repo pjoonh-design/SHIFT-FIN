@@ -1,15 +1,8 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-07T21:30+09:00",
+ "updatedAt": "2026-11-08T07:31+09:00",
  "source": "Google 뉴스",
  "items": [
-  {
-   "title": "'블루쓰나미'에 외환시장도 요동…원/달러 환율, 15원가량 급등 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00M0laMDROY2JCTlhseWhhTlNWWDBHVUF3TlJGMVBVelZ1akU2U0wtbk1mb2RweXJyYmtlMTFSSWVidUNwSnppS0pPYjl1eTNRSUpMVm5wODRWWnpMcFRKdDliZjVwOVFlQk530gFwQVVfeXFMTWFQcEkzRlFvYVJiQV9PSWtyX3BnQzdqSG9wWGhZUGpoY1RxODByQXZvUlpRSUZSdWhaWFZVM1Ezb25iVnRETnpqMnpWZ01DZ05xcGlDRkZTQkJTVWVTNjBxLXlGMF9tT1ZtOHFnMkxhdA?oc=5",
-   "source": "머니투데이",
-   "published": "2026-11-07T01:11:55+00:00",
-   "topic": "환율"
-  },
   {
    "title": "\"주가 부진으로 최종금리 3.5% 확신 약해져\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VNjR6YkZYaWpkLWhLaXpVY0hCSDlvWDRVNnBWU09FdWltZ3ZaOThDR1ItUlRNbmFCWFFtUk93NFA3bkV5WkJpb042Q09NMFBaaExRVnBWRGpFcTBmVmxhNjlTcHNkOXh2OGlzQTg1X2g?oc=5",
@@ -18,18 +11,18 @@
    "topic": "금리"
   },
   {
-   "title": "[다음주 환율전망] 美 증시 급락에 원·달러 환율 급등…다음 주 1350원대 변동성 확대 전망",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KWXNENy1sUjRGWFBfYjFsZUJTSkw5UGRxRDA1ZmFXR0x1bHRvbHZ6blZWRjAwWDctVVZ6UUpUVV9LTTZ0MWk2QnBtQk91STZ1SW56UXpkUnZtWHFWVUktdFZaajNRMFNXaDNlNw?oc=5",
-   "source": "굿모닝경제",
-   "published": "2026-11-06T22:00:00+00:00",
-   "topic": "환율"
+   "title": "미국증시 나스닥 1.09% 반등에도 다우 하락…AI·반도체 저가매수, 고용 호조에 금리 부담",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkYTdLalFCdm5POTVzSEtnVTNDbTNvT256aVhOZ1FDUnRNQlB3MzMyTm1qcHVIdS1NOWwzT3RZNXhPanhqZTNYaGRPVTUxVC02SEM1NzAyMkJodnlBNHRYSkdyVy1XbkUyU3diTC1JX3Zpdw?oc=5",
+   "source": "톱스타뉴스",
+   "published": "2026-11-06T22:05:20+00:00",
+   "topic": "미국 증시"
   },
   {
-   "title": "씨티, 한국은행 기준금리 인상 시나리오 두 가지 제시",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpWkQwaU5nLTl0aGFuNjVPaEY4WnNFX2dLX2F5WFpacUZicVlFTXItWEoxaHBIOW8xQmNIZ3ItdXo3azNvVDdRUDAyTVpsRFNiRVotblRWRjczSDlBbktFZU41OFlaWmthWTdjbGFTbEc?oc=5",
-   "source": "Investing.com 한국어",
-   "published": "2026-11-06T09:59:00+00:00",
-   "topic": "금리"
+   "title": "미국 증시 폭락 뒤에 지나 히노호사(Gina Hinojosa)가 있다? [이석우의 글로벌24]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ncWVaWi01VTJZblNkTXJieGdJQ1BnemtjMWdkZWFaWE5JWjVCMzdIdjRhX19zZ0pEV2NtU21wWDBIN29VcHRiQjR2MTFLUWhBNWFSNUhWY1JOQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-06T19:29:00+00:00",
+   "topic": "미국 증시"
   },
   {
    "title": "‘블루웨이브’ 여파로 원·달러 환율 한달 만에 1360원대 터치",
@@ -39,11 +32,11 @@
    "topic": "환율"
   },
   {
-   "title": "AI 규제 우려에 미국 증시 급락…정부, 국내 금융시장 과민 반응 경계",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazMzU1pnVXVOSjFzZ1ItekRKZG40c0ltLUJPbDNxZTNVc3ZNUmljcjEzb3dLQzNMb3Zjc19ld0pOU25ESF9lNDVkLVp1UFY0REo4eXNWaXNrMFdoY3l4dVBQeUJ1VW5JQVNZMFRpODI0TWpkZVZRVU4wTnFqOThaSVZfZnktSE0xSFJTbl9xcVpqdVkwaVFMWFYxdXdCZDFmel9hblFVTmdSRnJMaDFkZ3YweWpjaTJ0TUJwYkJXUFY5NGZPNmkyY3djNm1jelowa0dhalVwaEsyTTZhbVpVa21UMUljSmw3elQ4bGJNZGxxQjQtTVFj?oc=5",
-   "source": "데일리안",
-   "published": "2026-11-05T23:37:00+00:00",
-   "topic": "미국 증시"
+   "title": "'블루쓰나미'에 외환시장도 요동…원/달러 환율, 15원가량 급등 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00M0laMDROY2JCTlhseWhhTlNWWDBHVUF3TlJGMVBVelZ1akU2U0wtbk1mb2RweXJyYmtlMTFSSWVidUNwSnppS0pPYjl1eTNRSUpMVm5wODRWWnpMcFRKdDliZjVwOVFlQk530gFwQVVfeXFMTWFQcEkzRlFvYVJiQV9PSWtyX3BnQzdqSG9wWGhZUGpoY1RxODByQXZvUlpRSUZSdWhaWFZVM1Ezb25iVnRETnpqMnpWZ01DZ05xcGlDRkZTQkJTVWVTNjBxLXlGMF9tT1ZtOHFnMkxhdA?oc=5",
+   "source": "머니투데이",
+   "published": "2026-11-06T00:41:57+00:00",
+   "topic": "환율"
   },
   {
    "title": "헤지펀드의 항복 선언인가? 폭락한 미국 증시 왜",
@@ -71,6 +64,13 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HV2llWmlqX2czNzJ4VVNJX2prR0VRbVFKb1dsUjdORFk2a2F0VWVrU09KNmtJZnRjNHFWd3hXVE1HeGV2cFMteVhpb3lCYmJpYzliSWR6NWUtTFljZlQ5Qk5kRjZaY0ts0gFuQVVfeXFMT2hLZTBSdG9qbHJvbVJMejQ0enhaSmp5VWdBTzc3NXo4c3c0NlRJeG9yT2ZHUUZMdUdMQWFheEloejQyR3VFcUN5aVRXb2JYZ1B5NjBTdWNQVjJ0bnZaMXBRYU9KdURKb3lOX0xrRlE?oc=5",
    "source": "머니투데이",
    "published": "2026-11-05T12:32:19+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "말레이시아 기준금리 2.75% 동결…한국보다 0.25%p 낮다",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DVlVFQ1QtbzZqWnN0SG51bTBWRS1DQzBITDlaVDBHRFA4S2JQVURfdzhmZHpla0NVUno4U01ZVTk0SkhMaTJGbEMtUjZ6QTRfNTlrWWhrRDhUaUxlQWNkM3ZDYUNzOTlOYkx3ZnlB?oc=5",
+   "source": "팸타임스 FAM Times",
+   "published": "2026-11-05T08:00:00+00:00",
    "topic": "금리"
   }
  ]
