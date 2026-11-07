@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-07T07:36+09:00",
+ "updatedAt": "2026-11-07T12:43+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
@@ -29,12 +29,12 @@
    "id": "DJIA",
    "name": "다우존스",
    "unit": "",
-   "date": "2026-11-05",
-   "value": 51523.06,
-   "prevDate": "2026-11-04",
-   "prev": 53356.12,
-   "change": -1833.06,
-   "changePct": -3.44
+   "date": "2026-11-06",
+   "value": 51285.73,
+   "prevDate": "2026-11-05",
+   "prev": 51523.06,
+   "change": -237.33,
+   "changePct": -0.46
   },
   {
    "id": "DGS10",

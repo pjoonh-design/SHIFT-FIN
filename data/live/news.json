@@ -1,21 +1,35 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-07T07:36+09:00",
+ "updatedAt": "2026-11-07T12:43+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "‘블루웨이브 여파’ 원달러 환율 14.5원↑…한 달 만에 1360원대 터치",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNc1ZUdm9mWVFfUHU2bWJsaVZFMnNIQ0ZEWGpld1hULVhycUVSTGxiQWh5Y1VWOGtHTDVNMHFPMU1uT2Z4UFFQa09VTTdFSHZBaFBDWFctaElILTZ1OEx1aHBBZU1uWWNVWW5hdmkzSmp0VWhSQlRBaE5R?oc=5",
-   "source": "서울신문",
-   "published": "2026-11-06T08:15:10+00:00",
+   "title": "[다음주 환율전망] 美 증시 급락에 원·달러 환율 급등…다음 주 1350원대 변동성 확대 전망",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KWXNENy1sUjRGWFBfYjFsZUJTSkw5UGRxRDA1ZmFXR0x1bHRvbHZ6blZWRjAwWDctVVZ6UUpUVV9LTTZ0MWk2QnBtQk91STZ1SW56UXpkUnZtWHFWVUktdFZaajNRMFNXaDNlNw?oc=5",
+   "source": "굿모닝경제",
+   "published": "2026-11-06T22:00:00+00:00",
    "topic": "환율"
   },
   {
-   "title": "원·달러 환율 14원 이상 '급등'…美 AI 규제 쇼크에 원화 '직격탄'",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xNERwOHZjRmNXcmVUYXJIVGFnTVlab1ViQmVQZ053ZnpSbWJVcWo0T3hLMGY1NFQ5emV4dG85bnlOakVvRlIwWndCTTlqMzNvaXBfdEpNOTZhMU9RQnRz?oc=5",
-   "source": "조세일보",
-   "published": "2026-11-06T08:11:42+00:00",
+   "title": "美 중간선거 이후 환율 한 주 새 22원↑…빗나간 '달러 약세' 예상",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VWnUtdXdxaE10cVo3c1JSWDQxVDlIODVzcFNOd3dWN2tTMzY3b0ppNWdrZ0pFN3BGT2hBNmJoem5qV3B0bVc0bGtuSU5rX3dYU1NTTDFQVEhkTEJpd1ow?oc=5",
+   "source": "MTN 머니투데이방송",
+   "published": "2026-11-06T21:00:30+00:00",
    "topic": "환율"
+  },
+  {
+   "title": "1300원대 초반 바라보던 원·달러…'AI 리스크'에 다시 오르나",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RbVdDMzNNdjZ1TWtpLWNNX2NUXzZEUGFONkkzMENOTjFDRURhSDdxVTJLYzRwMThJd2FKMVNNMVhEUWowdmFiQ1JjbDBpN3dRNm1MRHczeW5SZkg2LS03ctIBeEFVX3lxTE03Rm5yOW1BbWs2Vll2YjlCNGZCa21yeDF3Zk8xOUhQUTdLUmY4Y3BTNWRYTHRyaFlHVUFWRkp5WkNGa1NZTnowdGUwM1Z1VVhxRlI3bjBSSTZTd0hhVkFYc1JCai1Lbmg5V1o3QklPaGhMb3k5d0VzVQ?oc=5",
+   "source": "뉴시스",
+   "published": "2026-11-06T21:00:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "미국 증시 폭락 뒤에 지나 히노호사(Gina Hinojosa)가 있다? [이석우의 글로벌24]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ncWVaWi01VTJZblNkTXJieGdJQ1BnemtjMWdkZWFaWE5JWjVCMzdIdjRhX19zZ0pEV2NtU21wWDBIN29VcHRiQjR2MTFLUWhBNWFSNUhWY1JOQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-06T19:29:00+00:00",
+   "topic": "미국 증시"
   },
   {
    "title": "‘블루웨이브’ 여파로 원·달러 환율 한달 만에 1360원대 터치",
@@ -25,25 +39,11 @@
    "topic": "환율"
   },
   {
-   "title": "[속보] 원·달러 환율, 14.5원 오른 1356.6원… 6개월 만에 최대 폭 상승",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNWJaYndjQ29ZSVczZ0NMczVNeFNFbElHNGtaNjZRWFl5SWZDWHV4OXJHZ3N3TV9ycUNLQVkxWWVFd3V3WDNsTGJiMEduZ01NYWpIZ1ZMZ0hmbmE0akFhVzZQNFdBZklIWGs1QjVLRjFtZ1V6OVotakpaWUdXR0tYVFpBTWk0Z9IBmgFBVV95cUxPY0dXZW5mVWYxTU5rWXZrTndjc0d0aUhYeG16VnZyMXpfQUs4ZjE4OEQyRlZZZ0duMDM4Y2kzLV9jcVotYm1JYjdzT29fWWdhQVoxemNhb3dlOVJQVW9tSzlWY2xWNFhhNTJsc3htdFhZWmpTdEtRMHJ1VW9xMDBsVndHODM0ektSbVpLOTZrXzFIY1lrM2M0SjNB?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-06T06:34:00+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "멕시코 중앙은행, 기준금리 6.25%로 깜짝 인하",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rWUxORnpGbU9Mb1RjRk04QTJncEUxdVl4NUtCSGZQS0pleW8yZVF0TkFxZGU1aTEwa2dWUFQ5LUFiQXZKUzRDSEozWUktRzZFYTRnR0ZMT0hPZTZ2TERWc1hVVmRGREp1UE9qUjhJUEs?oc=5",
    "source": "연합인포맥스",
    "published": "2026-11-06T01:32:10+00:00",
    "topic": "금리"
-  },
-  {
-   "title": "AI 규제 우려에 미국 증시 급락…정부, 국내 금융시장 과민 반응 경계",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazMzU1pnVXVOSjFzZ1ItekRKZG40c0ltLUJPbDNxZTNVc3ZNUmljcjEzb3dLQzNMb3Zjc19ld0pOU25ESF9lNDVkLVp1UFY0REo4eXNWaXNrMFdoY3l4dVBQeUJ1VW5JQVNZMFRpODI0TWpkZVZRVU4wTnFqOThaSVZfZnktSE0xSFJTbl9xcVpqdVkwaVFMWFYxdXdCZDFmel9hblFVTmdSRnJMaDFkZ3YweWpjaTJ0TUJwYkJXUFY5NGZPNmkyY3djNm1jelowa0dhalVwaEsyTTZhbVpVa21UMUljSmw3elQ4bGJNZGxxQjQtTVFj?oc=5",
-   "source": "데일리안",
-   "published": "2026-11-05T23:37:00+00:00",
-   "topic": "미국 증시"
   },
   {
    "title": "헤지펀드의 항복 선언인가? 폭락한 미국 증시 왜",
