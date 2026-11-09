@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-09T21:49+09:00",
+ "updatedAt": "2026-11-10T07:41+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
@@ -40,23 +40,23 @@
    "id": "DGS10",
    "name": "미국 10년물 국채금리",
    "unit": "%",
-   "date": "2026-11-05",
-   "value": 4.84,
-   "prevDate": "2026-11-04",
-   "prev": 4.9,
-   "change": -0.06,
-   "changePct": -1.22
+   "date": "2026-11-06",
+   "value": 4.86,
+   "prevDate": "2026-11-05",
+   "prev": 4.84,
+   "change": 0.02,
+   "changePct": 0.41
   },
   {
    "id": "VIXCLS",
    "name": "VIX 변동성 지수",
    "unit": "",
-   "date": "2026-11-05",
-   "value": 28.18,
-   "prevDate": "2026-11-04",
-   "prev": 16.61,
-   "change": 11.57,
-   "changePct": 69.66
+   "date": "2026-11-06",
+   "value": 25.64,
+   "prevDate": "2026-11-05",
+   "prev": 28.18,
+   "change": -2.54,
+   "changePct": -9.01
   }
  ],
  "errors": []
