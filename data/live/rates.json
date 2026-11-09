@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-09T12:51+09:00",
+ "updatedAt": "2026-11-09T21:49+09:00",
  "source": "금융감독원 금융상품한눈에",
  "month": "202610",
  "via": "https",
@@ -60,8 +60,8 @@
   {
    "bank": "한국산업은행",
    "product": "KDB 자유적금",
-   "rate": 3.88,
-   "maxRate": 3.88,
+   "rate": 3.9,
+   "maxRate": 3.9,
    "term": 12,
    "type": "단리",
    "open": true,
@@ -100,8 +100,8 @@
   {
    "bank": "한국산업은행",
    "product": "KDB 기업정기적금",
-   "rate": 3.68,
-   "maxRate": 3.68,
+   "rate": 3.7,
+   "maxRate": 3.7,
    "term": 12,
    "type": "단리",
    "open": true,
