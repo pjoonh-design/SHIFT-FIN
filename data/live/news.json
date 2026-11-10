@@ -1,13 +1,48 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-10T07:41+09:00",
+ "updatedAt": "2026-11-10T12:44+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "엔비디아 4.3% 급락에도 S&P500 2.3% 상승…17년 만에 이례적 흐름",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ac1c0YVRTWHlEemZoWUdWYjh2NGEyLVpBd1V0RVVfY1NlS3otc1RQRWJaR2RMUXd4Y3YtZ0hYNUZOQzJfWTNPTFNJUDRxSWd1?oc=5",
-   "source": "블루밍비트",
-   "published": "2026-11-09T22:04:17+00:00",
+   "title": "원·달러 환율, 3.2원 내린 1343.9원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0FrWnZIa3ROUmVueFQwWnVkMnhWUnhOWUR3VUdFekUyZzZudjZUT0NSR1hQSUdaOUZ5UFQzbVVkVzEwY3VvLWZya0RiMmxPZ2p0TFoyOUhiNEt1MDhBZmQ5MDFSeTNYZ29RRTBQQVJ5M0N4Y1Bxd0ZwcVdpX0FfeWdoaHVvQdIBmgFBVV95cUxOYktzem1ESHI1TWJaRHJnSG41akpBVnhJZWNTOUhnM0RrUGFTbXdfY3N5OXF1NHQzSDJOeVFPOWFXYlg2V2c0Q0F5RW5Qa2N4ZFNIakZBNEw0ZHEzeUUwdUNiTnA3MlR3R0w0RWZZMjg1blRqWFJDWGloaUN3eXRSM2h0bm9JWEd5QjlYaThLenNRX3VPVEt6SWhR?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-11-10T00:29:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "[모닝 리포트] 달러/원 환율 1334~1356원 전망…약달러에 하락 우위",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qdnZXay1iQkV6UmZ4b0VGbjZQdHVYcXNUeGt0cTJZNzdiWUpweXY5a19aMFozd2ZUQ0kzbTFoRmlMaFNpUkFUWjB0OENFcWdWaF9fMk5MU0h2TzRk?oc=5",
+   "source": "뉴스핌",
+   "published": "2026-11-10T00:19:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "기술주 반등 후 미국 증시 선물 보합세…CPI 발표 주목",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSlNsd3hBV0JvSkttdU04NFpoRlpLanJ2d1N1ODJiOThjeDV3WDhXeURPVHZ3THBzOEtWbmUwOEhCY2xud1ROSW00VjdGRmNBcFZrOW1hRzdaeWNQdFA0UlZYV2pMb1RXMjhmejFVdG0?oc=5",
+   "source": "Investing.com 한국어",
+   "published": "2026-11-10T00:13:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[외환+] 미-이란 화해무드 속 약달러···원·달러 환율, 1340원대 출발",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnVThmY1B2QUp3MlBsblRjN3VVRzBlZzl2QzFQWHV3Z1lSOXZ5T1hGMlU5eDIxUWR2dHNOR2lDNXB1YW5sOWx3Q3NjcFRmaU5rUVUxclFlS1JlMl9hM1dtRm1RRWhHWmxzQ2c?oc=5",
+   "source": "서울파이낸스",
+   "published": "2026-11-09T23:50:31+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "[시황] 미국증시, 유가 급락과 반도체 반발매수에 상승",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzLTJZZUV4X0Z6X1ZWcl9hdlk3WUhRXy1WR2xwRnFvcnZnRndObnljekJDbmxfd3IxSUJzY2ZOZDExcm5lV3NSdmVsOHIzS1NIeHlyWFVydktyVHcxX0dRRy1B?oc=5",
+   "source": "버핏연구소",
+   "published": "2026-11-09T23:12:58+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "엔비디아만 빼고 다 상승... 달라진 미국 증시, 추세전환 시작인가",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGMDBCV2xrMDA2NmY5bm5lMEp4WGUza19BN01nSmY1S0tOcllzSllockhUM21jNHlHRVhoc3cwc0s2dTJTdkpXMEtoSTFTc2xiSWR4SUJR?oc=5",
+   "source": "매일경제",
+   "published": "2026-11-09T23:07:44+00:00",
    "topic": "미국 증시"
   },
   {
@@ -18,34 +53,6 @@
    "topic": "미국 증시"
   },
   {
-   "title": "Rollins 주가가 미국 증시 개장 전 오르는 이유는?",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnV1JESjBJbkE2aUZqMFBQMTFOZklOdHBaUmRQV0xUaVBiWGw1SlFLTDk0bGNuaE91QjRnaTMyNWpzSEhSTzc4X2JEZHpfRFhWWHZrclN5QklqZy1pQ09ZbUUzRmtRSHNtMFlCRXc2OXhwNEtHQ1hn?oc=5",
-   "source": "Investing.com 한국어",
-   "published": "2026-11-09T12:21:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "원·달러 환율 9.5원 내린 1347원…4거래일 만에 하락",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jY1lwaVVSUmQ5S2FZSU01RVd2Unk2NEw0VFBha3RWU25kd05pbVhkR3dXWlFCVEMyUjIzb0lya1k0b0VPcUs2eFhzemhHZnc0OEg5SVA2QTdwNi1SOWJPRi1vdWxMQVk?oc=5",
-   "source": "강원도민일보",
-   "published": "2026-11-09T08:11:18+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "원·달러 환율, 9.5원 내린 1347.1원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFBWS2tQUWlDZzFPM3o0a0xvSHFadGtFZ0VNZTd0T19ja2dvOEJyVTlVdlZBUmlRM3paQ0wwVHd2Yk1pTDV1NHRsaUZ3STlvZE9YUkpCSEtxY1B4dW5td2tJblNpYkwwUVdKUUMxc1d6VjQxRUNwYzNuRlBCY1JWRVBUamNEQdIBmgFBVV95cUxQMmdMWXV1MnV6ajBPbkxBY1NHcllOWGtBV2lzVjl3TVJfZjlvTFZsT0JwUjR5eFlXSVlpTXQyeENBS216TGd0ekgyZW9CeG9iQkh2SHFSMnh1eDd1TGlGVkFXMFJKbGZlNkdmMXIyamVCeXAzejJpdDFJZTdHN29oYkRIYUd6WlBRZjNpVkVXTjJwRDhocE8yZlZR?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-09T06:51:00+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "원·달러 환율, 9.5원 내린 1347.1원 마감(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUlk5SGRWWmxsNlZrSUNkQVBHaVBLOVQ5U1NOb0xWTWozSEVjR3pFT2FKbWo0NjNab2lacGpKaGxzWXdIeGExZ3JfM2dhV2d2VmNDSl9KMklWRUlVaE5ZMNIBeEFVX3lxTE93emJERTI5Nk9YWi03a2hvR0QtdklPcFVwV2dUX1B3QmRXeEpBWGxXRzBmZklUbkp5T25oSFdOZXFXeUhyZ2tnR0NRa2ZRRVd6SXZlbnVKWHNUQlpXbktFRUpsRnNCLVA1R09xWFhOdXRzcTRQNVRqag?oc=5",
-   "source": "뉴시스",
-   "published": "2026-11-09T06:43:42+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "[외환] 원/달러 환율 9.5원 내린 1,347.1원(15:30 기준가)",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FOTFyYXMtY1htVFRReHNnczVya2YtQVEzd2xxUGxoUmM5ckJ6eDZmY2k3bkIwMXBwNmt0cUM0S1Z6UG9JaXFtTlNXOU1kVWl4QTRqbUg0U2VzVknSAWBBVV95cUxNUEVHVzZ2RlExaWo0YXd6c3U2bHVLd1VUVE9seUJzeVE1LUhZTHFOZnV1UzlJbjMzOFFaa1NVUnVIb0Nfb0ZHRlhmNFBFdDdVd0lMZzAxdWcwa2dTcVROWDY?oc=5",
    "source": "연합뉴스",
@@ -53,24 +60,17 @@
    "topic": "환율"
   },
   {
+   "title": "반도체 업황 꺾이면 내년 하반기 금리 인하할 수도 … 씨티銀 \"한은 통화정책 급선회 가능성\"",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNenBxOEdtbzdHbnpaeFN3TTFUcVhuRi15Q01TSGRoYlBGOTk4cTBvU0pLR2FXMndWYzRqYTVXWU1qUk5scUNXb01rT2hqZ3BSZzZMd21LLU43cElLaE5MRHVSYTZlOHR6ZTk1dnIwdFBLZXhCQi1lRVpfa9IBgAFBVV95cUxOMUFTVzlxc0RPOXlQWk11SVFaZFp4UzlLdXZDSjF3XzBhZ3FPY2tiQ01LUGhYR2NkN1FiTnFzbDNReE1kbXhrV2xfbXI3cHlRQlZBM3ZnYUdrRUFuYVdINmwxTGYzX2xOSlh5ekEtRWt6ZjFzMUhFUjU5VUFzbXhFeA?oc=5",
+   "source": "뉴데일리",
+   "published": "2026-11-09T05:53:00+00:00",
+   "topic": "금리"
+  },
+  {
    "title": "씨티 \"반도체 꺾이면, 내년 하반기 금리인하…2028년 연 2.5%까지 낮출 수도\"",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ldTFISktneDhXVFNtQTVqLTc4bWhCOS1aVWk1cmRvSzZVT3VmRWctTC1ud2s5RnRrdEZJX211NXl1SDBnVm11MG4zRGVJcTJtMTVVRjRFQm5mMThpNlRVbdIBeEFVX3lxTFBFbm5Ec1BxYmVzY1Y0cGFOVVI0YlotSnZwempDanp2Ymx6M3NHV01acXptdnpDSmVENFhTRUJzOGprQ2M4NGpvMTJNYTZjcEM0b2lJTnEwYjE3OWNUS2ZUaGFzX0xRUGc4YzUycDhyNnlTYlFaV3dUaQ?oc=5",
    "source": "뉴시스",
    "published": "2026-11-09T01:53:43+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "씨티 \"주가 하락에도 이달 기준금리 인상⋯반도체 급락시엔 내년 '피벗'\"",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PWURKTkVGOUpHbktSQkVGMi1GOUFfZEZrcFZQVjZjSDNYR1F5eWtkTDJOdGNUY0haUXR2UzFycVVsRFNhZ2lRNExBS3h5MTB6Q3JUdg?oc=5",
-   "source": "이투데이",
-   "published": "2026-11-09T01:30:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "내년 금리는 어떻게 될까…“반도체 꺾이면 한은도 돌아선다” 씨티銀 분석",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RSkZSZ0ZxbmF4aEVBTlgzWmlwUUk4eHljWEtVWmxGWllTTWpkakhXekxfaE9MVi16azJCVVlyVXBLNEl2WTlneTNGS3A1TDV3OHc?oc=5",
-   "source": "매일경제 마켓",
-   "published": "2026-11-09T01:26:41+00:00",
    "topic": "금리"
   }
  ]
