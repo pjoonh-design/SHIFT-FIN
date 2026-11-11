@@ -1,21 +1,42 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-11T12:49+09:00",
+ "updatedAt": "2026-11-11T21:48+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "원·달러 환율, 4.9원 오른 1342.4원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeTgtT09aWW5ITGRBZXRwSWtTT0x4MzJMVzVKMThuWEpNekNqN3cxUFBDRloyOUJ0dGgzWlYtMEY3dFZMOFpxeFFGRS13NG5oR2U3bXlnMFNyUU5GWlBYWldUdzBwRllXWVp5U2lqNzRXUjJfcmVKVXBZSjFkSXlKbjNBWXRrQdIBmgFBVV95cUxNLXJPRFA0Y0tpWm5VSjFxSzMyR2s0S2l1TTNObXc4amZxWjlsUUhJYkIzaE9vNjRnOTA4MEtwbHZPVEM3ZldoQVhuaEthbUF2cG1LQUsyNS1XRG5TZHgwSExuRFROc0dCUnpUTGRfSE5pb0ZMMXNOaWlOcUNULUZFRElydUFsUjQ4VE5YeG05SlkwQ2pIYlB4VWhR?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-11T00:33:00+00:00",
+   "title": "美 금리 '빅스텝' 우려에도 원·달러 환율 1333.6원…3일째 하락",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yclJCcC1Sa04wOFNWOUsyM3VXN25JaDJFTEwxemw0Q3NsRnZUeEhhRHdsYU5mTHhoQnIyYjQta0VTTTRLMlJSZzlIeVo0WjlhSXEzbnQyTEdMREsySlQxWHNuNHpEWmJZN3VEMGpxVQ?oc=5",
+   "source": "진일보 | 전남일보",
+   "published": "2026-11-11T07:40:37+00:00",
    "topic": "환율"
   },
   {
-   "title": "[외환+] 美 인플레發 빅스텝 우려···원·달러 환율, 1340원대 복귀",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fWHpJQ2toX2JXLThkNmlNNEJpdDZxS1k2OHRaU0QySUhUSGt2N1k5Ql9taTlvYUd3S2JUX1owY2Z5Q1ZEUEFvTDZUZ1FzMGtJeFFqRmUzMUpFMWxVV3Itb19NdnE4cER0WWc?oc=5",
-   "source": "서울파이낸스",
-   "published": "2026-11-10T23:59:53+00:00",
+   "title": "\"최종 3.50% 이상 오를지도\"…美 '빅스텝' 부상에 한은 긴축 고삐 조이나 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5od28wSHI0TmhIRmJPZ2t0ajlxZXBYVGxFVnVVb2h3M2hqa3FtcGxPRXdObVkzQXI0VG03azVrUXptWjR0WlRHTHNGWTl0azNsN3hHZENCY0twU1pYTkczUmpfYzNvR2ZaOGRF0gFwQVVfeXFMTnNxc3hENEUzNUpVd2M2Z0V3R1JvNnNfS2R5aDRibi03Sjl6ZU9iU29kWkVheHVwcy1LWXJ6RFZLcHU4V2ZXT2xGT24zaXEtbHRoLW52Y0xqdUlRVWdKX09TOW9tMHc0ZzY0M0hDS2o2Wg?oc=5",
+   "source": "머니투데이",
+   "published": "2026-11-11T07:28:35+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "[속보] 원·달러 환율, 3.9원 내린 1333.6원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdlluaFYxdDJNTVg0RC1tREFtcUxYVEd5LVhWdHNpTU9wdl9oRk9rUVpkNUpQTk1aQU5xT1RGNDNJWTNFTWZObTAzMHhzUUlLd0JlZU9ET2RVbnpHZjJ6LTdhdDlOSTh6LWpQdXY1ZTAxdmVfZ0c3VWdqQWJ1Tjk2TkZKLWI0QQ?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-11-11T06:34:00+00:00",
    "topic": "환율"
+  },
+  {
+   "title": "[외환] 원/달러 환율 3.9원 내린 1,333.6원(15:30 기준가)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54dVdlLVRnR3FHdkNMYjFwRTQyWnplcGZwSkJTWWxHd1luSUFrR1RqY2xKYWRqN1pndWhRdUgzbm5QVVczMnU2ZGtEOUpNRnlJQUlPd1ZtOGNUbWvSAWBBVV95cUxNVG9ZSWwtZHhNdEU2T3hXcmdtaExVcUpadFFBNmRxaDRGTC0yMlNaYkd1TUI0OTRHTUxzZmNZU09XdzFuaG9ZRUwycWxGczFpWlo5bF9sOWZhd2dLYjBLUXo?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-11T06:30:45+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "CPI에 발목 잡힌 뉴욕증시...3대 지수 일제히 하락",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NaGxmTmVmQWkxZ1daM2ktOWpJOWI3Z2NsdUpXMGJ1RHlJeTcxS3lFR1ZFbThUUGY2dnl4M3kxTFlIQXZaOUNSUU1jSFhXYm5SbFVERFBZblM?oc=5",
+   "source": "네이버페이 머니스토리",
+   "published": "2026-11-10T23:57:50+00:00",
+   "topic": "미국 증시"
   },
   {
    "title": "[환율 전망] 빼빼로보다 길어진 연준의 긴축 그림자",
@@ -25,11 +46,11 @@
    "topic": "환율"
   },
   {
-   "title": "원·달러 환율, 1344.5원…달러, 예상치 상회한 물가에 강세",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02TU9SRUtvRF94a2ttbDEtaEtyTmlycXR4a01qOFNpZWJzNXJFOXNmQ1d4NmJGNDllRXlKWVhKWW1XeHpfbWJtSnp6TEZ6S1dUNm54MXB6Um9Fcmllc0pF?oc=5",
-   "source": "조세일보",
-   "published": "2026-11-10T22:46:43+00:00",
-   "topic": "환율"
+   "title": "금통위원들 \"연속 금리 인상 효과 점검해야\"…과반이 추가 긴축에 공감",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15VDNITTdBOU9yNWtKQXkxN0huaG5VYkVSbmdNamk4NDh2WXRudFhKc3RvSkZGQlhaamh1akdlRzg2dS1sR25kNmx6TldDOW1UNkdDQkxEME94VUtGcVlvUA?oc=5",
+   "source": "아시아경제",
+   "published": "2026-11-10T22:56:08+00:00",
+   "topic": "금리"
   },
   {
    "title": "엔비디아, 젠슨 황 파장에 시총 장중 3위로 밀려···미국 증시 일제히 하락",
@@ -46,31 +67,10 @@
    "topic": "미국 증시"
   },
   {
-   "title": "BNP파리바 \"11월 3.25%가 금리 정점\"…반도체 낙수효과에 의문 [fn마켓워치]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0cUZBSUJ4eE5YVmRrdDlLNE43eENhLXhIS1puNENtdzZPc2lSLVRQSjNjWE5xMFByNHZaVnJVWGRPb3lqNjlGTGY1S3lPM1dyU19rNm4zc1RuQQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "published": "2026-11-10T11:28:55+00:00",
-   "topic": "금리"
-  },
-  {
    "title": "[단독] \"대출도 예금도 이상하다\"…뒤집힌 금리 공식",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiX1hFdDZaX3Vjc2MxdjZ1MU9LaXRJMzZPeE5aUlpHZTBIeGtSTlVUTnFlVzluZXhKTmJBLUh5cjdJNDNIYVh6dWljSGcxdDM4YzJGdDRFcXpaZw?oc=5",
    "source": "한국경제",
    "published": "2026-11-10T09:30:13+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "’금리 동결’한 금통위원들 “선제 금리인상 영향 점검 필요“",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPdFpUUDJKelNBbkg2eUN4OFdmaHZxVVVkdlRQRkU5ekJqLU5tcklscnFXOWhVSUNVanhDbFo4WVFLWERTdTdHS25DRG84UUpVRGY4WGxfaGlVRzJ6aDEwN1g3bTZMUk0?oc=5",
-   "source": "연합뉴스TV",
-   "published": "2026-11-10T08:36:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "추가 금리인상 열어둔 금통위원들…AI ‘증시 충격’ 경계",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBESy1uOWZlaElCNF8zeVFLRjRQU2ZnM1hRNFg2c0ZaSlV3TWM1LUZLUmVla2dnTUZqbWQ3SXFhdGpsUWtlOGVWbEpUN19LZ09EcldLTEJZcUFxQ05kX08yZlM4eUdwd1FXUGNmcXJDb1dUNVU?oc=5",
-   "source": "마켓인",
-   "published": "2026-11-10T08:11:05+00:00",
    "topic": "금리"
   }
  ]
