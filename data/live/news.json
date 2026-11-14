@@ -1,14 +1,28 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-14T07:39+09:00",
+ "updatedAt": "2026-11-14T12:46+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "[EBN 칼럼] 달러/원 환율 추가 하락에 대한 고민 By EBN",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNVRRUHAxV2I1R2JGUENDMmZOdzJOWFlHZHRyMWdhVG9TRm5iVnBYcGdCOUV2NXRqbEd1Yi1NSC1NdjAyaVNLd044NjY5OUNmV3JDbmFfQktjaU9XVkZQaWVHWnZ3Yzl4WWU1cHBqOE4?oc=5",
-   "source": "Investing.com 한국어",
-   "published": "2026-11-13T21:53:00+00:00",
-   "topic": "환율"
+   "title": "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrMmFPX2F5bEN2cDNMMENjTklGeWVCc2VFbXBvRjhZUVh1U3cyX19kWkhZemhOMmV1TExuaGdya183VDZwaDBtS2dPUlNlWnExdFkzR3VSZlVhbFZKejRwSG5BR0hxUVJ5MjlmU0JCYw?oc=5",
+   "source": "기호일보",
+   "published": "2026-11-14T01:39:51+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[미국증시] 트럼프 \"황 지옥 같은 시간\"…증언대 서나",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wODhMRU00M0VOZ3ZkZjJSaC1MXzNVcENOSG02VEVubmpGcDdIY1NYUFFFN2hkYTYyd0I4ZEpJcVI5QzN5QzN3dy1tbGYtQlZ6dm9hSFQ0Z25lTE9kSF9PNVBEVXlTZEk?oc=5",
+   "source": "자본시장뉴스",
+   "published": "2026-11-14T01:13:54+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "엔비디아 8.5% 급락에도 서학개미 1천억 매수…빚투 손실 우려 확산",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kNVFUSFN5QWQ1Vy1sX1RyaGhmQnVtRFVXdDR5TFE3bGJxM3BNS090WkF6amhFcDk5TVZ1X1pxT0tyaFZ1V09KN0M5Y2EtTlc5TkhaMXZfWXI1OTlGX3hDcWtfMkhEUUx1SmlxeUJmZkjSAXRBVV95cUxNYmRWamZsUEtfN0lPRE9EV2ZOZTY1ZENKeUNPeWhkNmExMjZaem9UTEZTMHQzaU1JeXZuOWhxdmNkS19pYXVVTGs4UGx0WFJHdnpBejlLVC1peEg4Q01mdmhiVlVuQTRLVkZ5WEJnNnloXzItcg?oc=5",
+   "source": "산경투데이",
+   "published": "2026-11-14T00:47:15+00:00",
+   "topic": "미국 증시"
   },
   {
    "title": "폭등할 때 지켜보다가 반토막 때 샀다...국민연금 3분기 3900억 지른 종목",
@@ -18,24 +32,24 @@
    "topic": "미국 증시"
   },
   {
-   "title": "뉴욕증시, 혼조세로 전환…나스닥 0.97%↓",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3NU96RGdyOF9HazVqem9yVzlQZlVJOUFBYVhLa0x6eVVlMzg2LTdFUXFTOXdLRlhZdTJZRFFFZk53a3JVS0d3aHJKc0tTVlJU?oc=5",
-   "source": "블루밍비트",
-   "published": "2026-11-13T20:05:03+00:00",
-   "topic": "미국 증시"
+   "title": "[EBN 칼럼] 달러/원 환율 추가 하락에 대한 고민",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xd3pxeEZDVlFIU1RQaE54dm55TEtBUUZTeU45SnBpQXBTejNzR3hZaEtLV0xRckhTZ2ZiSV80M0JtdDduTE9vOFZJYk1BOHBBWDVKbmFDVTBMOHBOdlNuWV9yb3JfWnc1?oc=5",
+   "source": "www.ebn.co.kr",
+   "published": "2026-11-13T21:00:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "'엘니뇨 타격' 페루…중앙은행, 약 4년 만에 금리 인상",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PVUJoX2RSYXFhVEpkQWhqVFNWdTdfOEtLZEZmSEMxTmxiNjdLU2NZcGpac2VoSC12eDBrSDc0bHZnVkx6UzF4NmI3OVREdWNWejNsMEdkRkpJWG_SAWBBVV95cUxNRGpTN251VVBRWHpvM29DVEVrU2MyY1U0bHJfQ2l2aXR6SDIxYnNuSnM3LVlrZjhqdk5nM0Q0NlVhMmNxb0JsZHpFZlQ3TkR2S0VGd1FUcGwyN0hIVnY2Wjc?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-13T16:44:46+00:00",
+   "topic": "금리"
   },
   {
    "title": "달러-원, 뉴욕장서 1,330원 후반대 거래",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03eWFiSktMR1ZhU1Y1Q2FVcXdZM1pDTTdicjBGQllVcWdkRUhjVXRCTDI4bVVlTHBfWW1CTmtWMGlHeWtXMHQ2N1RSMGVoNFJyMGkyeUo4M1RRLTBEYkhiSUwxZ3BHZlVNOG5FZ2UzaG0?oc=5",
    "source": "연합인포맥스",
    "published": "2026-11-13T12:13:36+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "[외환+] 유가 상승·기술주 투심 악화···원·달러 환율, 1330원대 중반 마감",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Gekt2Vnc1RkpBNVh4T185bVZzS3M0a2oxbDJrZ3JvX21mVTVRREx0aE90RUJKTm5CNEhZam9HcFBuS1pTMkYwRGxSOXRfTHBxSThZb01Zelo3eXU3VmVGaVhpYW9FV3c4dFE?oc=5",
-   "source": "서울파이낸스",
-   "published": "2026-11-13T07:52:16+00:00",
    "topic": "환율"
   },
   {
@@ -46,32 +60,18 @@
    "topic": "환율"
   },
   {
-   "title": "국민연금 미국 주식 평가액 36억 달러 늘어…빅테크 강세",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NQjZhOVNMdUhsOWhsMVR0ck9iVjBOcWZMaXFYVFFVTjFDcy15UnFkVE5DYzVscVlWOUFUWHJFNDN5NUJvZllLTDZfUEgwakI3MFhuWnowRUJnQkxZM2ZaNl83V1pBbVk?oc=5",
-   "source": "연합뉴스TV",
-   "published": "2026-11-13T02:54:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "‘호미질의 결실’이라더니…美 빅스텝 변수에 韓 경제 고금리 덫",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBYkN5RnJJdUVqTFFJU1BnM1ctU2NoSU10dC1uZnJ0NTlOTllnVHVJdHBIamFTUXhMZUtrNHIyMFphY3ZqY3Y3b2x0ZlF1XzNjQ29DeTA5aUFzSXk4V19SUFpIZjVXMkEzVUtV0gFvQVVfeXFMUE1xYVhrdUJsRFJsSW5ycU12ZVVOTU1leWt5U09BQmlIRTh6dV9tTWZYNGlrNTVFVTY4LXlkTHJsLXd3NkxZTnBUa005RmFsN05MOWpuWnFMRFhOVlk5U1VFaHhMelV3ZXdfR0h2NFI4?oc=5",
-   "source": "펜앤마이크",
-   "published": "2026-11-13T01:50:14+00:00",
+   "title": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
+   "source": "연합인포맥스",
+   "published": "2026-11-12T02:25:40+00:00",
    "topic": "금리"
   },
   {
-   "title": "美 '빅스텝' 거론에 한미 금리차 확대 우려…소비 부진에 한은 '딜레마'",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MR1VUY0JTRWFyZzhGcmRoTndJMnJuaE5uejV4Y0t5VDlJOFl0Y3FEOVB6ZzJheGJseXJlZDRIMEM5WklfUW9DeVlPc05vSWtZUkFkYQ?oc=5",
-   "source": "뉴스1",
-   "published": "2026-11-12T21:00:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "미국 연준 12월 기준금리 인상 전망: '빅스텝' 가능성과 한국 경제 영향 정리 💸",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUEJmVVJsa0V4d1NoSkpvYzVZYXJzeTVpdmJ1VU9JZmVzNTg2RzRxTlYxNG1kZGtMdlozSW9jUHNvTEhVLVVoRGNmTXd6RkE4cEdB?oc=5",
-   "source": "뉴닉",
-   "published": "2026-11-12T02:25:00+00:00",
-   "topic": "금리"
+   "title": "[환율 전망] 반도체 주도의 수출 호황, 여전히 풍부한 달러",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LR0Z3LTFQZjFLSng1RmFyckdrY1pIVlZzMjZ5eFQzWm5CVGhMajFlcEpXY3JpX3J3VUJyYjRQVC1HcUI4cXZmZERJUklLeFl6WTlzd05NdjZ2NXJrM0pPWg?oc=5",
+   "source": "KB Think",
+   "published": "2026-11-11T23:11:45+00:00",
+   "topic": "환율"
   }
  ]
 }
