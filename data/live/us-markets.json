@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-14T12:46+09:00",
+ "updatedAt": "2026-11-14T21:30+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
@@ -18,12 +18,12 @@
    "id": "NASDAQCOM",
    "name": "나스닥 종합",
    "unit": "",
-   "date": "2026-11-12",
-   "value": 25366.09,
-   "prevDate": "2026-11-11",
-   "prev": 25466.19,
-   "change": -100.1,
-   "changePct": -0.39
+   "date": "2026-11-13",
+   "value": 25136.27,
+   "prevDate": "2026-11-12",
+   "prev": 25366.09,
+   "change": -229.82,
+   "changePct": -0.91
   },
   {
    "id": "DJIA",
