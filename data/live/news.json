@@ -1,19 +1,40 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-15T07:32+09:00",
+ "updatedAt": "2026-11-15T12:47+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "\"금리 오를 텐데, 짧게 굴려야지\"…은행 단기예금 470조 돌파 '역대 최대'",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YMnBGd0FKRUl2Y2hhdVJtOGpDTXd4anh6UlAxR09vTFpRdnZwVUxJS2FlaTRZdjF4cTN2QnRFOVc3RE5xVHB1amhqNTE4M2pRRmhEZGk0SDdmWkhfSFdrMdIBeEFVX3lxTE5QZTN6MFZwUVVrZUR1VlBkX3JWLTUydWo4YmJKSjZ3enBYb0RrV1g1Q1M0aGlUTjRuTlZHRmwyX2tnVFAzVHVmMV9ENHBLbFlYV1BlNDZWU3Nrb2hLS2tiU1ZGY1prTmVmaXhUOVlYLUI1ZW51Z0ZNUA?oc=5",
-   "source": "뉴시스",
-   "published": "2026-11-14T22:00:00+00:00",
+   "title": "가계대출 다시 증가…이달 기준금리 인상 힘 받나",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qYmpMSnhmYWUzY3lpVmhJWTlpRG8xT2h4Zm90dGVwTUREclJKMFo0M0JIcXZLU1R6LUhWNDUzaktkVVRPOWpJNlpPOTdGR2djSU5Ebk9mbDctTlJhc2ZneXdwQ1AyQThKZVM0?oc=5",
+   "source": "비즈워치",
+   "published": "2026-11-15T03:00:02+00:00",
    "topic": "금리"
   },
   {
+   "title": "다음주 국내증시, 미국증시 전망 : 슈퍼위크, 엔비디아 실적발표와 엔트로픽 상장",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb25ORktEY28yOGRYcGhlY0poeldHQ1lfZ1d2OGhBd2NNUVVRQm42UEdmbjRyUHR4Rmh4dFU5ek9yQi1SSzhBRFRMQWRSdllmd20zcnJwQ1ItRHc4TE1HZVhsUVBTUWZmMk1kOWlrX1BzMU1PbGctb0cycjlwdUVlOWFsYw?oc=5",
+   "source": "네이버 프리미엄콘텐츠",
+   "published": "2026-11-15T02:12:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[이번주 환율] 강달러에도 1330원대 지킨 환율…이번주 APEC 회담에 촉각",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53bExJUkhBaHpmMnp6cDQ5MVBxOUttOGNDeUJwMlB3Y2NGdEZrWWluVHlBUHJTY1d1RlVxZ0Z4c1YzLURXdVJGUENXYUJRV1VSSVRvaWpNYmlnS1hsUloxdVlGTlhieldNUi1LVFloY1pOUQ?oc=5",
+   "source": "오피니언뉴스",
+   "published": "2026-11-15T01:52:09+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "나스닥 23시간 거래 초읽기…韓증시 '머니무브' 촉각",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKVUhkZWY4c21pck9yVUtILTVTRkFXbjBMUVBCRTN3Q0xBYVBuQV95bmtycjZMUzFwUEtfNEF3NkhtSTVFMGtxNy14Qlh5anJ0M1duMg?oc=5",
+   "source": "이투데이",
+   "published": "2026-11-15T00:44:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
    "title": "나스닥 23시간 거래 D-3주…\"美투자 확대\" \"국내 영향 제한적\"",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wV19QV2FVMlJSQ2Y2TGNoeHlORE9UaUtQZFAyS1dLWXNZaG12QzltRVVBMjBLaTRoSy1rcFZWSHJuVnlyWkozMWpuSG13azZJTnc?oc=5",
-   "source": "매일경제 마켓",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CLUc2OWJoU3c0NF9KYjVXSm5uRW1saU5UcXlKT3MwZXRRWjlpRFhRVWpDN2NyQlhYOWE0dDB1VkVIMGRkejJ2cG9OWUVTMzBObTBjOXd3NVhGMmvSAWBBVV95cUxNam1HV2QwTENuRzNaUzhoRzFFQVY3SVF1VXNEaG1fV2lhU1F6Sm1TMHpnV1hFVlZfUDIycXdqUjZMR2ZaM3J6M21qRnNSMmp3eGp4NjdrejdJQTRPOHdrNlE?oc=5",
+   "source": "연합뉴스",
    "published": "2026-11-14T21:25:00+00:00",
    "topic": "미국 증시"
   },
@@ -25,25 +46,18 @@
    "topic": "금리"
   },
   {
-   "title": "미국 증시 매도세는 끝났는가? S&P 500과 반도체주의 2027년 전망이 엇갈리며 월가 AI 버블 논쟁",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOWNtSUx0VTY5ZTZtQVAtamZXMHpZQ1REUVBrVHB5eXRncEZsQ01VRFdwNEQzaDhNdjczQU5zMGg4V2J6Q2QyUHAwRzV3alpFLUUtU1hfQXFfN3V1OVpsd3hJOTluZ1Z6bEpLLUZaY2VCdkdDOV9qWmphS1UxQkRPYXdmSVVOQzdmRFlWQmU4QmN4ZDJOVUJobXpEX3dnYl9EOERFYkdkZXd4Z0Y1YjZZWndrUGx3dnVhMmFTNGxDZ1lWVXRwZldlLVRYNzF4MUhlSzVlZXJiXzFwVEJlZk9JVg?oc=5",
+   "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5",
    "source": "TradingKey",
-   "published": "2026-11-14T20:19:05+00:00",
+   "published": "2026-11-14T18:15:58+00:00",
    "topic": "미국 증시"
   },
   {
-   "title": "강달러에 환율 반등 압력…'반도체 달러'가 막아설까[주간외환전망]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRjhFa1RxcHlacXA5cndvOUpCZlRyMjZUY2pqRlRleU1uelVCRUhwblVFRG5lUE9xRHB0Vm9CUnBxVmc3SkZSWFY2bmt0cGNzTkJncTRrT1NNZktpTWQ1dFZEQzB3MnNob20zMGRkS19wUDdjemRUOFBncGlGZG85Wg?oc=5",
-   "source": "이데일리",
-   "published": "2026-11-14T20:00:13+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "증시 운명 가를 '격동의 한 주' 시작된다 [월가 업&다운]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KWnk3cDlxbE9kSnFRYUhWZTdxTG15WlJGcVlrenJzcGEzNDNMVHlHcUMtOHJGSDVFRTVuTmJNYUwwR3haSDNEWFdJMkxLbEZCOUg4d193NUhmZw?oc=5",
-   "source": "한국경제",
-   "published": "2026-11-14T15:11:13+00:00",
-   "topic": "미국 증시"
+   "title": "페루, 계엄이 아니라 엘니뇨로 비상사태 선포...…중앙은행, 4년 만에 금리 인상",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uR3pYUmdWZ0FNOExESUJ1T2ZpQ0xyOGs5aW5TMFdSQU9Da0poS0htbkZNdUUzQkZPU2VRM29mcWJiSG12SFkxZ3gtVVZkRzdGUUlJ0gFYQVVfeXFMTXl6a0phaFdkSDUzWFFreTN4QXpucGhPcC00M1l0Wm5lSmZDdUJlYW0tT01VeW5QZ08xQUNpdXdYM0JxQ0tXRXotc0VlNG9BdHBnQ0RnOF9oeQ?oc=5",
+   "source": "SBS Biz",
+   "published": "2026-11-14T08:22:00+00:00",
+   "topic": "금리"
   },
   {
    "title": "원·달러 환율, 6원 오른 1336.7원",
@@ -53,25 +67,11 @@
    "topic": "환율"
   },
   {
-   "title": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-11-12T02:25:40+00:00",
-   "topic": "금리"
-  },
-  {
    "title": "미국 연준 12월 기준금리 인상 전망: '빅스텝' 가능성과 한국 경제 영향 정리 💸",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUEJmVVJsa0V4d1NoSkpvYzVZYXJzeTVpdmJ1VU9JZmVzNTg2RzRxTlYxNG1kZGtMdlozSW9jUHNvTEhVLVVoRGNmTXd6RkE4cEdB?oc=5",
    "source": "뉴닉",
    "published": "2026-11-12T02:25:00+00:00",
    "topic": "금리"
-  },
-  {
-   "title": "[환율 전망] 반도체 주도의 수출 호황, 여전히 풍부한 달러",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LR0Z3LTFQZjFLSng1RmFyckdrY1pIVlZzMjZ5eFQzWm5CVGhMajFlcEpXY3JpX3J3VUJyYjRQVC1HcUI4cXZmZERJUklLeFl6WTlzd05NdjZ2NXJrM0pPWg?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-11T23:11:45+00:00",
-   "topic": "환율"
   }
  ]
 }
