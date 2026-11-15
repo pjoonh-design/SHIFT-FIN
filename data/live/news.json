@@ -1,8 +1,36 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-15T12:47+09:00",
+ "updatedAt": "2026-11-15T21:31+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "K뷰티 열풍, 미국 증시까지 확산…한국 화장품 기업 투자 ETF 상장",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdmFLamJSMXFlOXI3Z2sxQmh6T1lXZzJWeVMwc0xzQXJpMllOa096TXNqOUxQUVhJUVRrcGlGMlBEVndzS3BlNldCdXJfbnp4OGhabjhwTDRsMkJTVlhKcG9mWHVsYkdMSXJtbUEzME1JdVN5SUQwWHk3TEZBT0o5VDlpWkVBdw?oc=5",
+   "source": "뷰티트래블뉴스",
+   "published": "2026-11-15T11:13:35+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[EBN 칼럼] 달러/원 환율 추가 하락에 대한 고민 By EBN",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNVRRUHAxV2I1R2JGUENDMmZOdzJOWFlHZHRyMWdhVG9TRm5iVnBYcGdCOUV2NXRqbEd1Yi1NSC1NdjAyaVNLd044NjY5OUNmV3JDbmFfQktjaU9XVkZQaWVHWnZ3Yzl4WWU1cHBqOE4?oc=5",
+   "source": "Investing.com 한국어",
+   "published": "2026-11-15T08:51:34+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "금리 올려? 얼마나? ‘가계대출 1200조’ 앞 복잡해진 한은 셈법 [주말 Q&A]",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlWHI0WWZMNkdiQnAyd0xubzNpenA0UTRpRHpNMUVZdVhkTFpJSUFOODhoNHFZMmI0UTM4SC1JMHRSbzlnUldYd1Nya0tpRlhJOFoxR3NpazU5SkJkY2d3QkMxamxlZTh1R05XdGJR?oc=5",
+   "source": "더스쿠프",
+   "published": "2026-11-15T08:25:08+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "\"내년 환율, 달러당 1320원…원화 강세 전환\"[주末머니]",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QZktnNEV0d2ZQekhoZFhwcHljRWFfcEpUS3NEUG1IeVhnaXUzOXVyVVdlWTR1eVZYVC1YNmtnOHRWOWtrdWQ1ekxONHk0RDdoOFJyUFBTVm9pUmNEaHFTMUJn?oc=5",
+   "source": "아시아경제",
+   "published": "2026-11-15T05:15:17+00:00",
+   "topic": "환율"
+  },
   {
    "title": "가계대출 다시 증가…이달 기준금리 인상 힘 받나",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qYmpMSnhmYWUzY3lpVmhJWTlpRG8xT2h4Zm90dGVwTUREclJKMFo0M0JIcXZLU1R6LUhWNDUzaktkVVRPOWpJNlpPOTdGR2djSU5Ebk9mbDctTlJhc2ZneXdwQ1AyQThKZVM0?oc=5",
@@ -25,25 +53,11 @@
    "topic": "환율"
   },
   {
-   "title": "나스닥 23시간 거래 초읽기…韓증시 '머니무브' 촉각",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKVUhkZWY4c21pck9yVUtILTVTRkFXbjBMUVBCRTN3Q0xBYVBuQV95bmtycjZMUzFwUEtfNEF3NkhtSTVFMGtxNy14Qlh5anJ0M1duMg?oc=5",
-   "source": "이투데이",
-   "published": "2026-11-15T00:44:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
    "title": "나스닥 23시간 거래 D-3주…\"美투자 확대\" \"국내 영향 제한적\"",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CLUc2OWJoU3c0NF9KYjVXSm5uRW1saU5UcXlKT3MwZXRRWjlpRFhRVWpDN2NyQlhYOWE0dDB1VkVIMGRkejJ2cG9OWUVTMzBObTBjOXd3NVhGMmvSAWBBVV95cUxNam1HV2QwTENuRzNaUzhoRzFFQVY3SVF1VXNEaG1fV2lhU1F6Sm1TMHpnV1hFVlZfUDIycXdqUjZMR2ZaM3J6M21qRnNSMmp3eGp4NjdrejdJQTRPOHdrNlE?oc=5",
    "source": "연합뉴스",
    "published": "2026-11-14T21:25:00+00:00",
    "topic": "미국 증시"
-  },
-  {
-   "title": "'빅스텝'까지 거론되는 美 연준…한은, 내주 금리 올리나",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHWktSUC1rZkx0bFFRWC1pQTYyS0ZrUGN0U3dHT1BZTUhhYVp4RDBpWjFnSlV4c0RmZ1pYSlIzVWpLNVJoeW1aUzI1Vy02LTVjb1FzQURYcjh3ZzBaZk1na9IBeEFVX3lxTE5TSVdVVjJjczhwZllhWkxsMnB4a2ZzRnhQbVM2cDNGWjF5NG1iNmJMMGE1c0RwSVdkRktMUmhoVzZvVTFtQXV3clhBOHBSRm5Ca2FlcWdDVkt0T1RHSDlBbVhqdEUyUXJhTURoS2x2bmEwNEhQQ2F1UA?oc=5",
-   "source": "뉴시스",
-   "published": "2026-11-14T21:00:00+00:00",
-   "topic": "금리"
   },
   {
    "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항",
@@ -53,25 +67,11 @@
    "topic": "미국 증시"
   },
   {
-   "title": "페루, 계엄이 아니라 엘니뇨로 비상사태 선포...…중앙은행, 4년 만에 금리 인상",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uR3pYUmdWZ0FNOExESUJ1T2ZpQ0xyOGs5aW5TMFdSQU9Da0poS0htbkZNdUUzQkZPU2VRM29mcWJiSG12SFkxZ3gtVVZkRzdGUUlJ0gFYQVVfeXFMTXl6a0phaFdkSDUzWFFreTN4QXpucGhPcC00M1l0Wm5lSmZDdUJlYW0tT01VeW5QZ08xQUNpdXdYM0JxQ0tXRXotc0VlNG9BdHBnQ0RnOF9oeQ?oc=5",
-   "source": "SBS Biz",
-   "published": "2026-11-14T08:22:00+00:00",
-   "topic": "금리"
-  },
-  {
    "title": "원·달러 환율, 6원 오른 1336.7원",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTNEMi1fdmFINWY3VEo1WENLUjBOWkdDcXJVVERCWFhCMlUyaFNGWEx6V2txNEh0RzYzNFpyUGZpUGxBZUFRb2FDX0x3d0NPWGo3S0tueDV5bVFQN19RTU02OFAyanIxM1NGOC03SEIzNy1QdUFoYzlkejBPUG9TaDdPT3pfd9IBmgFBVV95cUxObzVSblFvc0JZbnhhdzZ2c2tfMHl4QUhJYVFHdFRPNlZrV3VXdUU3VHVZVmI2WEp1Yi1QdzA4b3BMTGlENl9XaWd0RmQyRDhEMEZlVTVJalVQZWl2R3p6bk5xWnFhdHJ6S1dRZGNnYVZwZUFMekM3Yk1mX2RoY19ndjliWmVCd3NVOENkbDJiTnJUbzN0Y3J1bjlR?oc=5",
    "source": "Chosunbiz",
    "published": "2026-11-13T06:51:00+00:00",
    "topic": "환율"
-  },
-  {
-   "title": "미국 연준 12월 기준금리 인상 전망: '빅스텝' 가능성과 한국 경제 영향 정리 💸",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUEJmVVJsa0V4d1NoSkpvYzVZYXJzeTVpdmJ1VU9JZmVzNTg2RzRxTlYxNG1kZGtMdlozSW9jUHNvTEhVLVVoRGNmTXd6RkE4cEdB?oc=5",
-   "source": "뉴닉",
-   "published": "2026-11-12T02:25:00+00:00",
-   "topic": "금리"
   }
  ]
 }
