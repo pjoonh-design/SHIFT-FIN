@@ -1,13 +1,48 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-16T23:43+09:00",
+ "updatedAt": "2026-11-17T07:43+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "센토라 “미국 증시 급락일 92%에서 비트코인도 하락”",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PS2pIemF3VVNvdDUtbENFNy1qdXZnUUgxMGdFY2JrbUZFaGRYWk55a25LM3ZoQXdqc3o3d2IxR3ptaktjOWd5R29xVHltVm1TNUgwYmtHeFRPUnR3VEdhTF9pMzlFbjlTT250d1R4MA?oc=5",
-   "source": "Korea IT Times",
-   "published": "2026-11-16T12:40:07+00:00",
+   "title": "뉴욕증시, 엔비디아發 악재에 3대 지수 급락…나스닥 2.49%↓",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZHhXMTZWM21GbGNIUWJiSnZyVDVTMl9WQTZQNHYxTkJ4Y2J5R1VoemFxMktzN3JPNThjTGNqM1VZblZOd3dxWV9vQ3B2N09peVNQYzFiVXhrQU5nZVlEelRUa1k5dGhXM2NlUGNBbDbSAXRBVV95cUxNQWdBZnUtWFU0OEJNeTlGRXVXeHg3Wm1XUFhtQVhwdnNxeFhXT3BPb0Y2ZXQ3dTN3ZWVUQUdUelNxTTZEME5ySWYyblRmbEFzSXo5MWczR0pDYjB2bVlwNmJGQTdhM2laSVVyM0pyWTk1Z08zRQ?oc=5",
+   "source": "산경투데이",
+   "published": "2026-11-16T22:15:39+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5",
+   "source": "서울신문",
+   "published": "2026-11-16T21:09:06+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "반도체 호황의 역설…올라도 꺾여도 크레딧 ‘뇌관’은 남는다",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hZTBaMlg5aW5uQjVneTdFSXVNcE5BVndHSlZxNDlNYXkwR3JyT2hKbTVYQXZYeXlpR1h1TW9ZUlRSV2QzU1lFTDZmLWZnTzItWXdqbWZSczBha2xPaUVYX19jSUZadFlBb3lMWFpsM2F6VGs?oc=5",
+   "source": "마켓인",
+   "published": "2026-11-16T21:00:08+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "우루과이 중앙은행, 기준금리 6% 동결…인플레이션 위험 균형 유지",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lQjhpVEFRbGpYckZGRXhJWElnVlRtQ2pxSUJrNjBxWHFNd2JPcGplMXUwTVFjT1lXVUhIOXNTRWFBNjh2SWdQSW5SVnYyMHBaa05IWEtoUWFiTzhnSS1zV3MxbTl5cmM?oc=5",
+   "source": "Investing.com 한국어",
+   "published": "2026-11-16T20:50:00+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "뉴욕증시, 하락세로 전환…나스닥 2.26%↓",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yUy16T1hnbmpjaHg3REoyRnoxcDJ4S2dwbVhlMXUwS1NkMEc4X2VjZUhFdXU2Q2hkWW5tS1F2bTFjX1ZuejN4OFRwbm5nSlVQ?oc=5",
+   "source": "블루밍비트",
+   "published": "2026-11-16T18:26:36+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "헤지펀드, 2주 연속 미국 주식 매도…골드만삭스 By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xWUZBRlkzU0Ezb05pVk5YRTJiVnZnb2ZudDNISTFac3I3Vm5nVVIwVHlKWUNJcVVEeU9fMDVVeXVtVUhDa09YOG5LTVhHZTdfZm51aEZFd0FkaDFid1RPRU9INzZxTTk4QzZHVUFJTWtzTHdPejBN?oc=5",
+   "source": "Investing.com 한국어",
+   "published": "2026-11-16T12:09:00+00:00",
    "topic": "미국 증시"
   },
   {
@@ -16,13 +51,6 @@
    "source": "머니투데이",
    "published": "2026-11-16T08:35:39+00:00",
    "topic": "환율"
-  },
-  {
-   "title": "‘블루쓰나미’ 후 급락한 미 국채 금리와 유가, 다시 슬금슬금 오른다",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDkyMkM0RVcyUVNqQzZWaXUzbllOS2pIbmdLMFVQLVBIT0s3OU5pUDZPakI1NWxDdkJLa1hzZE40SjZlLWd2YWNVWE9NM2NidkFKdzNyTVUtV2JmbXhMNEVKU2g4ZlRGVDVWLUpMekRmazJsN1A0aVhBMG9lME5OS1RUcVI1TWFUMEdCaVAzdDlDcnhaNTNlRkstdHBGdmF6T3ByMVBnX05aaHRo0gFfQVVfeXFMTVY5QzNRM1Q1UVJ0V0VUQTZDbEtrQWxaOUJQdFZNWS1jOEZZb3gyMkVzaExHUXBSdy1ZdG5YQV9ubW45bHpmbzRhUm85Nm5aRWdZZ3ZXaldybnk0TmJnNVk?oc=5",
-   "source": "경향신문",
-   "published": "2026-11-16T08:34:00+00:00",
-   "topic": "금리"
   },
   {
    "title": "원·달러 환율 1,335.7원 마감…중동 불안·긴축 우려에도 하락",
@@ -44,34 +72,6 @@
    "source": "매일경제 마켓",
    "published": "2026-11-16T07:23:51+00:00",
    "topic": "환율"
-  },
-  {
-   "title": "[속보] 원·달러 환율, 1원 내린 1335.7원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR0MwSi10YjcyaEo2X0ZMdV92d1lzQWpLMFduSVE3T3BSZXBSRGl1OGE5NEkzYllIOGVyYm1Vd19PZDNHQUtSc3A4cVVfTFpyRG5pTGx3cUQ4WnQ1ZTMwclJpQUtUUnB2YXR3Ml9RaVNuSEtjSlAzT2lBYXV2NGZlVGtsS2VvZ9IBmgFBVV95cUxOeUkzUENXY2NSbjV6QjBueHNNdV9FYkw1MWlFNkVXUlBLRk9NQVdyRFB3NkdRS2FOdUw1RVpsbldZQlA2WExYYlpFUElqTXd5SVpYd25nN2Zpb0dyMV9ZdDc4UVJxVjZKZUc0V1VyYnlWXzJac2FsSlprVktNeS1PUzBTVEpLcU84MFVqMWhKWjQyWlBfbVNHR05n?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-16T06:38:00+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "젠슨 황 불륜이 글로벌 증시 흔든다…美 금리·엔비디아 실적에 ‘촉각’ [글로벌 레이더]",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVMHFJWk5PNUFrdUpBd0R3OUNpalZQbmt3bVNxMG0zc0JDaUZXT2ZRNnBTbWNhQWtIcEI1REo0aEE0cHRVYm5kT0ZabDh2c01aUXh1R2hob1pjOGc?oc=5",
-   "source": "에너지경제신문",
-   "published": "2026-11-16T04:36:11+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "증시 덮친 ‘앤트로픽 수급 공포’···삼전닉스 2차 매물폭탄 쏟아지나",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sMm42SEdYaEdrcVhOZjNJTzVfQ3pkT1V1WFVtVUNFRTdwdjFuZWNNMXBPUjhjVGFyOXZWc1oyUGpUWDc2blBCelA4X2l2Q002WnRNVDBIQXJmakJ1XzNCOW9wclFHc1FEVVp6cVBZNDdtd9IBdkFVX3lxTE5PRnZ5ZmVyU004alNQRlFsME9leGpKZ2dDQWZCU3Z1R29Qc3E3T0RsaDVrSjN1YUdrMWQ4LWlZY3RHWDMyYjFGaHhUS3V0MS0tLWp2bzFVZjdnS1M0c2RsVlRXQm5aSTRfZzJuOUUzQWNSVWY4VFE?oc=5",
-   "source": "시사저널e",
-   "published": "2026-11-16T04:21:21+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "월가 \"연준이 금리 안올린 건 실수\"…한은은?",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSE1fU1hWQnhpN2NvcFZuTUNPY1Z1bEhCdDNhSGt3WEtUUVRMYWRvWHdUS3VnMFhXOFBPSGVqekVIV2RzV1RzZ0x1dHljNVlIMVhPekxvNmFjX1FTWlF5ZUJIM1FpVWp6ZW1NOWNaUVM0bG1ybXJUemVRbWF4S3BpQlJIS0YxSFJQN0Z3aTZ3?oc=5",
-   "source": "조선일보",
-   "published": "2026-11-16T04:02:53+00:00",
-   "topic": "금리"
   }
  ]
 }

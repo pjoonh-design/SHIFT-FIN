@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-16T23:43+09:00",
+ "updatedAt": "2026-11-17T07:42+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
@@ -40,12 +40,12 @@
    "id": "DGS10",
    "name": "미국 10년물 국채금리",
    "unit": "%",
-   "date": "2026-11-12",
-   "value": 5.1,
-   "prevDate": "2026-11-10",
-   "prev": 4.98,
-   "change": 0.12,
-   "changePct": 2.41
+   "date": "2026-11-13",
+   "value": 5.15,
+   "prevDate": "2026-11-12",
+   "prev": 5.1,
+   "change": 0.05,
+   "changePct": 0.98
   },
   {
    "id": "VIXCLS",
