@@ -1,21 +1,42 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-18T21:52+09:00",
+ "updatedAt": "2026-11-19T07:49+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "엔비디아發 훈풍에 코스피 반등...원·달러 환율, 5.2원 하락 마감",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XaS1IRTJqRi00aDg0U3JjVHpTV3ZfdktxQ0JkaVdCYnlOQmx1dHIxMjhNN1NzbGFKMDhUNTYyeVVLazlDSFB2RjVhWDQ5eEI1WXFoZzFydXg4OGozdzZqN2MxdUw?oc=5",
-   "source": "베타뉴스",
-   "published": "2026-11-18T11:08:46+00:00",
+   "title": "엔비디아 실적보다 AI 투자 부담…힘 못 쓰는 뉴욕증시 [월가 업&다운]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10OTJBTVVhbVFCVXFla2tYX2tNUTVQWU5sdjRtaTQwTHFGeERwbTZYSjIwRkotdjBEYXF3cWdTeUt3VlpGUFFacFNOejI5Slk5RWtBbWZvdG0xdw?oc=5",
+   "source": "한국경제",
+   "published": "2026-11-18T22:15:45+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "AI 증시 한파에 명품주 일제히 급락…미국 부유층 소비 심리 직격탄",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRXlseF9Temd0MkJnX1JCaUVMc2JRNjJpX1F4Z3VwNHNMdlFZdTE0UWVxLXN1RWFUa2ZZVnQxc3E5SWRTdmVPcE1JNFZGbHJ2d3h6LXBQWFJDZmZmLVVnbTBaMXVoNXBxRGNCY3Iwc0NpLTA2OXhUYU1Zd3BSbFlGMG0yZ0NNdUMt?oc=5",
+   "source": "글로벌이코노믹",
+   "published": "2026-11-18T21:00:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "달러-원, 뉴욕장서 1,330원 초반대 거래",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51MDdsVGpPS0lHdG9mR3hhZ29JaHFrbXZOZ1d1cnBCbDdNY3NkX1NGNU9PXzg2ZUZNS3ZZbUNSNHNTUE44V21yVjlRV0ZGV205UGJqdzhUUlFBc05NdHlBWC0xdmprdFJoNnczWlV0MTJEdw?oc=5",
+   "source": "KB Think",
+   "published": "2026-11-18T12:37:23+00:00",
    "topic": "환율"
   },
   {
-   "title": "[원리금 폭탄] ‘기준금리 인상 기조’ 변동형 주담대 금리 더 높아졌다... 차주들 ‘비명’",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtPZ3loWUg0dGR1WVh0RFdBOTBkMnBLTFEtaEFuMmhDWFdtVnVqajEwTGFnWEN2UkxCT01DQXNjM2NoT1RkSGZEaFluQmdsdzhtZTE2UjhteGlyVXUwNkl6dGVpQ2NsanVQaEtObl90Uk1XbVB2eEI2cHVjblZlWWFoZk4?oc=5",
-   "source": "글로벌이코노믹",
-   "published": "2026-11-18T09:00:00+00:00",
+   "title": "'루피아화 가치 사상 최저' 인니, 기준금리 0.25%p 깜짝 인상",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CcERpQ0hpOTV1ODlGcjR6STgxNS01VVc2SzZ5bzY0Rlc1Q3k1Z2h4Tml4akNrZmVqT2cwNVRWdUplVVl1bGk2UFJWVmdJZWdKQnVxaTZ4dmlpak3SAWBBVV95cUxObXNhb3dpY1A2cGFOOFVDU2F6Y29iUE1ic1FuTU5rVUNaYTlzREFYRVpoeC1jdEJsQWQzNHAwZzdhNkVpVXQ4UmdVakNxWWZkdkt2UUUwRDNNZmJMQVFNRVo?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-18T08:59:48+00:00",
    "topic": "금리"
+  },
+  {
+   "title": "코스피 5000선 회복에 원화도 강세…달러 환율 1333원으로 하락",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb3dBd1VmRVBTM0FjVGJMNlJWSEREaXVvWG1EWW5BWUx5bFI2UmM0VW9BQ3NiNW82WjFBUW9sQURKeFFDSjJSakpneWtKUE03RnZlc2lETnIzQ0ZxdTBxLTIwUm91RUVIUEFOWHozYw?oc=5",
+   "source": "진일보 | 전남일보",
+   "published": "2026-11-18T07:16:31+00:00",
+   "topic": "환율"
   },
   {
    "title": "'5천피' 탈환에 환율도 하락…5.2원 내린 1,333.0원",
@@ -32,45 +53,24 @@
    "topic": "환율"
   },
   {
-   "title": "AI 투자 둔화에…내년 글로벌 기업 이익 증가율 ‘반 토막’",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oR1c0V3FCY3VyaTFnd1drSHo4QkJ2QWpqWDh0QVUzam1vNkpWY1hNelNBZF83UGdTdHJrSlNsMGVFd3NWeEZfekJreFdDWW1kMm80VWVVM0YyRVdEVGpSdFQyLXVLd2xfbEp1dWcxVjBBZzA?oc=5",
-   "source": "마켓인",
-   "published": "2026-11-18T06:30:17+00:00",
+   "title": "젠슨 황 복귀설에 흔들린 뉴욕증시…유가도 급락",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MYmJLZENVVTB1aFBadWlwLUpQT3BfNHF2YXVlN0FXal9sbjZtUDJMS0NsMVpUdW5FUlVZMjFXR0tGbHhiTWdYbDZXOW9LemlaSUE?oc=5",
+   "source": "네이버페이 머니스토리",
+   "published": "2026-11-18T03:47:37+00:00",
    "topic": "미국 증시"
+  },
+  {
+   "title": "원화 강세에도 금리 더 올리나…환율 안정 이후 한은 선택은",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lS0ZpVGhBRVVQbExtNm5IS3hkWF9JTnRWbWtBVUdUb1RMWl9RdnVuNnlpU2lZNHdBc3lPNFBCT3VZYTdyYllKMkkyQkpnMVpWb05JcmxqUHN3N05uczNZYmI1aXpoSkhDeHdUb3RUYmg?oc=5",
+   "source": "연합인포맥스",
+   "published": "2026-11-18T01:34:00+00:00",
+   "topic": "금리"
   },
   {
    "title": "내년까지 기준금리 오른다는데…주담대 변동금리 ‘또 들썩’",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yd0kzWU5ZTVFDc0VCZTktdjQwRkxvR1B6MGhRU2VJVUd0SHVxNVIzdURzTUV4V1VIZlJDZF9CWVVRR0h3ZHJqQmdMblloQkpoS2oxa1hWR0ltUkE4OEE?oc=5",
    "source": "에너지경제신문",
    "published": "2026-11-18T01:00:56+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "잇따른 전산장애에 투심 위축…반도체주는 반등",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mQ2dwV1Z0NFB3UjF5dTA0a1ZpNW1qbjhWWVZiWVlhaGFOcXNGYTEwcm1CUzRHLUxkcm5lbmVoVmI0VXJNZ0phR0xET2Nvd2pKaDVYR09oQzc?oc=5",
-   "source": "네이버페이 머니스토리",
-   "published": "2026-11-18T00:58:51+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "골드만삭스 \"내년 말 S&P500 8700\"…기업 이익이 상승장 이끈다",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ1N0QkxpVXJOZmx4VFQyQWdCeEVweXI0NDVLYndvZi16V0xTcG9TVUpaSDdnMzh1YTR5ZVpVYndHMG41b3pIYVJnRGhiOUxBVllyaUVUSVNySDdlRFJpWEJsX01vRWV5bXFLc05OZFRsdXhVZGRJc2xQamZRLUhrQ0lyMVlEdUdw?oc=5",
-   "source": "조선일보",
-   "published": "2026-11-18T00:15:18+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "[환율 전망] 구조적 수요를 압도하는 공급",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VRnF4RGUxM0RYODFfNG5lTVNxbFd2MWNjeDktaHluYnlRZjVhMFo5TjdyeGZZUjVlOWw5S25tcGJxRzY0ZFlNYmVTblBxREhjQjVMQ2xQUlQ3dlB1aURsMw?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-17T23:04:19+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "주담대 6% 뚫렸다…물가·환율 압박 속 한은 ‘딜레마’",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNmc0TUdHcEZDMF9CN2pyNzlFbUgwYlBTcW1GbU5mYlZZSDhHck1zQVItNjVhRTZna1FBUWdhZjNPU3BDSjBnTU15SXV4aFprVlpLSlBYUll1UGpsclBiT0NVLTNOSmVOYkdnYWVYSWdIVXJUWS14T3Zxb1RPQ1lMSGJYNjVyOEUxSkplYURqUk5qVW42X2d5VlVKY2VQdFlxdWotVWhzeE4yZENHb0lFbVlLT0pIXy1VUzFJa1U5VU1sdkR3SDRRR2ZSRGNwTU01U3hYUFAydmZ5Y0xDTVJWRHFLTDJneTJvUWx5REZSam95Z2FMOXFKQUg5STdvZGJqQVNIZzRta0FONFhJOHc?oc=5",
-   "source": "데일리안",
-   "published": "2026-11-17T22:05:00+00:00",
    "topic": "금리"
   }
  ]
