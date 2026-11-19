@@ -1,42 +1,56 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-19T12:52+09:00",
+ "updatedAt": "2026-11-19T21:54+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "원/달러 환율 10% 떨어지면 가구당 생활비 16만원 절감 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iODJhQWZhZkp4eGZRZ0JlX24xdUVEOFFkbzBOVVV5azhYNkFwczFyN3owWDZqTUNvZ3VkYzJOX0NUbHRIOW1PNnZOV0JhZk5YdVNhZ002RXRfZ0h4WndnYzVEOHVFbTlwenJFbklqd0RfMGVRcXotadIBfkFVX3lxTE9LY3RKVWVJaVRtVW1XbUR5cnRpQmhxZFVlMmdULWVvQzlScENFeTJNdHl2YmV6V2JNMC13b2FtUEkzUHZoOThzeHVSajhlTi1Fa1F1RTI1QU9vUkk3RUthTDRCSm1kU09aRUhPUWIzZTRuZkN5NmNkNzc2Q2ZoZw?oc=5",
-   "source": "머니투데이",
-   "published": "2026-11-19T03:00:00+00:00",
+   "title": "달러-원, 뉴욕장서 1,320원 후반대 거래",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzcldPV2ZxdzBtYnZYc3Z6ZUdpZ1FsZVBXZUJTb0gtSGVtb21wd2RHUm9pZ25tNnlIVHNQeWwzUWxHY1lhLUxpZ2RCYXFFTDdZdmhNRndacWs0aHFWTWp6WDROUVBDZGhNbXlsWkNJb01kdw?oc=5",
+   "source": "KB Think",
+   "published": "2026-11-19T12:13:41+00:00",
    "topic": "환율"
   },
   {
-   "title": "수능 날 달러-원 환율은 어디로…20년치 기록 살펴봤더니",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKR1pQOVZRZDlkcmhNRE5iekZsdzBxWW0wY1VkUVhQa0o1ckxPQVZpQV90WGd4Mk1Sb3NuTkJoeklIdFBQTkVGYnJKZUhKdXVVNVJmX1JuT2FFTjhjV3ZOMzVjWGlaaktnUU9nM1pveXo?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-11-19T01:13:36+00:00",
+   "title": "올해 마지막 한은 금통위 D-7…물가·성장 압박에 기준금리 인상 무게",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OV2I0ZDRPUjZzT0hXeFJTNXUwaktJUTRfdjJsb2pia3MwMUlYaDdPVWZ5RTJQOTAyVzdYa3ZHNm1yQXlzRkY4cHNkRnlGMlYxcEtudi0xNDZtMXM5Rnd0ay1JWDVqMlF0U3NLQdIBcEFVX3lxTFBLTVlkeXJ1UEhXMzB6NUhTRXMtYW5BeVluZWJRNGowT0RwZGN5eFZGMFQzY182ZkpVX3kxMUIyWEpMTmM3QzB4V3g4UklsOU9fX21QTWRKV0pFU1RQQ05Ha1RnSEF6aDlEamlOZkx2SHE?oc=5",
+   "source": "글로벌경제신문",
+   "published": "2026-11-19T08:04:20+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "달러 강세에도 원·달러 환율 나흘째 하락…1,330원선까지 내려",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kQ1ZsajJocVNWaXA3N0lUQnljXzBlNHFkODBVSTNDREVpTm5Tbi1feXNBdWNoU01ac2pVYjdINXEtRFBsLVFVcTBHNktsdHVMNmFLSEFwRUpJWnVSa2xhZWRnZ1lkT0dReUNYRDJLQ3nSAXRBVV95cUxOU1QxUUhwRUVpZTIxMTU3Y0J3eEFqcUNoUVJLSDNaMlVvWnJyRjUtNVdLVS1jOXlSc25iZVk3eGM5OWdtMUdLRU9zSjhBcVU4TTdUdkVUQzJwWHJad05VV0llMzFzck5UVTNCV0sybUJqS3haVg?oc=5",
+   "source": "산경투데이",
+   "published": "2026-11-19T07:35:17+00:00",
    "topic": "환율"
   },
   {
-   "title": "원·달러 환율, 0.9원 내린 1332.1원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWM0NXkzNlhycVVELWJXcEpYTHllUzRmWW0xWWZLQmpTanBxeWhteS1YOEpXQ1BDSzJmUXVTT25Cd2poUlhueXhzR2E0NlpSQmJ5VWIzMGF3eWtFaFJfWS1HRlE2eXVpQmd4YjE4MGVIaEhWSWVlSENvNUlWVm5SZzNsOXhIUdIBmgFBVV95cUxOWVJScEozSkdpQ0x1WTBKUEpnZ1hvZmw4MGRPcGVGV0hFNVc4a0FXdTNSSGp3ZnFLVURfUkpEUzczY04xTWs4dWIzQ20tQ1lqLTlxNUNhVGJvUXNkMmlrTlpzQzFaSlBvQXFIc0JoOS1SWlVUWU43dWIwaU5kbEE2bGlpZ09tZGU3VEdJWVYtc2htdndHTzRuckln?oc=5",
+   "title": "[금통위 프리뷰] BNP파리바 \"11월 25bp 인상…최종금리 3.25% 유지\"",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KbmExMDhFanVxLXJHaFRwb0IxYmlreldJdDVfQ0F4dzYzdWtEQVNEZ1Z2VmFkVXdNNm5scVNQdFY4dTRnajVJTzNhb1dDWDZKR0FySE81Qk5BTzBMVFJ6REM2aHBzS1AzTjYxX3dNNjlZUQ?oc=5",
+   "source": "KB Think",
+   "published": "2026-11-19T06:57:52+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "[외환] 원/달러 환율 3.0원 내린 1,330.0원(15:30 기준가)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GeGk2djZ4dE5WUmRSSzlUZXBsTERsZjJTc3AwTUNndjZWcmR5NGpFOTk1Nl9JbGVLaU1lMktnU216MnBxWmFqcW9pVGJqdGJ6QWo1TkhJZDBiV0XSAWBBVV95cUxQeE9iOFZ4UW8zQnh1blN3RjFuNnhuRVZCcHhsMTg3eTR4Q3ZXMzFoVGxKSHI2S2phM1JNbVl1ZVlsMVotZWpzQ25hcnBSNXp6QUpVTDhpUE8xVERYbEo3UW4?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-19T06:53:18+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "원·달러 환율, 3원 내린 1330원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1ZwOGE2NkIxckhyWHd4blRoa0lidGlVb0x4ODVFaHNtNlBvMDZtMDZfbzRubkpVRGlqd1ZxV2FVeUExbEFfaktFZktERkUzVU40dk81ck0xbnNIc2I2eElHNGZwX3pmbjVBTFljWmpWZUJtZ1ZYZGozQ19wcUx0VU1OTVZ6Z9IBmgFBVV95cUxOUFpTZnZVME8wYTVHU3pFcm5ybGtOeHNHM2sxakd0UURscWZqS2M0Q3M4dXh1bURiM25lRVJJQmk3ckVIRnR3RFR5TUVpT0RuOXpXVjNmdkNwY3ZTbU5tcE5QSDNGb1Y4RXJfRHgxdGFsbmR3dEtELWRJR2VDdUhNWTlFZ2tVOE1CUGFlekpmcFZwSTA5WXRiQTZR?oc=5",
    "source": "Chosunbiz",
-   "published": "2026-11-19T00:33:00+00:00",
+   "published": "2026-11-19T06:36:00+00:00",
    "topic": "환율"
   },
   {
-   "title": "삼성운용, 'KODEX 미국S&P500' 연초 이후 개인 순매수 3조원 돌파",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIQjZJRi16aTBNZ0dpcWFjRkRncXNlaHdobHQxNTRGZ1NXU2tPR1BfbWpmb1ZFaVh3RkI3RXNnMkxRQzBKa0RTbVo3dUk1R1I0cVQzNHRxZ0I1NG5PMUlSc1NYMnU?oc=5",
-   "source": "매일일보",
-   "published": "2026-11-19T00:07:51+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "[모닝 리포트] 달러/원 환율 1330원대 중반 등락 전망…수출 네고가 강달러 압력 완화",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JU2xVc1VOR1NDVVJSM2pnTER0anhKRjIwRHBjTlo0NW1lQm5LUmR1aDZpeGtkZkdGdUtFbUNVWEZDTkk2QkNGaWtDZEtydW1IOThxRVBvb0NVMERn?oc=5",
-   "source": "뉴스핌",
-   "published": "2026-11-18T23:54:00+00:00",
-   "topic": "환율"
+   "title": "[인터뷰] \"Q 늘면 최종금리 의미 없다\"…명목GDP 먼저 본 구루의 조언",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6OFk5MU9naUZRVjVwbVV0LWRfLUJWNGxqX2tOc3pFcEVjbGh4OWVudGJrNEtXQXNDZ0dyQmlUVVZIWDJOTExGM2xjNUFYREl5ekhreTBkRDBnc1R3Zng0NVhwT1VpNV9XV2JxNHdiZms?oc=5",
+   "source": "연합인포맥스",
+   "published": "2026-11-19T02:00:21+00:00",
+   "topic": "금리"
   },
   {
    "title": "[미국증시] 빅스텝론에도 장기금리는 오히려 내렸다",
@@ -53,25 +67,11 @@
    "topic": "미국 증시"
   },
   {
-   "title": "원화 강세에도 금리 더 올리나…환율 안정 이후 한은 선택은",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lS0ZpVGhBRVVQbExtNm5IS3hkWF9JTnRWbWtBVUdUb1RMWl9RdnVuNnlpU2lZNHdBc3lPNFBCT3VZYTdyYllKMkkyQkpnMVpWb05JcmxqUHN3N05uczNZYmI1aXpoSkhDeHdUb3RUYmg?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-11-18T01:34:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "내년까지 기준금리 오른다는데…주담대 변동금리 ‘또 들썩’",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yd0kzWU5ZTVFDc0VCZTktdjQwRkxvR1B6MGhRU2VJVUd0SHVxNVIzdURzTUV4V1VIZlJDZF9CWVVRR0h3ZHJqQmdMblloQkpoS2oxa1hWR0ltUkE4OEE?oc=5",
-   "source": "에너지경제신문",
-   "published": "2026-11-18T01:00:56+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "기준금리 인상 우려에 서울 집값 제동 걸리나…급락보다 선별 조정 무게",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xRWF3QS1LbEtBZHY0dlV5Y19fVzhxNjRBRkdIZnp2Zl9xaHJIcHc5U3ZxZjdQb0JhQ3pVNk45bmtka2h4c29WZ3NhdDUzTm9TZjFtdkZIRlQzY183?oc=5",
-   "source": "뉴스핌",
-   "published": "2026-11-17T21:00:00+00:00",
-   "topic": "금리"
+   "title": "엔비디아 실적보다 AI 투자 부담…힘 못 쓰는 뉴욕증시 [월가 업&다운]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10OTJBTVVhbVFCVXFla2tYX2tNUTVQWU5sdjRtaTQwTHFGeERwbTZYSjIwRkotdjBEYXF3cWdTeUt3VlpGUFFacFNOejI5Slk5RWtBbWZvdG0xdw?oc=5",
+   "source": "한국경제",
+   "published": "2026-11-18T22:15:45+00:00",
+   "topic": "미국 증시"
   }
  ]
 }
