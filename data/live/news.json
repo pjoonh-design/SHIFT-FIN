@@ -1,14 +1,35 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-22T03:31+09:00",
+ "updatedAt": "2026-11-22T10:59+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsMWE0eGVaN0ZQSXMxZWtaVTVNZlEwVEhjUnZ3LUphOGdVQVVxdTMtSUxEaU5mMllDZGlUNTJSQUFac2NHbnlkU0lhaEdrYklDTk5HZ2pDdFpVdnk5TkNMZ1JLLWJBR05aZ0HSAW5BVV95cUxOWlk5SFN0YWZVQ1pJZTNtN1pGbkVjN0VKMnFwVnZFTDQ3bDVqbzRJdUE0OTczM0lkckxHakN0WDJsb01rVEpMcXpIeGhNWkdLbWNBNk8xOW1Ec3Q3OXFxRjduSHpVcy1ueHdJdlhiQQ?oc=5",
-   "source": "주간조선",
-   "published": "2026-11-21T14:40:17+00:00",
+   "title": "올해 마지막 금통위…금리인상 '마침표' 찍을까",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80TWg2SXdwSGw5UDVwaGJFd2xnS0FpMUllVVEzaWtPSHVKcGFfM3ZJY0dNVy1iWDVyTVVSUUNpbmFuMlFZNFhzeGJqbmtFdUtzNzhwR2JzaWFkdVIxVlYtVkJRT3lYSFIxcEd3?oc=5",
+   "source": "비즈워치",
+   "published": "2026-11-22T00:00:10+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "나스닥 5.28% 폭락…앤트로픽도 하루 만에 공모가 수준 하락",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXducFhxSHY2b1BuWkdjQllVSjI0LVRzQjFMMktxSDE2eE1BNFc2NUJUN3N4eU9qdi13RXhEbUlTVGM1WHNGVVhBWWNfZVYtczFMZGdqd25idm8zaHdNZ2tJMjlud3dtc2x6MGtNMmtzUWp5VG41NjRjNVlsVk1sY2Jn?oc=5",
+   "source": "한겨레",
+   "published": "2026-11-21T23:44:00+00:00",
    "topic": "미국 증시"
+  },
+  {
+   "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSVlQR3NzWjNIdEpnZF9KVVNnOEFYVnM0cVppaXZfSjZXSHl6UlNYRnB1UUFtYU5PV0xUQmtDSWgtMjRvdmdWUzA2dzl5eFk1M3JxUS1kWHJsblnSAWBBVV95cUxNV1puVTNuemZya3lBTnF3ci1jZ1pxSW0yVXp6NTBGQlRXZmtjZGxFczgta21UV2hpVWVSVGV6Mzd5cTdoVk56VEZ5RmNPblM1eTV2OGJ1X3NQREZDUU5LTWg?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-21T21:00:06+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2a2w0dkxyOERFRTZnSW0zUEJsUGtWUDZmQ0hkWnJERFlpeElnN2lwcHEzSWhFZmhILU5LYVdzZzFJaGE1RU4tSFF5bWdVczhkZDd6RjJVZmNrRVnSAWBBVV95cUxPOEFtQTczV1JEYUFMb2ZFVlk1LS1VeEFOVEhBT2RHRVhIRGx6dUxMSmVTeDBwNE5MYVVLaEN6ZkNBRVM2T0V6eXhlQ012clA5RVJVMi1MR3lJMXA2bmd4enY?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-21T20:45:01+00:00",
+   "topic": "금리"
   },
   {
    "title": "개미들 덮친 170조 폭탄…패닉셀 부른 '숨은 리스크' 있었다",
@@ -25,25 +46,18 @@
    "topic": "금리"
   },
   {
-   "title": "[N위크] 올해 마지막 기준금리 인상?…디지털자산법·금융쇄신안 공개",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnODRENGZMajJuTjlMeXNJMUFMYWxwSm40ZUpwQkdfR0FlWEZ0cVZaWWl1cXo2d0lSTEkxbmZsN1lPakU2Zl9WVTZ2SmJPeXZRYVNsNGhQWUJyOEQyaXl6c3F4SQ?oc=5",
-   "source": "조세금융신문",
-   "published": "2026-11-21T00:04:59+00:00",
+   "title": "한은, 금리 인상으로 기울었나...'5천선 붕괴' 증시 향배 등 내주 경제 핫이슈",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMDZ6RnhOUnFiNnhvdXdVZk9keWg1VmU2eDY2T0JXaV9KV3FVLUZ4cjJUUnNhLVhyY09wU29BczQtdVgtM25YY0l2ekhBOE16YkVTdDBtM0Y1Zw?oc=5",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-21T04:15:09+00:00",
    "topic": "금리"
   },
   {
-   "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52cUt2Wi0yWDlZN2VObUxMZUdhN3FlWUN4MjA1bmN0WGV4MlZtMElPaXRuUW1fZnN4U1lRcVFwbF9RdWh1bmRpbGdYM0h3YlVuRXZlWTVLam9UVGvSAWBBVV95cUxObENidGxwYjlpZnNjWXZfWkdTUk93anp6c3d4X0NSRFRlUms2cktEbnExN01BMG9VT1BtT25BUVVxVVRfby1MdXRQWXJHWXJxLXY4VHpZOG0yTmhZeXh1WEI?oc=5",
+   "title": "환율, 강달러·주가 급락에 6.2원 오른 1,336.2원",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9namJzWFFzemtnY2F0RG1mc2pjSDdHdkJJTmxZWnZIVHVUa0wxNUZwSmlHT0F1cUVzbDRUOHlyV0ZlSjJRSFZRV3N1M0xXMzFvVzR5ZGxMc2ljUmPSAWBBVV95cUxPNVZIQUNnZFhQUmp6UVFQVG5oZ1pKZWFvWmF6cEp3bkdFWnlWVEhiOWk4ZUJWdVlOajh4dW14SWg3MVlJWE1aV3BqcUFuUmtaXzZDQzBoeENPMi02Q2tsMkc?oc=5",
    "source": "연합뉴스",
-   "published": "2026-11-20T23:36:08+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "엔비디아 14% 추락에 나스닥 5.3% 폭락…미국 증시 덮친 'AI 쇼크'",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzdm5aWGdGdDd6Q3U5T3JEZ0FVTmFlSV9UaDZKWVVqXzl5VURUYUcybXRRUjNyNkFoT0dJY2o3TmIzcmJkbVlkdjBtT2E1YnZXY2N6WElPaU51cE9EUEpGQXladWozOFZfOFctUEVabw?oc=5",
-   "source": "진일보 | 전남일보",
-   "published": "2026-11-20T23:30:50+00:00",
-   "topic": "미국 증시"
+   "published": "2026-11-20T06:53:40+00:00",
+   "topic": "환율"
   },
   {
    "title": "원·달러 환율, 6.2원 오른 1336.2원",
@@ -58,20 +72,6 @@
    "source": "KB Think",
    "published": "2026-11-19T23:06:44+00:00",
    "topic": "환율"
-  },
-  {
-   "title": "[뉴욕증시] 앤트로픽 상장은 매도 신호였나…2%대 급락 마감",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsM1UySkQ1YmdONUNYZV82VjczODNrVU1GZVVKa3pKSGJ6Ym1COGdFaUJjOUpMb0RQVF81X0o1QjlaZGZnYWM4RlVrNmt4aG5VVFUwdkF5U2tJT3JQamxuR0FoQ0N0aF9FRGwyaTBFemQ?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-11-19T21:53:18+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "②빚 1200조 시대, 주담대 금리↑...차주도 은행도 ‘한숨’ [머니+]",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xYW0xeVZLRnViZHJBNXNMUG9WNjVaTTZJMFd4NjNQTkhCaUFiS3B5RkJfUUpsZGtBRDNNTUFneHRGZ1R4dk42X0J0T1RJTVZWa19xSlR4REVjMmM?oc=5",
-   "source": "에너지경제신문",
-   "published": "2026-11-19T07:29:49+00:00",
-   "topic": "금리"
   }
  ]
 }
