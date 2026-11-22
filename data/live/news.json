@@ -1,8 +1,50 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-22T19:56+09:00",
+ "updatedAt": "2026-11-23T03:52+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "'검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04UmNoVkMxUEc1cjIxbHJHRlNaM3F6U2c1VEtsSUFrU2VEUVc3Vm40Sm9OV1ROeUJrNWlJemVtTUlrd2ZrVmpEMG83ZkgtNGpPbzd5Y0N3eDRpcEhULVRwcjFqSllJRk9IdnfSAW5BVV95cUxNM0xZNGpzWE9Ra05rYkh3U09LTTM2NGtIRTA2NWZkWXh3Uk05NU1hLWJlRmxUQWFzUEd3M1dvM0NIZkhCbzk4Y2xaQzgxeWVkb0FGQzNSMmR3S0dLTks1VDFnUmRUSElXZ2pjQnNyQQ?oc=5",
+   "source": "주간조선",
+   "published": "2026-11-22T15:55:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fcndpbmpMc1ZTZE54ME5UVEpic2NaUUpxeUx2c1lyQS1zZElQenZmUFJJbl80bXMwZGQ0SHlHZWwxOVJhZnlDY2pZMWdlZWlWRGFzWFd2eGk0bmfSAWBBVV95cUxNLTg0UjVEVDVUdmI2VklWTHZKMERvbDRJT1RpY1U0aVl4OHZkVjNrSFR1ckU4Skh2X2JsUlVCOThiakhfMzNja3NlN0FVcXVnVVV3NFFTTTBEaHNDVzcxbkQ?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-22T12:51:42+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "증시 급락세에 정부 긴급회의 소집…증안펀드 투입 ‘만지작’",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40cDI4YkNJVkE1UVYwVTh4SWo5LXNEVDEwZHJOTzNSQm5kN0w2dktEcUZtaXd6RjJsRjdDcEF4WEd1UHg4ejZQRDN6VWZ2N2VQb1RrSVRrS2xBZVk?oc=5",
+   "source": "KBS 뉴스",
+   "published": "2026-11-22T12:03:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "'검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DRkNyQmdrYUtGWWtrbEQtLW1qMk5vTXF0MFNQQVpRSzN1b00wcm1aZDVmbzdtNDdpRTBneWRqTzdnZnJyRzBRZldkNWZDSDZva0t2MFluRHljb19OcTZSNUJSckR5U1JDUFg3eGlCenI3TDUyTnFHQtIBeEFVX3lxTE1qS0NmaGMzOUFrTXM4Wk4tdWxzdXVQTDJNTzlPMHlwWlVYd19DbTlWQlVrWm5RVVhZelk2bHE2NEtXUmxUbjNOd3EtQng4OS1UZFZJWmlGdlNWRGNSS0tHTVhaSkplRXJJVGgxa2JlNTdBRmh6cmwydQ?oc=5",
+   "source": "MBC 뉴스",
+   "published": "2026-11-22T11:04:48+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "한경 이코노미스트 전원 \"이달 금리 0.25%P 인상\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDQ3BuNFZldENQRTVkNkQyZHZaY2lFOEFfRDVGRlNjdVZBMUlOMWF6VmRtWUIwck9jQ0t1dm9nNFQ2dVgzQy1CTll3REFrYklhY1dWc0tCOUxxdw?oc=5",
+   "source": "한국경제",
+   "published": "2026-11-22T08:44:37+00:00",
+   "topic": "금리"
+  },
+  {
+   "title": "\"고물가에 추가 긴축 유력 … 26일 기준금리 0.25%P↑\"",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fbE1ZN2VnUHdTald2cjhfVTNMSUozQm0ySm9IMWhXN2d3RUNEb19vcTRiTWlnMWtKS1N4M3VmVGE1d2xCODJ4WG94OEVlN3JtNllBUg?oc=5",
+   "source": "매일경제",
+   "published": "2026-11-22T08:36:00+00:00",
+   "topic": "금리"
+  },
   {
    "title": "원·달러 환율, 연말 1380원 전망…외국인 주식 매도·美 긴축 변수",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLRVZSMld5Q2NLV1FKZFhhYVRrb3hIZjVzTzgyZzJNVXZVZlZGWUFIZjZFZ3Q3OVUtS3BsQ29ETXh3TTRWb0VrTHJBOXJkejZJ?oc=5",
@@ -11,59 +53,17 @@
    "topic": "환율"
   },
   {
-   "title": "[주간환율전망] 뉴욕발 AI 쇼크에 1340원 돌파···긴축 경계 속 방향성 탐색",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zSVEzR3RTRmhHWUNkZkhTRU1SQzBTXy10dUIxVGFLa1QzU2czTV9ZaGo3TlF1ZlFqZXBSQkVxcVoxbmM4aU9fU2E3OTFDcVozdWtuOHJTU0c5ZksxcGhCdlB0dmRUb3U5elE?oc=5",
-   "source": "서울파이낸스",
-   "published": "2026-11-22T07:30:00+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "금리 내릴 땐 나란히, 올릴 땐 ‘껑충’…신용대출 이자 상승폭, 예금의 2배",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90S19nZmhmWHpEWXE2eGxoNHJfY09VWjQwWWdmMmxFUG9TRVUzVTl4bndHVTczZk1lVHpQXy1kSjV2SjNPRXVjeDdkRU11OUw0VGFfOVZBOUpnSWItM0ZId0JB?oc=5",
-   "source": "미주중앙일보",
-   "published": "2026-11-22T07:15:00+00:00",
+   "title": "한은, 기준금리 인상 재개하나...美 PCE·성장률 관심 [한동훈의 위클리전망대]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wTG92WUFYMkx2RnBSMnRFcGdFcW5RM2ROZUtuUHl5OTR5QzVVYlJOZS1ZVXY1UFptNDk0Y2J5X2JDZlBoWVp4eHpJdFMwWXowbWfSAVNBVV95cUxPUk01TFpLWFh3bU5WLUtNcHlrdzNzdXlRSFFRMl85UG84S0UyaHpZZHRMWGc1anRvUGI0U2h4Y1d2VVN6a0J5czhETms2NjByaG1LNA?oc=5",
+   "source": "서울경제",
+   "published": "2026-11-21T21:00:00+00:00",
    "topic": "금리"
   },
   {
-   "title": "미국發 증시 폭락 우려에 정부 긴급 F4 소집 … 국내 안정 대책 논의",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrcDdLMkxZWlZNdzNyVjVvUnVkTVV0NGxzeW0zYThFNUxkaGN5UHRFaGtFTGE4a3pHRmdUbkdZZVVjWkwzcWcxZ0NHYXRxcU81RlU2bk9tS2w4eFFvbWRSeXFLd1hjdm1LOUtEZkpWZ2xWeEM3SHVibkluVdIBgAFBVV95cUxOMXVjLWdvcmQxcmxscmhvZEdhRGZvamdpM0EyN0pOd1pyZHRnR3lzMk4zcW03dFBmR0NXekZ6TEluZmtTcjIwUW9vc1dvZTliR3BqSXRwdmdEeFF2ajNOYjAxeXRkYTV0YWMxUXNvNVQ5enBoMjBvaHMxU0ltcVRJaw?oc=5",
-   "source": "뉴데일리 경제",
-   "published": "2026-11-22T05:42:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "주말 美증시도 ‘패닉 투매’... 韓 “월요일 개장이 두렵다”",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMU52c0RGUGxhc3BKQk5YQ0ZrWWdhNGVROFJHaWQ5TFJsaTZTME5vcng1Q3dZc3NfSjh4RXpSQk52VTRpM1A5dzZFU3FycTEySjNZNzFDSEY5MzRKbmdQT3NpRVVpeDJtcS1RNWlwX2R1UlY2V2xYRGxtYXA5RHp4NnRQT2N3VFVuMFBj?oc=5",
-   "source": "조선일보",
-   "published": "2026-11-22T04:56:35+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "올해 마지막 금통위…금리인상 '마침표' 찍을까",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80TWg2SXdwSGw5UDVwaGJFd2xnS0FpMUllVVEzaWtPSHVKcGFfM3ZJY0dNVy1iWDVyTVVSUUNpbmFuMlFZNFhzeGJqbmtFdUtzNzhwR2JzaWFkdVIxVlYtVkJRT3lYSFIxcEd3?oc=5",
-   "source": "비즈워치",
-   "published": "2026-11-22T00:00:10+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5",
-   "source": "TradingKey",
-   "published": "2026-11-21T23:26:11+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSVlQR3NzWjNIdEpnZF9KVVNnOEFYVnM0cVppaXZfSjZXSHl6UlNYRnB1UUFtYU5PV0xUQmtDSWgtMjRvdmdWUzA2dzl5eFk1M3JxUS1kWHJsblnSAWBBVV95cUxNV1puVTNuemZya3lBTnF3ci1jZ1pxSW0yVXp6NTBGQlRXZmtjZGxFczgta21UV2hpVWVSVGV6Mzd5cTdoVk56VEZ5RmNPblM1eTV2OGJ1X3NQREZDUU5LTWg?oc=5",
+   "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52cUt2Wi0yWDlZN2VObUxMZUdhN3FlWUN4MjA1bmN0WGV4MlZtMElPaXRuUW1fZnN4U1lRcVFwbF9RdWh1bmRpbGdYM0h3YlVuRXZlWTVLam9UVGvSAWBBVV95cUxObENidGxwYjlpZnNjWXZfWkdTUk93anp6c3d4X0NSRFRlUms2cktEbnExN01BMG9VT1BtT25BUVVxVVRfby1MdXRQWXJHWXJxLXY4VHpZOG0yTmhZeXh1WEI?oc=5",
    "source": "연합뉴스",
-   "published": "2026-11-21T21:00:06+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2a2w0dkxyOERFRTZnSW0zUEJsUGtWUDZmQ0hkWnJERFlpeElnN2lwcHEzSWhFZmhILU5LYVdzZzFJaGE1RU4tSFF5bWdVczhkZDd6RjJVZmNrRVnSAWBBVV95cUxPOEFtQTczV1JEYUFMb2ZFVlk1LS1VeEFOVEhBT2RHRVhIRGx6dUxMSmVTeDBwNE5MYVVLaEN6ZkNBRVM2T0V6eXhlQ012clA5RVJVMi1MR3lJMXA2bmd4enY?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-11-21T20:45:01+00:00",
+   "published": "2026-11-20T23:36:08+00:00",
    "topic": "금리"
   },
   {
