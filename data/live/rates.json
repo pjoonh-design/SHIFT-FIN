@@ -1,8 +1,8 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-23T11:24+09:00",
+ "updatedAt": "2026-11-23T21:01+09:00",
  "source": "금융감독원 금융상품한눈에",
- "month": "202610",
+ "month": "202611",
  "via": "https",
  "deposit": [
   {
@@ -13,7 +13,7 @@
    "term": 12,
    "type": "단리",
    "open": true,
-   "month": "202610"
+   "month": "202611"
   },
   {
    "bank": "전북은행",
@@ -23,7 +23,7 @@
    "term": 12,
    "type": "단리",
    "open": true,
-   "month": "202610"
+   "month": "202611"
   },
   {
    "bank": "한국스탠다드차타드은행",
@@ -33,7 +33,7 @@
    "term": 12,
    "type": "단리",
    "open": true,
-   "month": "202610"
+   "month": "202611"
   },
   {
    "bank": "케이뱅크",
@@ -43,7 +43,7 @@
    "term": 12,
    "type": "단리",
    "open": true,
-   "month": "202610"
+   "month": "202611"
   },
   {
    "bank": "수협은행",
@@ -53,19 +53,19 @@
    "term": 12,
    "type": "단리",
    "open": true,
-   "month": "202610"
+   "month": "202611"
   }
  ],
  "saving": [
   {
    "bank": "한국산업은행",
    "product": "KDB 자유적금",
-   "rate": 3.91,
-   "maxRate": 3.91,
+   "rate": 3.95,
+   "maxRate": 3.95,
    "term": 12,
    "type": "단리",
    "open": true,
-   "month": "202610"
+   "month": "202611"
   },
   {
    "bank": "카카오뱅크",
@@ -75,7 +75,7 @@
    "term": 12,
    "type": "단리",
    "open": true,
-   "month": "202610"
+   "month": "202611"
   },
   {
    "bank": "케이뱅크",
@@ -85,17 +85,17 @@
    "term": 12,
    "type": "단리",
    "open": true,
-   "month": "202610"
+   "month": "202611"
   },
   {
    "bank": "한국산업은행",
    "product": "KDB 기업정기적금",
-   "rate": 3.71,
-   "maxRate": 3.71,
+   "rate": 3.75,
+   "maxRate": 3.75,
    "term": 12,
    "type": "단리",
    "open": true,
-   "month": "202610"
+   "month": "202611"
   },
   {
    "bank": "케이뱅크",
@@ -105,7 +105,7 @@
    "term": 12,
    "type": "단리",
    "open": true,
-   "month": "202610"
+   "month": "202611"
   }
  ]
 }
