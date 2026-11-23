@@ -1,13 +1,27 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-23T21:01+09:00",
+ "updatedAt": "2026-11-24T08:08+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "한은 11월 기준금리 3.25%로 인상 유력…전문가 14명 전원 ‘인상’ 전망",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NdFhRanJpYVZueVpONUFvQTk5V0ZSdURCSHUzTjQzelNtWU4xdERldElqVDF5TGtyeHBOOV84RVJCS0FVVGtQLU5ZQ3BVUVdiNDF2bFVwcWU5SWp1N2JleUJ1dTZxTGlZaWpWdllVOXI?oc=5",
-   "source": "www.thedailyeconomy.kr",
-   "published": "2026-11-23T08:52:22+00:00",
+   "title": "원·달러 환율, 1342.6원…달러, 연준 추가 긴축 기대에 강세",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tMFNfNEV1emZJczNSSkU5NXk1RFhMaFVEcmpNQk0tOXk4T3VrX0hxMU5KcDJrTmtjdUl4UnBianNTMTkwbmYybkJEcUxjMHhvX0NWUjJYLW10YjB0WEwyNElRNjdWVWxPSHdNU0dUSXN5YXZM?oc=5",
+   "source": "조세일보",
+   "published": "2026-11-23T22:58:43+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "[외환] 젠슨 황은 환율도 끌어내린다…1,340원 초반대 마감",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWNE1kOTBSWHg5ZkF3cU5yeGtQVW1mcTJ1SER4YVBjb1JMSFpBRjBLeFZaN0o5S3E5emhCelBKS0VOM2dFbjhzdGxFQ1F3Q1otc0ZQY1pfYWpHWjdEc3ZuNUkzc0lrMl84cGRjcHZaa0pTdw?oc=5",
+   "source": "KB Think",
+   "published": "2026-11-23T22:26:38+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "금리 상승 언제까지 가나...한·미 추가 인상 예고에 자산시장 '휘청'",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZHdHRHZ0MjlTUFVqb25aaVN4bG56bVhWNlA5djhEX2pJTUFFZmQtZzJFZkEwVWJvSTNaRjdwSGY0U2hEZkdTdUhnRXlILU5NTnpIS2REb1k3TGhsa0lEa3h4ZFQtZU10LUFhc9IBcEFVX3lxTE1sc3FJcVVGdzAyUkhsUUlMaTMyalNzME5CR21la0VNazdOM0ZuX1BMaVV2OGFvTzUyUzJ4ZTBuS1FLU3FMX3pSZ0dnUVVEa05uN2s4bXlyVW1iQ2wyaldkemNUN3Jwdlc1TG1acU9SWnk?oc=5",
+   "source": "반론보도닷컴",
+   "published": "2026-11-23T08:25:00+00:00",
    "topic": "금리"
   },
   {
@@ -25,31 +39,10 @@
    "topic": "미국 증시"
   },
   {
-   "title": "메가톤급 외국인 배당에 달러/원 상방 압력 확대",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CRTE0VTFLaU9jWVZpMWc1c3Q5Y2dnSE5kOU1GaWlCVnZXR2w4endHX25MQlp5WUdpbkgzcWhCa2c2SGNNZDA0QWxYY3ZUeUxYRDJCajF3LTVWNDA4aUU2cllR?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-23T08:03:36+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "트럼프 독려에도 부동산 시장은 얼어붙는다 : 12월 기준금리 인상 전망, 주택 건설·구매 심리 추가 위축 불가피",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90NFI2V2xlVW1fbXNtVjk0bzRxM21PM2V0R2E2dzJFeGtqUDRRb2YwUW9WRXV1cThIVTFrMWdSSHlfMEVNR3RpMkRBanV4LXJJamRaUlFzUQ?oc=5",
-   "source": "허프포스트코리아",
-   "published": "2026-11-23T07:41:55+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "[속보] 원·달러 환율, 9.7원 오른 1345.9원 마감",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oZENZSlgwZ0xBSlpuTUthRW1qWm95STN0d3o4TzJMVXVnUHRSWXdaR3lOQVpDTzVfd0d0akdBM1FTMzhraDFNdVc1WmluUElkeVRCU3YtZ1RaX1o0OVp2YV9uYnNHcmM3ejhyd205Ty0zWDBucmxib2lMQdIBgAFBVV95cUxNemU1VWh1ZzdhLUxHY2NYeUNRaU0za3F4VGNJX09KNXQxTXVyeEtLZGhBZzg3c25EZExYZHAtWVZnTDQ4X0VjRkhxOVV2MTNrSl9URHdqRmRTZ3FKRkJKMHVteVAwN0JYVmtjSkVsdmVDRC1rY3ZSZ05paElqNHdMOA?oc=5",
-   "source": "뉴데일리 경제",
-   "published": "2026-11-23T06:41:00+00:00",
-   "topic": "환율"
-  },
-  {
    "title": "원·달러 환율, 9.7원 오른 1345.9원",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGtKcTI4QmVtY1NxLThsaGRnbXRxODQxaWJ1YTZFN3NudFRMR0d6TmY5bGV1XzY1Q3hYM2hpRTRYX1EwWktFWXAxNlFCVlR3RGt4MGhLQ3pFZnJVTE01aU9XNXBKWEFFNEM4eHQ1WnQ4ZUkxd3NlNXdHNkpKV01SZ04zQ2xCUdIBmgFBVV95cUxPSGlPTy1NdmlNcGJvUnJZQXY1U0pYckM5ZmsxT2JuanpqM3QzaHBmb2xCTHV0T2RhamppWEZoWnBweXJhVkhrRnBZTXpvUS1nQ2ZEYlllMUI1WlNYdTBZSEp1VWhPWDNualItMEFVdkxia2RBZ2FxTkF5VG94LWhsdlBwLXVMQ0J5dGtnVThnSEt3b1cwblhnLWZB?oc=5",
    "source": "Chosunbiz",
-   "published": "2026-11-23T06:37:49+00:00",
+   "published": "2026-11-23T06:42:00+00:00",
    "topic": "환율"
   },
   {
@@ -71,6 +64,13 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5SVY1X3pZS29ES1BGeGNJMWZXRHlxcjJOYnBwcWg3ZTFXRkpjSFRmUzVtTGpCTXFiQnZzWVNScWJKbHZTS1NYZklqVGRYUzhRYTNjUUZaSklDLW53WEE?oc=5",
    "source": "YTN",
    "published": "2026-11-23T02:26:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "[속보]靑 \"증시 불안정, 미국 증시와 연동 측면…경제부총리, 간담회서 증안펀드 관련 설명할 것\" - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQ2VXVE5mOU9DYTQ1VndmTzBEcEQtXzhXNHNpUlRzNDBDLTJxaEpsZXBFQnU3TndGalhBWUhaQmxSYV9vYkZlVGNDSk5TQXhudjRBOGZ3Qy1mSndHU0ZFdGlVLXRqS2xobVI2dtIBckFVX3lxTFAwSkNZQTl0eEdYNlFBNUpac2VScG1GR3hGeG4zRjQxMVZFalhzMS00TGlKRnRmNzBNcWZSRlZqNWlObEllSndBWEtMWk1IRmFwQmtfVGo1X1VDYmV0eU9aRm1ZR1ZBWFpLX3IxSlhmMTZmQQ?oc=5",
+   "source": "머니투데이",
+   "published": "2026-11-23T01:08:45+00:00",
    "topic": "미국 증시"
   }
  ]
