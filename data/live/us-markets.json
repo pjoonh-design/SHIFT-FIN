@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-25T06:46+09:00",
+ "updatedAt": "2026-11-25T13:49+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
@@ -18,23 +18,23 @@
    "id": "NASDAQCOM",
    "name": "나스닥 종합",
    "unit": "",
-   "date": "2026-11-19",
-   "value": 23879.2,
-   "prevDate": "2026-11-18",
-   "prev": 24429.88,
-   "change": -550.68,
-   "changePct": -2.25
+   "date": "2026-11-24",
+   "value": 23733.54,
+   "prevDate": "2026-11-23",
+   "prev": 24089.56,
+   "change": -356.02,
+   "changePct": -1.48
   },
   {
    "id": "DJIA",
    "name": "다우존스",
    "unit": "",
-   "date": "2026-11-23",
-   "value": 49595.31,
-   "prevDate": "2026-11-20",
-   "prev": 48147.33,
-   "change": 1447.98,
-   "changePct": 3.01
+   "date": "2026-11-24",
+   "value": 50018.7,
+   "prevDate": "2026-11-23",
+   "prev": 49595.31,
+   "change": 423.39,
+   "changePct": 0.85
   },
   {
    "id": "DGS10",

@@ -1,49 +1,63 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-25T06:46+09:00",
+ "updatedAt": "2026-11-25T13:49+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "[미국 특징주] \"S&P 500, 2027년 말 8150 간다\"… 전략가들, 조정 딛고 12.6% 상승 전망",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kYmtTZXVsTER6ajdMUUdydThxTktYdW9FNm1aSDNKRWVaY1NMcUJVUk9ISHJRczBwQWd4NnVNUjMwMTRnQ0FWYVZHQWVmVFF2cXRHVThiOUxUd0tl?oc=5",
-   "source": "뉴스핌",
-   "published": "2026-11-24T20:34:00+00:00",
+   "title": "삼성전자 SK하이닉스 주가 장중 6%대 내려, 미국 증시 하락에 반도체주 약세",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mVUtiZlB2QUxLdmlkY0hNci1KRlExY0lWZF9UZ3FuZXNBUzFZSVBPTVVvLW5UX2xjMXJ5QW1FVlRiMkJicThEWEp4X3plRXdvT1U2SUFLUEktRlBGbUFIZVItenpSeWVjUkl1TlZHc3pzemc?oc=5",
+   "source": "비즈니스포스트",
+   "published": "2026-11-25T01:05:45+00:00",
    "topic": "미국 증시"
   },
   {
-   "title": "美 국채가, 전반적 강세…증시 하락에 안전 선호↑",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WbTBrZ3VIV1YwaFlFaUNHVlpjdkFsdVBCZDhYNVNQcjZhTnV0QVlTWFZRaHliZkNlbGpHRWNmNkFGLVJmZC0wb24wREZNeXNwd29xbUVKMnpTTXlDOHo4bl9zSzNiZUlVQ200N3F0MllWdw?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-24T14:48:19+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "달러-원, 뉴욕장서 1,340원 초반대 거래",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlbVU3VTBMR0ppOXllY3RYWUNCOVpVelNmaVI2bGtweGhMQUtjb2tnazVyWFRWMjZ6R1FPeVd0QVg5enFxNklOU2p5WDF2V24zRmJjS0xGTkJNTjBiek9rYlBMLVpTcVJBY3g5YXJ5M0FTdw?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-24T12:36:53+00:00",
+   "title": "美 기술주 약세에 원·달러 환율 상승…1340원대 후반",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01ejhlMkpvN25nLWZ5WlEwZUg2YnZaX2o1N2tLa3QyWkFGcEFySEVtZVpHTE5vYUcwbS05RldPX01JdHotTVZNa1VDU1phTUR5SzNNNUF4REY2d9IBWEFVX3lxTE1DdzVnTFFtWFROS1JsWFQ1QTZJRWNETjV5WWJWNXo3aVRSOHdFM2JIZkF0RlZJLWxEV1hsNFhLUzdVWnh3NEdMRGZXeWVRdTBiZmtaM1hBS28?oc=5",
+   "source": "아주경제",
+   "published": "2026-11-25T00:34:58+00:00",
    "topic": "환율"
   },
   {
-   "title": "원·달러 환율, 기술주 급등에 1342.4원 마감…외국인 매수세 유입",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEclBDd3dkZ3dFWW5EWjBKczhkNG9YQkxQbWRnTFYtdlVIRUY1ekZHMEJLd255eUJhTnNiMnAxYlQ2UFdUM3RZNHdBN3FjUXNzVmVFX1lfUEhlb0h1NExBTXVob052SFVHblN6cmtLQmTSAXRBVV95cUxPWktScXJTMHozRU1QWnhDNV9PM0ZDNGMwZ2JUbENPaDl6V0dxQnplWFlqOW1yUnBUeWtTNGxVNHBudWhXN1NoREhHVTNBaWYwRENrTmdDR3pzX0NDU3dWWWtLc3BqWUJGR243a3dNMlB5WkxqYw?oc=5",
-   "source": "산경투데이",
-   "published": "2026-11-24T07:11:28+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "[속보] 원·달러 환율, 3.5원 내린 1342.4원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFhOTGFmQ1Uwek55dWU0X0tmX01mN3F6bEhsclNaQ1NkS3hHbjdZLXhiMUs4V3Eya1JQSmk3ektjVnl3ZnMtTUN5OHBOeGtkd2dWejFNNWxZZzZXMEdRQy1sYkFrakR3bkZBUGtpNGtFRzBRY24wZThqZlQ5azQyYlRNX1dCZ9IBmgFBVV95cUxPRnlKTFBLWjl1WFNwWVFiX2U2TmU1TC1RZDVEM1NQWEY4X0FtdUVwRVFvaTVkOGxmSHZyUEJvcEpYX1JaV0VmNHZWU1hGQXpERTQxNHJibDI0ckd3RUVfZDUzTUI0TGxMZWJ2Vm9oSEkzZEF5S18tdTZHRzNqN3ZseXBkNEtEMl9rVTBHN2Y4OVphUlZ5dDNENFBR?oc=5",
+   "title": "원·달러 환율, 0.5원 오른 1342.9원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSUN6S0ItUkVfSjItbTlEUzZjQTdjb3dPTDR1cG1VdHRVVV9XN3ZDV2ZTOXBLM013bl9qZGF6UW9KZ3h2LWE3X1YyelNuOTVFdDdMVGlTZVhyMHZPZ1VvY3NtZFMzcEFoSnF1bEhpbkZmSUxpc3FyZGZyMFY5Um1TWVd0SXA5d9IBmgFBVV95cUxNQ0E4UUpBQXIzUEFjSFpJMlNLdnVKcUFYSFNLVGoyWDZERUF0R3ROSWxxZmFubGNLLXNmYUdEWW40NmNQUGZWYjY0MjZ2WnlFRTBGNjNpQl9RUl95N056dG4tVEEwWXRyYzFfTkY2QlFHR05nWTFWNFpBSjhjaGVwcnZHdGM4dzhXU2dSX0tEbUttS2llc29pWkxR?oc=5",
    "source": "Chosunbiz",
-   "published": "2026-11-24T06:34:00+00:00",
+   "published": "2026-11-25T00:16:00+00:00",
    "topic": "환율"
   },
   {
-   "title": "골드만삭스 \"내년 한국 경제 3.2% 성장…원·달러 환율 1280원 전망“",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YeWRjOFFLU1Z0V1d5N2c0LTdaTHZVTVVfbHExenp6SWJlZ2I0el95azM4SDVsR0hUMUt5UmYzeUxBelhaUHpIVXZwdzMtSFkyUGNDSklhV2UyYkJncXlSbjh1QzM0RERxSk9OTXB0RUZZQQ?oc=5",
-   "source": "인더스트리뉴스",
-   "published": "2026-11-24T06:10:09+00:00",
+   "title": "트럼프 관세 엄포에도…\"증시 가격 결정권은 AI 불확실성이 좌우\"",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZT1VCYzhQV3YyNkxMdkxrWk9mNGw2NzhWOS1DdEg2a210T1duWHQ5SkNHNzRuTTMya0Q3UFk5UVFnMnRsRzYyVVpMM2ZtaENIdmlhand2UkJLNm1Rb0RCRDd5U1RCUDdMS1B3dEowRGljUQ?oc=5",
+   "source": "KB Think",
+   "published": "2026-11-24T23:29:35+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "원·달러 환율, 1343.0원…달러, AI 관련 기술주 약세에 하락",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5bFpVQUZiSTR0ZjNfYzlOdkFnY0owLXdZQm1pai1QcVk3QWpjY1ZEZ083ZEloc203MEhTVHFQb2dtQ2JhRUNRSVZ0SjdFaGptLWVCSWJnMEhyZHh1RVlF?oc=5",
+   "source": "조세일보",
+   "published": "2026-11-24T22:56:50+00:00",
    "topic": "환율"
+  },
+  {
+   "title": "미국증시 '혼조'...엔비디아·앤트로픽·나스닥 '뚝'",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WdmhsM3pxdW9waHBBaDA2SEMwV0JGbTVJNWUyVzNRQWczdVFiX0QzUmpNZjNnYmZwdjZHMkxwWXc2QWVtS0F1X0t3UVNpYWtDSE1PNTk5Y01tZldiUmRzOE1HaE1yQVVvcWpBZkM5QdIBc0FVX3lxTE5NRmJmd19nc2NTVmxOUGpCUm1VVEhKaF96MW44MXBpNFdmNXdyMjRqQkV5Z0U1RGhsSklOQXBlMl9sQWVWbDBsUVE2TU5fM1lHRWtGTm8yaGlZSlcydzFlcEhnUVk1MEJ5ZHBOUVdSbzRaOTA?oc=5",
+   "source": "초이스경제",
+   "published": "2026-11-24T22:56:10+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "트럼프 추가관세·젠슨 황 복귀효과 소진에 미국 증시 부진···엔트로픽 공모가 밑돌아",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15N01tYjgwNnAtaGx5WUtQOVRKcGVNUi00Nk43WGNKcXQ0UlExV3JkbXpXVGtuajFqZ0szS2o2a18xRm9ibGk4cWR2dE9SLWp3N2Fld1ZkdUpsd9IBX0FVX3lxTE1vUGZVbGtOZG5RQUtkZWhja3Y2dTdxcGpSQlRyejVjYngzc1dhMFFlY0xxZ2dna3FfTm1ZYUNyVGFRSzJ5bXVYVXljbnhrZEVpRk8tOXRjeHpoYVk3Mi1z?oc=5",
+   "source": "경향신문",
+   "published": "2026-11-24T22:20:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "골드만삭스 \"한국, 기준금리 연 3.5% 넘기기 어려워\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yXzBHQWg3cW9FVFRPd3ZDNE1NMmJWZG02b19pOXNkb3FaZmtFdkk4NkhMTGVsYjJ0Q2t5SWltVllrenJXblRkOUZnQ0JMQlN6Zm1tMW5CVWdOUQ?oc=5",
+   "source": "한국경제",
+   "published": "2026-11-24T06:13:30+00:00",
+   "topic": "금리"
   },
   {
    "title": "골드만삭스 “내년 한은 기준금리 3.5%가 상단…달러당 원화값은 1280원”",
@@ -53,24 +67,10 @@
    "topic": "금리"
   },
   {
-   "title": "골드만삭스 \"내년 환율 1280원…韓 최종 기준금리 3.5%\" - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qZk9Uakh4UHpVWWVVSnc2U0FTZmZZTy11bnRCQW9Id2djTTRVOWM1aFd6Y0Vyc0plNlJ1X1pxQ3hnZGR2c3lZeTZTMXpzWWltZWFjS2hMSFRFOXBOMXFDTHFuR3Foa0Vi0gFuQVVfeXFMT0ttV1VWVXdTMHBHQUNzdnVLYlMxZTdCVUZ0WTRlUV9oQy1nOEY3NndMWFlJcXZ2WTAtRVZvaFdsdjF2anBJYmxfZlljeG8yY3Q5cm5fX1RKSFpjMWlMdnZNck1RQkZNd2pTSXRvSmc?oc=5",
-   "source": "머니투데이",
-   "published": "2026-11-24T05:47:10+00:00",
-   "topic": "금리"
-  },
-  {
    "title": "채권시장 종사자 54% \"11월 한은 금통위, 기준금리 인상할 것\" - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paEplMkJjLVlBSmFRUjhCRlBJY2JaczlOWjY3MU5JcWcyaWhrdzBpSS1PQ0lHcjVHRl9DbllncGZPcEV1SGVReExyakNoR0VoWkE0UGRfWXRDYlM2WXlxZm1DUG9XWWlT0gFuQVVfeXFMTVlDZEFlX2VVM3huem51Q29FejQtTjBPckRZQ3JJRmdZN1ZQdDhpRUU1OEc0MnpIbGpib1BiYkdkR1JfWm9nSnhxODhPRDhlYkR3OTJ3N3ljSVRKUG11aFlYcmNmdENXNUNfVGR3NXc?oc=5",
    "source": "머니투데이",
    "published": "2026-11-24T05:31:58+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "골드만삭스 \"한국, 내년 3.2% 성장 전망…기준금리 상단 3.5%\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BUzBYTGZJRndUQWZnSjF0NjJ4WkRYbEw5Z2xyNzc5R1F0WXB6Qy0zWWlaYXF1QWVEdnA4T2FvX3BTZGtmellDdW1HamdGLS1ySUxYbkE1S1F3ek3SAWBBVV95cUxQWW1mUmNLVDlCRERMS2lzQ09paXI4YUp1MlY0ZlpleE9HU1AtaWN5Um1tcVhiWEFRQ1FZekdPNDhYYjNGWS1Xd2FXdnpJR0ZaVnRXYmFldU1VWUdHekc4aWY?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-11-24T05:04:27+00:00",
    "topic": "금리"
   }
  ]
