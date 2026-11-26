@@ -1,14 +1,14 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-26T05:53+09:00",
+ "updatedAt": "2026-11-26T13:01+09:00",
  "source": "한국은행 경제통계시스템(ECOS)",
  "items": [
   {
    "key": "baseRate",
    "name": "기준금리",
-   "value": 3.0,
+   "value": 3.25,
    "unit": "%",
-   "time": "2026-11-23",
+   "time": "2026-11-26",
    "source": "한국은행 기준금리"
   },
   {

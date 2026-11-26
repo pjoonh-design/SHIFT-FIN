@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-26T05:53+09:00",
+ "updatedAt": "2026-11-26T13:01+09:00",
  "source": "FRED, Federal Reserve Bank of St. Louis",
  "items": [
   {
@@ -29,23 +29,23 @@
    "id": "DJIA",
    "name": "다우존스",
    "unit": "",
-   "date": "2026-11-24",
-   "value": 50018.7,
-   "prevDate": "2026-11-23",
-   "prev": 49595.31,
-   "change": 423.39,
-   "changePct": 0.85
+   "date": "2026-11-25",
+   "value": 50182.95,
+   "prevDate": "2026-11-24",
+   "prev": 50018.7,
+   "change": 164.25,
+   "changePct": 0.33
   },
   {
    "id": "DGS10",
    "name": "미국 10년물 국채금리",
    "unit": "%",
-   "date": "2026-11-23",
-   "value": 4.92,
-   "prevDate": "2026-11-20",
+   "date": "2026-11-24",
+   "value": 4.91,
+   "prevDate": "2026-11-23",
    "prev": 4.92,
-   "change": 0.0,
-   "changePct": 0.0
+   "change": -0.01,
+   "changePct": -0.2
   },
   {
    "id": "VIXCLS",
