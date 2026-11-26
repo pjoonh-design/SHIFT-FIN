@@ -1,28 +1,49 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-26T13:01+09:00",
+ "updatedAt": "2026-11-26T21:04+09:00",
  "source": "Google 뉴스",
  "items": [
   {
-   "title": "원/달러 환율, 금통위 금리 인상에 1,340원선 아래로",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HdkJwUmpjSnZETUpmTXpuZko5RzJQYzdOTjhOVmRUZ2JqdGVucEQzYUIzblR0QkpDaFBWdjl0Wk5URlNJYjQ2dWRPQThTQ2swRmRrNThhaERLb03SAWBBVV95cUxOSWtFVlp5eFQ0Z3pCaVpuV2twdmJzWG9ZX0N5QXpEYm1DSWFmZENWVTlIbnhPWFJXRlVtZzNYYnE0YU5hRjhDcG9hblV1WHhwekhvRmZEc29tWC00ZFpfdVY?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-11-26T02:45:43+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "한은, 기준금리 3.25%로 인상...하반기에만 세 차례",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZmtMV2lRNUpLVVlsUXVzRVR6RGQ0ZjJOQUFlaFpkcmRlVmlvNDF6Ylp5dzA3OEJXOS1ZUEtCbW51WUhPM1Y1VS1YS2h1ZlBNTjVWV0lqZXFzY2VZSmVxRg?oc=5",
-   "source": "KBC광주방송",
-   "published": "2026-11-26T01:45:01+00:00",
+   "title": "한은 기준금리 인상에 부동산시장 거래 위축 우려",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Gck0tUXBGbzlxamVEODVfcHBQQmpsUDJBMnpsWWpRZ0VQdndpNzdoSk1FbWZIZXV1Ym1yQllYZWlUMGRBR2tJV19KMFQ0VUZWekhLdmtwRVdYUUVqQlJfUjQtZUN2RU52ZmpabUhIbw?oc=5",
+   "source": "중부일보",
+   "published": "2026-11-26T09:53:00+00:00",
    "topic": "금리"
   },
   {
-   "title": "[환율 전망] 불안한 시장, 한은 금통위에 대한 작은 기대",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96eGNPWG5kUHV4Y3ltSlRRaEtpaGxzTlBRWWdwRXZGMEk4bEVfR24xX2tCYVk3VExwYlhMaWIxdTFMXzNOZWd1UktXeEQ5QUtNb1NZV004WWlIRkU1d1FGZQ?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-26T01:02:56+00:00",
+   "title": "원/달러 환율, 금리 인상에도 보합권…전날보다 0.5원↓(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LLTFVSE8xTEc5NktUWXVjc1ZNTnc1N0JjRmFBU1dFemhUTG5SQWdVU0JmRGo1cUpTZFNGRlhTeDdTeGlNNTZLa21lRHhobGtrVUtIS0s5amd4XzQ?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-26T07:11:25+00:00",
    "topic": "환율"
+  },
+  {
+   "title": "원/달러 환율, 0.5원 내린 1342.7원 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvUTZhS05JaTFNU3ZZSm5DSHhWbk9nS0NPN2lpLUVwNGFES010Sl9xcFNQVU5uNW9KLVFiN2pRWmZsakJCMWlzV2VkU0tTQTBXcXFidnhqNlFaalVqOW9sRk83c0x3UXZwYUtZ0gFwQVVfeXFMTTRJOVNENTVwdTVIMHFMblgyWk1QRXBEQ2pxOFdjUXpmRndacFRzdVF4TEFpSk5VandlaE5HV0V4ZlNJWUpMTUdCQm1aVFl0UFNKNGNBb1FnMGk3SlFndGVNTndKRlZpVDh2RVVVangzRA?oc=5",
+   "source": "머니투데이",
+   "published": "2026-11-26T06:40:36+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "[속보] 원·달러 환율, 0.5원 내린 1342.7원",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVFaeTViOVpVM3ZaWTkzOEoyQjVoMzVSanZqOHE5QS0zbnhSMmcwT1RPRUp6UHh2Y2l4ODByd3NycnhhcHVMYXVtQ1ZBanAtUndGeTBhcUgyOFd3ZllOcW1nNVdfT3A2aEFoYm94eHVXZkRiS2NjUjRqZmFSQmNSUGc3clZWZ9IBmgFBVV95cUxNVzZINHNmaGRRY2l5cDNjci1QQm5OdE1vRmpPQmotV1FMZ0pwaldiWERtdm5rcG1lMERZZnUwczVsbkE5cFE1NUxKNzEyNGVteS1mSWNlSmZseU4tYnlWcTNEZ283aU9uaTR3V3R1eHQ2NWpDNGV5WjJNNlhVUExBSDVsVklzRnpWekRUbjJCOWhrdDhVbGl6Sk5B?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-11-26T06:36:00+00:00",
+   "topic": "환율"
+  },
+  {
+   "title": "널뛰는 코스피에 개미 투자금은 미국 대표지수 ETF로 '쏠림'",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nY2NCSzdFVFZGNC0ybU5ETEh1aTdyeDBtV1ZUbEpJR0RZb1pTaHY1bnlVQU1LeS1jdzBKcEppVlQ5TndXNnhPUnFMaDhqVkVIbmJHb0Y1WjdGVEXSAWBBVV95cUxQRUwtZkNCUTNmemhnNEpIbEVsVEFWYjhDMlp2MHJBMzZSRFExbmVFeF8tSklMRlRJbThRSE9vTl9WWmUwRXQtS3lyOEFQNmFuem9QNGJfS3VxcEhFUEM4TkE?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-26T06:16:08+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "한은, 기준금리 연 3.25%로 올려…내년 성장률 4.1% 전망",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wT08zREVoVS0zRFdOb1BXZ3NaakNsemRGd3JkdEg1c1lic2lEd0lQeGlMZVRlODhTMFV3WXcybjN5RU1fazJRRkxVOE0wcnY5bTFPUzhQZjlNbUk?oc=5",
+   "source": "KBS 뉴스",
+   "published": "2026-11-26T05:16:00+00:00",
+   "topic": "금리"
   },
   {
    "title": "한은, 기준금리 3.25%로 인상‥내년 성장률 전망치도 4.1%로 상향 조정",
@@ -32,45 +53,24 @@
    "topic": "금리"
   },
   {
-   "title": "한은, 기준금리 3.25%로 인상…내년 성장률 4.1% 전망",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4RkF5WVV3WEJYWG85WUZ0d256bnVoazdjYXJLM0VIbkRkTERjNWprbDVPTWpYNUU0aFo3UjRudmZlUTd6cVJnYzM0bDZRZ3ZROENzSXFHMEM1ZUx5YlFlUFBtRzZwdw?oc=5",
-   "source": "KBS 뉴스",
-   "published": "2026-11-26T00:50:00+00:00",
+   "title": "코스피 1%대 상승 출발...한은 기준금리 인상 여부 주목",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qVUJicElDc2VueWNuaDloQ0RWaV90UjNYZGlEdUx4SXNHUEZ0LXBHcmRvaHJ1ZHRGaERfRGdjbUdzVXpTS093a3ZDVm9UQ0g2NHBsMHVfTFlEaFFKTVZkMllJQmZOYmJ4aEY3TWUwdw?oc=5",
+   "source": "YTN",
+   "published": "2026-11-26T00:32:00+00:00",
    "topic": "금리"
   },
   {
-   "title": "원·달러 환율, 1.7원 오른 1344.9원",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWRLS0k4dXM3WHZqdkFXUFU4V09wYWk0LTdqUklzSXNMQVRlQjFlalY0RG5vdXAtY3p2dWxtSXN0Z0hwWlZjd2doODJ0NVVMVzg4ekR3V2JwRjdmRk1mTGlrUHBnSFNteVdrbWlfTHpGLWRDbHhHcDRvRkI0QmpfTmVjTDh4d9IBmgFBVV95cUxNWlowZkxmMEM5N19WcHBlWW5UNEFnUC1SWDFweHZNNlRxeDhqT055bk04OFhZV2ZhQ2wzTi1xUXp4b2l3aWNfNlNOM0p3Z3hjeGxiaEhuZ0tpR3dYZG0yaW14cXNCT1RLUm56eWY4cXFIb3kwdC1reTVrV0h3VHZuOHF5bXFnb2ZMTTZTUjhXdXIyUk5xRzlRYTRn?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-26T00:42:00+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "[美주식 23시간 D-10] 서학개미 더 늘까…\"국장 메리트 높여야\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ySzFnQ2xCOHJlM28xYnpzNVFfdklMX1V1U2ZueGxMWjV4Y2xBWE04Q3VOaVB3WWwtanpQMmp4bnNwMFdoRmNqZXRZcFhNa2M0elo0NzBQTzcyN0lPMDVXQjJjZTAxM1UxQXhPVjR3c3c?oc=5",
+   "title": "美 금융시장, 26일 추수감사절로 휴장",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKU1lNZzFwa0VuTXVzRFp5Zm5Wd1ZrbUFUcEhDS1ZnZldNOTJWLTVfaFFWazJaaFVtR182Z3hjZHJONmVsZmpKb2xURFl6dlYyZFJkMzh6b09JUzRCVUdUQnhVWmZEOG9vZG5JUUtoLWo?oc=5",
    "source": "연합인포맥스",
-   "published": "2026-11-26T00:10:05+00:00",
+   "published": "2026-11-26T00:23:47+00:00",
    "topic": "미국 증시"
   },
   {
-   "title": "한화증권 \"연말 美증시 박스권…우호적 여건 내년 1분기 이후\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qMnhKa0xLNnVQbnFZZVNHbHJMY0pTMFowWU5rcTBlb3FrRmlzc3dpbi1MMFJpaUNQQkpYVGZXdElybFA4R19qUnVReS1vc3lvSXkwcVp4OFRBek3SAWBBVV95cUxQU25wRG1mRmNwUTVYVU42R3pfVEJORHlST3JsT19GQlJtbnhPSGdFYS1kbUJ6TzlMY0tSQUJIRElmYmVsa3F3Y1hfQy1BdVZmWTJmQVJUWFJrNUU2NjZYVXY?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-11-25T23:29:41+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "원·달러 환율, 1344.3원…달러, 물가 우려에도 약보합",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wSHNibEZzejIwMHd4NGd1NHI2YVU4SVlBUE5DLXE4cnRhbkNRaGV0NkdHb29LNHVuYUlhR1V6V3FuZUNDZWVWVEJpT0NFeHI2QlBmS0VHUFppNnpCZC1F?oc=5",
-   "source": "조세일보",
-   "published": "2026-11-25T22:51:58+00:00",
-   "topic": "환율"
-  },
-  {
-   "title": "미 증시 저가 매수세 유입에 전약후강",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xRXZRTGFJUS1zc1JkUkZ1NnVfWUh2XzN5WS1GMHljckc4Y3NUdHdSaXo2UXBoUjY2S1UwZXBTZU5ubS1pQjI2RzluWVdXVURqbWRJbUQwNzZuQnFldVNLX29fbVlENVF5RU1RTg?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-25T22:48:45+00:00",
+   "title": "[미국 증시] 美 주식 11월 26일 휴장일, 왜?…뉴욕증시 언제 재개되나",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaGhtU2Z0RkpHM1F3b2NyZ1VQUm5xX3NkbjVvVzMtcXJ3UFd4Yzl3SU55VWFpQjFSallNS3VZZC1Tek1zSXlNa0VCUEIxWHB5bjBydU9FNFZYVzJ0X2V4N2hqeUZBcW9s?oc=5",
+   "source": "CBC뉴스",
+   "published": "2026-11-26T00:00:00+00:00",
    "topic": "미국 증시"
   }
  ]
