@@ -1,28 +1,42 @@
 {
  "status": "ok",
- "updatedAt": "2026-11-28T20:29+09:00",
+ "updatedAt": "2026-11-29T04:24+09:00",
  "source": "Google 뉴스",
  "items": [
+  {
+   "title": "\"폭락에도 美는 투자 열풍 여전…가계 금융자산 주식 비중 최대\"",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rRk9RU3dnd3ZLb2VleW16YXpqczR4VDE4VnhjTHJUN2lIYk5QRDdSYmo0YldPQk9CcFp0OWp0TUplQWhrd21JemNSdU5vcGZEc1NRdUZkSHk?oc=5",
+   "source": "뉴스1",
+   "published": "2026-11-28T17:37:29+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "AI주 급락에도 美개미 '사자'…가계 금융자산 중 주식 비중 최고",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuTG1BZXpaalJ1YTBRSkNQeTdGOGRhUm82eXl6R2toUUFiSHExcks4OW5LOHJNVTQwc25YNGMwcFFyaTh5V0hTOFZ2YlhYLXVYbnc?oc=5",
+   "source": "매일경제 마켓",
+   "published": "2026-11-28T16:26:44+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "지난주 미국 증시 급락, 과거 약세장과 무엇이 달랐나?",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fTHhsYUZuZFdvWm13MmV2YmZ5X3c0bnVrMzlvb0d0SVBkWEF0dDRPUnFwUTMwZ2NmWnV5bXF0SGpFVzJhYXZxdXhjRGtBRlNMTGtXMGxLMHFuWm45S0s1TmZiZl9HR1l2SF9SeW5rdHA?oc=5",
+   "source": "Investing.com 한국어",
+   "published": "2026-11-28T13:13:00+00:00",
+   "topic": "미국 증시"
+  },
+  {
+   "title": "5% 안팎 대출금리 더 뛴다…올 3번째 기준금리 인상에 취약차주 ‘비상’",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fYWpBVHBlZXQzQkRNVFRRZ25VYkNmaTFDWEJGbWNKZmp0RTRSN1U0TmJLNzI5WjNLalhSbkhyaXBJLVo4Znk3X29ncl9FcU1xTXZjX2tFSnDSAVRBVV95cUxPMG1Rc05LODl6M3FiLVdNc0pFNjcyT082amVhZEdLSFd5WDNjbnhoTmdZU241Y3ZDRWF6SWNlZE9wX3JiQU5pLVJUUzlyb1hPeVRFWWo?oc=5",
+   "source": "세계일보",
+   "published": "2026-11-28T11:19:00+00:00",
+   "topic": "금리"
+  },
   {
    "title": "26년 12월 이달의 ETF: 요즘 증시 너무 어렵다면? 알아서 분산투자 해주는 ETF가 있어요 📊",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yQ0VNZUctbW05aDkxZlJaNU9GYXRkTWNhMExFNGV0ZDlTNTVqbG16YzZmX3VyNWh5MkhtMmpVX1FZY1ZzYkxWanRzVl9uRzlqRkZOU3Fn?oc=5",
    "source": "뉴닉",
-   "published": "2026-11-28T08:06:38+00:00",
+   "published": "2026-11-28T11:02:22+00:00",
    "topic": "미국 증시"
-  },
-  {
-   "title": "예년만 못한 미국 쇼핑 대목 블랙프라이데이...'롤러코스터' 증시 영향",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzYU4tZVI5czJ5Q0FrQTktVjhjV3VwdldzTFNobC04UFhLR1NyRWQ5SVl1V0FYRk55bk5VMnhablVYR2h1czlWMGJhSmw1X0VibFd0RS1hUnJSY0J6V0E?oc=5",
-   "source": "YTN",
-   "published": "2026-11-28T05:15:00+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "국민銀 \"내년 평균 환율 1,320원…상고하저에 1,200원대도\"",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aNlZTNDZIVnVPT1U1ZlpyOTE4OUlZam1HMGtublZrVnVxblM0SUNudXpwZlZBWlRFUkxXVi13N1Q0YThadG85cFB2UWlvSGhjTUwtdGxJZC1FNVRZeDczV0lpWmtfLWFSNGFHUk9rRklPZw?oc=5",
-   "source": "KB Think",
-   "published": "2026-11-28T02:56:47+00:00",
-   "topic": "환율"
   },
   {
    "title": "[다음주 환율전망] 美 긴축 경계감 지속…원·달러 환율 1340원 전후 공방 예상",
@@ -32,25 +46,11 @@
    "topic": "환율"
   },
   {
-   "title": "주식시장 새내기인데 첫날 몸값이 6.6조원…개미가 만나는 美 기업 달라졌다",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PNWthNF9sMUhYbktpOURSODd6ZDV5cFNJZWt4TEtrSk45Nkd6VGxNcDBaMmFwVFZ0cWR2OTdOYkRIMVpQdlROdUh2b1AwTXltVnc?oc=5",
-   "source": "매일경제 마켓",
-   "published": "2026-11-27T21:28:57+00:00",
-   "topic": "미국 증시"
-  },
-  {
-   "title": "반도체 호황의 역설… 물가 잡으려 올린 금리에 서민들 ‘삼중고’",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkVDZvNUZ4bS1oQzdYX01zVEhhRk9RUzhUU1VyUlVTOHNOOXdUTFdhZjhKQWppOW1qUDE2VGtpSUtLTV9VUHpBMVRBd0Y4aGdITWJuUDNEWW0tTzUxUFBvLWQzR3dqM1huUkUxd3BJSkNnLWhtS2fSAWZBVV95cUxPZjFrLVlfV0VUcXdtZU1BUkdWb0VheGoyVUxsOWJZdFlDdmZLVXB0SVRvQWtDZ2ZUNDhPWE1XaDd2WElIcGw5c2pFUk9BSlZ1MnVUZ0xTTGI5VFVlR2ZDbW1aZUdxVGc?oc=5",
-   "source": "동아일보",
-   "published": "2026-11-27T16:40:00+00:00",
-   "topic": "금리"
-  },
-  {
-   "title": "'한한령 풀리면 날아갈 줄 알았는데'…일주일 만에 '날벼락' [종목+]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uV1lEZ2ZxbjFES2hLSm1xb0RQbUlQZzZfTFgwVjRZa19aX0RXeDdkMGxwT19QYVRrQXQ0QnRfY1JVb0owSVJIUlhTOUdMektQVHdNSzNSeTdFZw?oc=5",
-   "source": "한국경제",
-   "published": "2026-11-27T11:00:04+00:00",
-   "topic": "금리"
+   "title": "원·달러 환율, 증시 급등에 4.8원 하락…1,337.9원 마감",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNWdZc2FhYXB0U3BUMHJBQ1BjNWRGUHdISW9RbzZwUFUyQTRZXzJISEJtS21GNVZoaWUzTFJvTUpvZUNVRG5FSi1lT1luQ1VZRzhtX0QzVzg3ME1OdDBPZ1pDd1Z6RzExVHVMc09GWTDSAXRBVV95cUxOUUdkeEFlWGlsb21xS0tCeGp3bE5QX2M0QlZGQkpVbkpYZVMtX2dJd1Z2WHhzOC1PLTRuZFVQWmJkbmZab21FMnB2V01sVllTS1BLdFktQTRmbTVmc0VhY0c4RXVvN0k3SlZkakFRcDNldG9IaQ?oc=5",
+   "source": "산경투데이",
+   "published": "2026-11-27T07:40:45+00:00",
+   "topic": "환율"
   },
   {
    "title": "원·달러 환율, 2.5원 오른 1345.2원",
@@ -60,18 +60,18 @@
    "topic": "환율"
   },
   {
-   "title": "한은 기준금리 인상‥성장률 전망 대폭 상향",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1odHM5Y0V4TzdLLS1qUUkzVzBqSm1heF9XNkhWandBZ0VFelVCXy1QQ0dtcExZeGEwVjVWM3dTZ19FcjJTbTVGUWstaW9RNzhJd3J0bzRjbGo2c2E1S3g5MVVWcFVqLVFRX1ZGc0R1Slowb1pFQnZEYWpB0gF6QVVfeXFMTXF4VWZVSFhNVEJKQzR0MjBxLUxsSFhpVGtaUDRBekwwcGhrazdtYkRfV3BoNzkwWFZaQWJFUm1kT19Pd01FRDlLQzlpRk1ZZW1OSDRpRXFOd0lXajNIdERGVTBoMGRhSmlEUDRhTDRDVU1vS3VkTmUwVFE?oc=5",
-   "source": "MBC 뉴스",
-   "published": "2026-11-26T21:06:57+00:00",
+   "title": "기준금리 3.25%로 올린 한은, 이번엔 왜 인상을 택했을까?",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZWUV5SkJHSUhQUk5qVUUtQ1NlbVAyTXA1ZFJUdW5HbjQyNkRveTBvNVNYMWl2X3h5eVFzYlVxd2xoT2dxS0E5b3h3MFhhWHpTTXc?oc=5",
+   "source": "네이버페이 머니스토리",
+   "published": "2026-11-26T08:15:17+00:00",
    "topic": "금리"
   },
   {
-   "title": "기준금리 인상 : 3.25%로 올랐어요, 내 대출 이자는 얼마나 오를까요",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VNDM1Uk55VnE4RXZOeTFzSDZvREoyd284TEdDRFhTRDF3cVh6Y3VFWllEYUZQV3d0X0d2U1BIX1YzRTFGc05ucUNMX2xWblQ3WVE?oc=5",
-   "source": "네이버페이 머니스토리",
-   "published": "2026-11-26T08:02:13+00:00",
-   "topic": "금리"
+   "title": "원/달러 환율, 금리 인상에도 보합권…전날보다 0.5원↓(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LLTFVSE8xTEc5NktUWXVjc1ZNTnc1N0JjRmFBU1dFemhUTG5SQWdVU0JmRGo1cUpTZFNGRlhTeDdTeGlNNTZLa21lRHhobGtrVUtIS0s5amd4XzTSAWBBVV95cUxOM1dlTkZkZWFGMHpkTjE4U0JLdmtOYllmUnIyNHJnY2l2STJmYUM3bDN4NlZJS2hyODgzbG1Nalo4VElCZjlaTFpIUEl2cEt5bUFGRkM3QWRwWVE0dG5yY1k?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-26T07:11:25+00:00",
+   "topic": "환율"
   }
  ]
 }
